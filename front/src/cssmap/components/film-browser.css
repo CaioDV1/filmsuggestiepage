@@ -1,0 +1,53 @@
+.film-browser {
+  display: grid;
+  gap: 22px;
+}
+
+.film-browser__poster-frame,
+.film-browser__detail-frame {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 20px;
+  padding: 18px;
+  box-sizing: border-box;
+}
+
+.film-browser__poster-frame {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 900px;
+}
+
+.film-browser__poster-scroll {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 18px;
+}
+
+.film-browser__poster-frame::-webkit-scrollbar {
+  width: 10px;
+}
+
+.film-browser__poster-frame::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+}
+
+@media (max-width: 1200px) {
+  .film-browser__poster-scroll {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .film-browser__poster-scroll {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+}
+
+@media (max-width: 700px) {
+  .film-browser__poster-scroll {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+}

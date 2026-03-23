@@ -1,0 +1,8890 @@
+[
+  {
+    "title": "Alien",
+    "wikidataId": "Q103569",
+    "imdbId": "tt0078748",
+    "wikidataTitle": "Alien",
+    "year": 1979,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "genres": [
+      "thriller film",
+      "science fiction horror film",
+      "suspense film",
+      "science fiction action film",
+      "body horror film",
+      "fantasy film",
+      "action film",
+      "horror film",
+      "adventure film",
+      "science fiction film",
+      "mystery film",
+      "monster film",
+      "girls with guns"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "John Hurt",
+      "Ian Holm",
+      "Yaphet Kotto",
+      "Veronica Cartwright",
+      "Harry Dean Stanton",
+      "Tom Skerritt",
+      "Bolaji Badejo",
+      "Eddie Powell"
+    ],
+    "runtimeMinutes": 117,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "wikidataId": "Q719915",
+    "imdbId": "tt1170358",
+    "wikidataTitle": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "fantasy film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Peter Jackson",
+      "Orlando Bloom",
+      "Stephen Colbert",
+      "Benedict Cumberbatch",
+      "Billy Connolly",
+      "Martin Freeman",
+      "Dean O'Gorman",
+      "Adam Brown",
+      "Lee Pace",
+      "Aidan Turner",
+      "Manu Bennett",
+      "James Nesbitt",
+      "Sylvester McCoy",
+      "Graham McTavish",
+      "William Kircher",
+      "Luke Evans",
+      "Ken Stott",
+      "Cate Blanchett",
+      "Evangeline Lilly",
+      "Ian McKellen",
+      "Richard Armitage",
+      "Stephen Fry",
+      "Mikael Persbrandt",
+      "Lawrence Makoare",
+      "Jed Brophy",
+      "Stephen Hunter",
+      "John Callen",
+      "Mark Hadlow",
+      "Peter Hambleton",
+      "Ryan Gage",
+      "Michael Mizrahi",
+      "Jabez Olssen",
+      "Terry Notary"
+    ],
+    "runtimeMinutes": 161,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "New Zealand"
+    ]
+  },
+  {
+    "title": "Psycho",
+    "wikidataId": "Q163038",
+    "imdbId": "tt0054215",
+    "wikidataTitle": "Psycho",
+    "year": 1960,
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "genres": [
+      "psychological horror film",
+      "psychological thriller film",
+      "crime drama film",
+      "independent film",
+      "slasher film",
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "suspense film",
+      "crime thriller film",
+      "LGBT-related film",
+      "film based on a novel",
+      "psychological drama film",
+      "drama film",
+      "film noir",
+      "horror film"
+    ],
+    "cast": [
+      "Pat Hitchcock",
+      "Martin Balsam",
+      "Jeanette Nolan",
+      "John Anderson",
+      "John McIntire",
+      "Ted Knight",
+      "Janet Leigh",
+      "Vera Miles",
+      "Frank Albertson",
+      "Simon Oakland",
+      "Vaughn Taylor",
+      "Virginia Gregg",
+      "George Eldredge",
+      "Lurene Tuttle",
+      "John Gavin",
+      "Anthony Perkins",
+      "Alfred Hitchcock"
+    ],
+    "runtimeMinutes": 109,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "wikidataId": "Q23780914",
+    "imdbId": "tt4154756",
+    "wikidataTitle": "Avengers: Infinity War",
+    "year": 2018,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "superhero film"
+    ],
+    "cast": [
+      "Scarlett Johansson",
+      "Robert Downey Jr.",
+      "Samuel L. Jackson",
+      "Chris Evans",
+      "Stan Lee",
+      "William Hurt",
+      "Zoe Saldaña",
+      "Benicio del Toro",
+      "Cobie Smulders",
+      "Gwyneth Paltrow",
+      "Josh Brolin",
+      "Mark Ruffalo",
+      "Tom Hiddleston",
+      "Peter Dinklage",
+      "Idris Elba",
+      "Sean Gunn",
+      "Sebastian Stan",
+      "Chris Pratt",
+      "Anthony Mackie",
+      "Dave Bautista",
+      "Chris Hemsworth",
+      "Elizabeth Olsen",
+      "Paul Bettany",
+      "Robert Pralgo",
+      "Aaron Lazar",
+      "Chadwick Boseman",
+      "Stephen McFeely",
+      "Monique Ganderton",
+      "Karen Gillan",
+      "Q2023710",
+      "Benedict Wong",
+      "Pom Klementieff",
+      "Ross Marquand",
+      "Terry Notary",
+      "Tiffany Espensen",
+      "Benedict Cumberbatch",
+      "Don Cheadle",
+      "Ameenah Kaplan",
+      "Ethan Dizon",
+      "Ariana Greenblatt",
+      "Michael James Shaw",
+      "Blair Jasin",
+      "Michael Anthony Rogers",
+      "Winston Duke",
+      "Letitia Wright",
+      "Isabella Amara",
+      "Jacob Batalon",
+      "Laura Miller",
+      "Tom Vaughan-Lawlor",
+      "Carrie Coon",
+      "Olaniyan Thurmon",
+      "Matthew Zuk",
+      "Danai Gurira",
+      "Florence Kasumba"
+    ],
+    "runtimeMinutes": 149,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Rear Window",
+    "wikidataId": "Q34414",
+    "imdbId": "tt0047396",
+    "wikidataTitle": "Rear Window",
+    "year": 1954,
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "genres": [
+      "drama film",
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "crime thriller film",
+      "detective film",
+      "film based on literature",
+      "psychological drama film",
+      "psychological thriller film",
+      "crime drama film"
+    ],
+    "cast": [
+      "Raymond Burr",
+      "Gig Young",
+      "Bess Flowers",
+      "James Stewart",
+      "Thelma Ritter",
+      "Kathryn Crosby",
+      "Frank Cady",
+      "Ross Bagdasarian Sr.",
+      "Grace Kelly",
+      "Alfred Hitchcock",
+      "Georgine Darcy",
+      "Marla English",
+      "Fred Graham",
+      "Wendell Corey",
+      "Judith Evelyn"
+    ],
+    "runtimeMinutes": 112,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Star Wars: Episode IV – A New Hope",
+    "wikidataId": "Q17738",
+    "imdbId": "tt0076759",
+    "wikidataTitle": "Star Wars: Episode IV – A New Hope",
+    "year": 1977,
+    "directors": [
+      "George Lucas"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "space opera",
+      "science fiction film",
+      "coming-of-age film"
+    ],
+    "cast": [
+      "James Earl Jones",
+      "Mark Hamill",
+      "Peter Cushing",
+      "Phil Brown",
+      "Harrison Ford",
+      "Alec Guinness",
+      "Carrie Fisher",
+      "David Prowse",
+      "Shelagh Fraser",
+      "Peter Mayhew",
+      "Shane Rimmer",
+      "Denis Lawson",
+      "Joe Johnston",
+      "Richard LeParmentier",
+      "Anthony Daniels",
+      "Kenny Baker",
+      "Eddie Byrne",
+      "William Hootkins",
+      "Phil Tippett",
+      "Jack Purvis",
+      "Angus MacInnes",
+      "Garrick Hagon",
+      "Robert Clarke",
+      "Alex McCrindle"
+    ],
+    "runtimeMinutes": 121,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Casablanca",
+    "wikidataId": "Q132689",
+    "imdbId": "tt0034583",
+    "wikidataTitle": "Casablanca",
+    "year": 1943,
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "genres": [
+      "film noir",
+      "war film",
+      "romance film",
+      "flashback film",
+      "drama film"
+    ],
+    "cast": [
+      "Curt Bois",
+      "Paul Panzer",
+      "Peter Lorre",
+      "Ilka Grüning",
+      "Ludwig Stössel",
+      "Hans Heinrich von Twardowski",
+      "Paul Henreid",
+      "Trude Berliner",
+      "Wolfgang Zilzer",
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Conrad Veidt",
+      "Louis V. Arco",
+      "Joy Page",
+      "Frank Puglia",
+      "Claude Rains",
+      "Madeleine LeBeau",
+      "Norma Varden",
+      "Sydney Greenstreet",
+      "George Meeker",
+      "Georges Renavent",
+      "Gerald Oliver Smith",
+      "Gregory Gaye",
+      "Jamiel Hasson",
+      "Torben Meyer",
+      "Barry Norton",
+      "Corinna Mura",
+      "Helmut Dantine",
+      "Dooley Wilson",
+      "Dan Seymour",
+      "S. Z. Sakall",
+      "John Qualen",
+      "Leo White",
+      "Paul Porcasi",
+      "Richard Ryen",
+      "Adrienne D'Ambricourt",
+      "Jean Del Val",
+      "Oliver Blake",
+      "Louis Mercier",
+      "George J. Lewis",
+      "Creighton Hale",
+      "Leonid Kinskey",
+      "Marcel Dalio",
+      "Alberto Morin",
+      "George Dee",
+      "Ellinor Vanderveer",
+      "Frank Mazzola",
+      "Gino Corrado",
+      "Jean De Briac",
+      "William Edmunds",
+      "Leon Belasco"
+    ],
+    "runtimeMinutes": 102,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "wikidataId": "Q164963",
+    "imdbId": "tt0167261",
+    "wikidataTitle": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "fantasy film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Peter Jackson",
+      "Brad Dourif",
+      "Calum Gittins",
+      "Craig Parker",
+      "Elijah Wood",
+      "Robbie Magasiva",
+      "John Bach",
+      "Bruce Allpress",
+      "Sala Baker",
+      "John Rhys-Davies",
+      "Hugo Weaving",
+      "Orlando Bloom",
+      "Cate Blanchett",
+      "Sean Astin",
+      "Sean Bean",
+      "Andy Serkis",
+      "Billy Boyd",
+      "Miranda Otto",
+      "Karl Urban",
+      "Dominic Monaghan",
+      "Liv Tyler",
+      "Nathaniel Lees",
+      "Ian McKellen",
+      "Q171363",
+      "John Leigh",
+      "Stephen Ure",
+      "Bruce Hopkins",
+      "Christopher Lee",
+      "David Wenham",
+      "Bernard Hill",
+      "John Noble"
+    ],
+    "runtimeMinutes": 179,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "New Zealand"
+    ]
+  },
+  {
+    "title": "The Avengers",
+    "wikidataId": "Q182218",
+    "imdbId": "tt0848228",
+    "wikidataTitle": "The Avengers",
+    "year": 2012,
+    "directors": [
+      "Joss Whedon"
+    ],
+    "genres": [
+      "crossover fiction",
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "superhero film",
+      "speculative fiction film"
+    ],
+    "cast": [
+      "Harry Dean Stanton",
+      "Alexis Denisof",
+      "Powers Boothe",
+      "James Eckhouse",
+      "Enver Gjokaj",
+      "Kenneth Tigar",
+      "Warren Kole",
+      "Robert Clohessy",
+      "Romy Rosemont",
+      "Damion Poitier",
+      "Stellan Skarsgård",
+      "Jenny Agutter",
+      "Ashley Johnson",
+      "Tom Hiddleston",
+      "Jeremy Renner",
+      "Jerzy Skolimowski",
+      "Chris Hemsworth",
+      "Clark Gregg",
+      "Robert Downey Jr.",
+      "Samuel L. Jackson",
+      "Jesse Garcia",
+      "Thomas Roberts",
+      "Walter Perez",
+      "Maximiliano Hernández",
+      "Chris Evans",
+      "Stan Lee",
+      "Cobie Smulders",
+      "Josh Cowdery",
+      "Arthur Darbinyan",
+      "Jillian Morgese",
+      "Jamie McShane",
+      "Brent McGee",
+      "Scarlett Johansson",
+      "Gwyneth Paltrow",
+      "Mark Ruffalo",
+      "Michael Zhang",
+      "William Christopher Stephens",
+      "Kelley Robins",
+      "Donald Li",
+      "Tina Benko",
+      "M'laah Kaur Singh",
+      "Dieter Riesle",
+      "Alicia Sixtos",
+      "Robin Swoboda",
+      "Pat Kiernan",
+      "Kirill Nikiforov",
+      "Jeff Wolfe",
+      "Rashmi Rustagi",
+      "Katsumi Komatsu",
+      "Yumiko Komatsu",
+      "Momoko Komatsu",
+      "Fernanda Toker",
+      "Andrea Vecchio"
+    ],
+    "runtimeMinutes": 142,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Vertigo",
+    "wikidataId": "Q202548",
+    "imdbId": "tt0052357",
+    "wikidataTitle": "Vertigo",
+    "year": 1959,
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "genres": [
+      "drama film",
+      "romance film",
+      "mystery film",
+      "melodrama",
+      "thriller film",
+      "psychological drama film",
+      "psychological thriller film"
+    ],
+    "cast": [
+      "Alfred Hitchcock",
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes",
+      "Ellen Corby",
+      "Raymond Bailey",
+      "Bess Flowers",
+      "Lee Patrick",
+      "Tom Helmore",
+      "Henry Jones",
+      "Konstantin Shayne",
+      "Fred Graham"
+    ],
+    "runtimeMinutes": 128,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "wikidataId": "Q165713",
+    "imdbId": "tt0120915",
+    "wikidataTitle": "Star Wars: Episode I – The Phantom Menace",
+    "year": 1999,
+    "directors": [
+      "George Lucas"
+    ],
+    "genres": [
+      "adventure film",
+      "fantasy film",
+      "action film",
+      "science fiction film"
+    ],
+    "cast": [
+      "Keira Knightley",
+      "Liam Neeson",
+      "Terence Stamp",
+      "Natalie Portman",
+      "Steve Speirs",
+      "Silas Carson",
+      "Alan Ruscoe",
+      "Bronagh Gallagher",
+      "Jerome Blake",
+      "Margaret Towner",
+      "Jake Lloyd",
+      "Brian Blessed",
+      "Kenny Baker",
+      "Celia Imrie",
+      "Hugh Quarshie",
+      "Frank Oz",
+      "Dominic West",
+      "Ian McDiarmid",
+      "Ray Park",
+      "Ahmed Best",
+      "Ewan McGregor",
+      "Samuel L. Jackson",
+      "Richard Armitage",
+      "Warwick Davis",
+      "Ralph Brown",
+      "Oliver Ford Davies",
+      "Rick McCallum",
+      "Ben Burtt",
+      "Benedict Freitag",
+      "Sofia Coppola",
+      "Sally Hawkins",
+      "Pernilla August",
+      "Roman Coppola"
+    ],
+    "runtimeMinutes": 133,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "wikidataId": "Q47703",
+    "imdbId": "tt0068646",
+    "wikidataTitle": "The Godfather",
+    "year": 1972,
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "drama film",
+      "epic film",
+      "crime film",
+      "thriller film",
+      "gangster film",
+      "suspense film",
+      "historical film",
+      "crime thriller film",
+      "crime drama film",
+      "historical drama film"
+    ],
+    "cast": [
+      "Marlon Brando",
+      "Sofia Coppola",
+      "Roman Coppola",
+      "John Cazale",
+      "Abe Vigoda",
+      "Sterling Hayden",
+      "Al Pacino",
+      "James Caan",
+      "Angelo Infanti",
+      "Al Martino",
+      "Richard S. Castellano",
+      "Diane Keaton",
+      "Robert Duvall",
+      "Talia Shire",
+      "Morgana King",
+      "Franco Citti",
+      "Lenny Montana",
+      "Gianni Russo",
+      "Vito Scotti",
+      "Richard Bright",
+      "John Marley",
+      "Joe Spinell",
+      "Corrado Gaipa",
+      "Johnny Martino",
+      "Rudy Bond",
+      "Alex Rocco",
+      "Simonetta Stefanelli",
+      "Al Lettieri",
+      "Carmine Coppola",
+      "Victor Rendina",
+      "Tony King",
+      "Tony Giorgio",
+      "Richard Conte",
+      "Saro Urzì",
+      "Ron Gilbert",
+      "Nick Vallelonga",
+      "Salvatore Corsitto",
+      "Tere Livrano",
+      "Julie Gregg",
+      "Raymond Martino"
+    ],
+    "runtimeMinutes": 175,
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ]
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "wikidataId": "Q80379",
+    "imdbId": "tt0903624",
+    "wikidataTitle": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "fantasy film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Peter Jackson",
+      "Hugo Weaving",
+      "Cate Blanchett",
+      "Evangeline Lilly",
+      "Ian McKellen",
+      "Ian Holm",
+      "Benedict Cumberbatch",
+      "Martin Freeman",
+      "Dean O'Gorman",
+      "Adam Brown",
+      "Lee Pace",
+      "Aidan Turner",
+      "Manu Bennett",
+      "James Nesbitt",
+      "Christopher Lee",
+      "Richard Armitage",
+      "Andy Serkis",
+      "Sylvester McCoy",
+      "Elijah Wood",
+      "Graham McTavish",
+      "William Kircher",
+      "Conan Stevens",
+      "Mark Hadlow",
+      "Peter Hambleton",
+      "Terry Notary",
+      "Luke Evans",
+      "Ken Stott",
+      "Barry Humphries",
+      "Bret McKenzie",
+      "John Callen",
+      "John Rawls",
+      "Jed Brophy",
+      "Stephen Hunter"
+    ],
+    "runtimeMinutes": 169,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "New Zealand"
+    ]
+  },
+  {
+    "title": "Jaws",
+    "wikidataId": "Q189505",
+    "imdbId": "tt0073195",
+    "wikidataTitle": "Jaws",
+    "year": 1975,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "suspense film",
+      "survival film",
+      "film based on a novel",
+      "natural horror film",
+      "horror film",
+      "adventure film",
+      "science fiction film",
+      "thriller film",
+      "science fiction horror film"
+    ],
+    "cast": [
+      "Susan Backlinie",
+      "Jeffrey Kramer",
+      "Craig Kingsbury",
+      "Murray Hamilton",
+      "Carl Gottlieb",
+      "Lee Fierro",
+      "Robert Shaw",
+      "Peter Benchley",
+      "Steven Spielberg",
+      "Richard Dreyfuss",
+      "Roy Scheider",
+      "Lorraine Gary"
+    ],
+    "runtimeMinutes": 124,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "wikidataId": "Q127367",
+    "imdbId": "tt0120737",
+    "wikidataTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2002,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "fantasy film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Cate Blanchett",
+      "Dominic Monaghan",
+      "Orlando Bloom",
+      "Hugo Weaving",
+      "Q171363",
+      "Christopher Lee",
+      "Sean Astin",
+      "Craig Parker",
+      "Elijah Wood",
+      "Lawrence Makoare",
+      "Peter Jackson",
+      "Liv Tyler",
+      "Ian McKellen",
+      "Ian Mune",
+      "David Weatherley",
+      "Harry Sinclair",
+      "Peter McKenzie",
+      "John Rhys-Davies",
+      "Bret McKenzie",
+      "Sala Baker",
+      "Bill Johnson",
+      "Sean Bean",
+      "Andy Serkis",
+      "Ian Holm",
+      "Sarah McLeod",
+      "Billy Boyd",
+      "Marton Csokas",
+      "Shane Rangi",
+      "Alan Howard",
+      "Mark Ferguson",
+      "Elizabeth Moody"
+    ],
+    "runtimeMinutes": 208,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "New Zealand"
+    ]
+  },
+  {
+    "title": "The Shining",
+    "wikidataId": "Q186341",
+    "imdbId": "tt0081505",
+    "wikidataTitle": "The Shining",
+    "year": 1980,
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "genres": [
+      "mystery film",
+      "thriller film",
+      "suspense film",
+      "ghost film",
+      "supernatural horror film",
+      "film based on a novel",
+      "psychological drama film",
+      "psychological horror film",
+      "horror film",
+      "drama film",
+      "psychological thriller film"
+    ],
+    "cast": [
+      "Manning Redwood",
+      "Jack Nicholson",
+      "Danny Lloyd",
+      "Tony Burton",
+      "Joe Turkel",
+      "Scatman Crothers",
+      "Barry Dennen",
+      "Philip Stone",
+      "Shelley Duvall",
+      "Vivian Kubrick",
+      "Barry Nelson",
+      "Anne Jackson"
+    ],
+    "runtimeMinutes": 144,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "title": "Star Wars: Episode VI: Return of the Jedi",
+    "wikidataId": "Q181803",
+    "imdbId": "tt0086190",
+    "wikidataTitle": "Star Wars: Episode VI – Return of the Jedi",
+    "year": 1983,
+    "directors": [
+      "Richard Marquand"
+    ],
+    "genres": [
+      "science fiction film",
+      "fantasy film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Warwick Davis",
+      "Carrie Fisher",
+      "David Prowse",
+      "Hayden Christensen",
+      "Mark Hamill",
+      "Frank Oz",
+      "Debbie Lee Carrington",
+      "Hilton McRae",
+      "Jack Purvis",
+      "Paul Brooke",
+      "Richard Driscoll",
+      "Tony Cox",
+      "Michael Pennington",
+      "Denis Lawson",
+      "Jeremy Bulloch",
+      "Femi Taylor",
+      "Michael Gilden",
+      "Caroline Blakiston",
+      "Dermot Crowley",
+      "Ernie Fosselius",
+      "Ian McDiarmid",
+      "Felix Silla",
+      "Billy Dee Williams",
+      "Kenneth Colley",
+      "Harrison Ford",
+      "Alec Guinness",
+      "Deep Roy",
+      "Richard Marquand",
+      "Sebastian Shaw",
+      "Peter Mayhew",
+      "Michael Carter",
+      "Mike Quinn",
+      "Timothy M. Rose",
+      "Phil Fondacaro",
+      "Anthony Daniels",
+      "Kenny Baker"
+    ],
+    "runtimeMinutes": 134,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Taxi Driver",
+    "wikidataId": "Q47221",
+    "imdbId": "tt0075314",
+    "wikidataTitle": "Taxi Driver",
+    "year": 1977,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "action film",
+      "crime film",
+      "neo-noir",
+      "thriller film",
+      "vigilante film",
+      "suspense film",
+      "crime thriller film",
+      "psychological drama film",
+      "psychological thriller film",
+      "police procedural film",
+      "crime drama film",
+      "drama film",
+      "film noir"
+    ],
+    "cast": [
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Harvey Keitel",
+      "Harry Northup",
+      "Peter Savage",
+      "Diahnne Abbott",
+      "Joe Spinell",
+      "Victor Argo",
+      "Harry Fischler",
+      "Leonard Harris",
+      "Robert De Niro",
+      "Martin Scorsese",
+      "Peter Boyle",
+      "Albert Brooks"
+    ],
+    "runtimeMinutes": 114,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Avengers: Endgame",
+    "wikidataId": "Q23781155",
+    "imdbId": "tt4154796",
+    "wikidataTitle": "Avengers: Endgame",
+    "year": 2019,
+    "directors": [
+      "Joe Russo",
+      "Anthony Russo"
+    ],
+    "genres": [
+      "speculative fiction film",
+      "action film",
+      "adventure film",
+      "superhero film"
+    ],
+    "cast": [
+      "Jeremy Renner",
+      "Brie Larson",
+      "Scarlett Johansson",
+      "Gwyneth Paltrow",
+      "Natalie Portman",
+      "Josh Brolin",
+      "Mark Ruffalo",
+      "Dave Bautista",
+      "Chris Hemsworth",
+      "Robert Redford",
+      "William Hurt",
+      "Michael Douglas",
+      "Michelle Pfeiffer",
+      "Evangeline Lilly",
+      "Robert Downey Jr.",
+      "Samuel L. Jackson",
+      "Chris Evans",
+      "Stan Lee",
+      "Zoe Saldaña",
+      "Marisa Tomei",
+      "Tilda Swinton",
+      "Cobie Smulders",
+      "Rene Russo",
+      "Karen Gillan",
+      "Angela Bassett",
+      "Linda Cardellini",
+      "Elizabeth Olsen",
+      "Hayley Atwell",
+      "Benedict Cumberbatch",
+      "Tessa Thompson",
+      "Don Cheadle",
+      "Paul Rudd",
+      "Tom Hiddleston",
+      "Jon Favreau",
+      "John Slattery",
+      "Sean Gunn",
+      "Ken Jeong",
+      "Yvette Nicole Brown",
+      "Sebastian Stan",
+      "Chris Pratt",
+      "Anthony Mackie",
+      "Ty Simpkins",
+      "Danai Gurira",
+      "Hiroyuki Sanada",
+      "James D'Arcy",
+      "Frank Grillo",
+      "Callan Mulvey",
+      "Tom Wisdom",
+      "Jim Starlin",
+      "Q2023710",
+      "Taika Waititi",
+      "Benedict Wong",
+      "Pom Klementieff",
+      "Robert Pralgo",
+      "Aaron Lazar",
+      "Chadwick Boseman",
+      "Monique Ganderton",
+      "Patrick Gorman",
+      "Ross Marquand",
+      "Terry Notary",
+      "Maximiliano Hernández",
+      "Tom Vaughan-Lawlor",
+      "Emma Fuhrmann",
+      "Ameenah Kaplan",
+      "Joe Russo",
+      "John Posey",
+      "Jimmy Ray Pickens",
+      "Brian Schaeffer",
+      "Michael James Shaw",
+      "Jacob Batalon",
+      "Michael A. Cook",
+      "Brent McGee",
+      "Winston Duke",
+      "Letitia Wright",
+      "Sam Hargrave",
+      "Jackson A. Dunn",
+      "Cade Woodward",
+      "Lexi Rabe",
+      "Ben Sakamoto",
+      "Ava Russo",
+      "Lia Mariella Russo",
+      "Julian Russo",
+      "Taylor Patterson",
+      "Agostino Rosalina",
+      "Lee Moore",
+      "Bazlo LeClair",
+      "Loen LeClair",
+      "Matthew Berry",
+      "Joy McAvoy",
+      "John Michael Morris",
+      "Jamie Wedel",
+      "Anthony G. Breed",
+      "Erica Ribley",
+      "Hye Jin Jang",
+      "Russell Bobbitt",
+      "Jack Champion",
+      "James Lin",
+      "Olaniyan Thurmon",
+      "Jennifer Elmore",
+      "Mike Lutz"
+    ],
+    "runtimeMinutes": 181,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "wikidataId": "Q42051",
+    "imdbId": "tt0121766",
+    "wikidataTitle": "Star Wars: Episode III – Revenge of the Sith",
+    "year": 2005,
+    "directors": [
+      "George Lucas"
+    ],
+    "genres": [
+      "dystopian film",
+      "science fiction film",
+      "epic film",
+      "action film",
+      "adventure film",
+      "space opera",
+      "fantasy film"
+    ],
+    "cast": [
+      "Samuel L. Jackson",
+      "Christopher Lee",
+      "Hayden Christensen",
+      "James Earl Jones",
+      "Claudia Karvan",
+      "Frank Oz",
+      "Genevieve O'Reilly",
+      "Anthony Daniels",
+      "Kenny Baker",
+      "Matthew Wood",
+      "Bai Ling",
+      "Keisha Castle-Hughes",
+      "Ian McDiarmid",
+      "Joel Edgerton",
+      "Ahmed Best",
+      "Rena Owen",
+      "Natalie Portman",
+      "George Lucas",
+      "Jimmy Smits",
+      "Ewan McGregor",
+      "Temuera Morrison",
+      "Peter Mayhew",
+      "Oliver Ford Davies",
+      "Wayne Pigram",
+      "Jeremy Bulloch",
+      "Bonnie Piesse",
+      "Jay Laga'aia",
+      "Rebecca Jackson Mendoza",
+      "Amy Allen",
+      "Rohan Nichol",
+      "Bruce Spence",
+      "Christopher Kirby",
+      "Caroline Correa",
+      "Silas Carson"
+    ],
+    "runtimeMinutes": 140,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "wikidataId": "Q919649",
+    "imdbId": "tt2310332",
+    "wikidataTitle": "The Hobbit: The Battle of the Five Armies",
+    "year": 2014,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "adventure film",
+      "fantasy film",
+      "action film"
+    ],
+    "cast": [
+      "Hugo Weaving",
+      "Orlando Bloom",
+      "Cate Blanchett",
+      "Evangeline Lilly",
+      "Ian McKellen",
+      "Christopher Lee",
+      "Richard Armitage",
+      "Stephen Fry",
+      "Debra Wilson",
+      "Ian Holm",
+      "Benedict Cumberbatch",
+      "Billy Connolly",
+      "Martin Freeman",
+      "Graham McTavish",
+      "William Kircher",
+      "Luke Evans",
+      "Ken Stott",
+      "Mikael Persbrandt",
+      "Lawrence Makoare",
+      "Bret McKenzie",
+      "Dean O'Gorman",
+      "Adam Brown",
+      "Lee Pace",
+      "Aidan Turner",
+      "Manu Bennett",
+      "James Nesbitt",
+      "Sylvester McCoy",
+      "Jed Brophy",
+      "Stephen Hunter",
+      "John Callen",
+      "Mark Hadlow",
+      "Peter Hambleton",
+      "Ryan Gage",
+      "Chris Reilly"
+    ],
+    "runtimeMinutes": 144,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "New Zealand"
+    ]
+  },
+  {
+    "title": "Star Wars: Episode V – The Empire Strikes Back",
+    "wikidataId": "Q181795",
+    "imdbId": "tt0080684",
+    "wikidataTitle": "Star Wars: Episode V – The Empire Strikes Back",
+    "year": 1980,
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "genres": [
+      "science fiction film",
+      "epic film",
+      "adventure film",
+      "space opera",
+      "fantasy film",
+      "action film"
+    ],
+    "cast": [
+      "Carrie Fisher",
+      "David Prowse",
+      "Mark Hamill",
+      "Kenny Baker",
+      "Julian Glover",
+      "Peter Mayhew",
+      "Clive Revill",
+      "Frank Oz",
+      "Harrison Ford",
+      "Alec Guinness",
+      "Peter MacDonald",
+      "Denis Lawson",
+      "Jeremy Bulloch",
+      "Jack Purvis",
+      "Christopher Malcolm",
+      "Michael Culver",
+      "Treat Williams",
+      "Billy Dee Williams",
+      "Kenneth Colley",
+      "John Ratzenberger",
+      "Ian McDiarmid",
+      "Marjorie Eaton",
+      "Mark Jones",
+      "Michael Sheard",
+      "John Hollis",
+      "John Morton",
+      "Anthony Daniels"
+    ],
+    "runtimeMinutes": 124,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "wikidataId": "Q131074",
+    "imdbId": "tt0167260",
+    "wikidataTitle": "The Lord of the Rings: The Return of the King",
+    "year": 2004,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "fantasy film",
+      "adventure film"
+    ],
+    "cast": [
+      "Peter Jackson",
+      "John Rhys-Davies",
+      "Hugo Weaving",
+      "Orlando Bloom",
+      "Cate Blanchett",
+      "Karl Urban",
+      "Ian McKellen",
+      "Q171363",
+      "Dominic Monaghan",
+      "Liv Tyler",
+      "Christopher Lee",
+      "Sean Astin",
+      "Sean Bean",
+      "Andy Serkis",
+      "Ian Holm",
+      "Stephen Ure",
+      "Paul Norell",
+      "Thomas Robins",
+      "Bruce Hopkins",
+      "Harry Sinclair",
+      "Bruce Phillips",
+      "Sarah McLeod",
+      "Billy Boyd",
+      "Miranda Otto",
+      "David Wenham",
+      "Bernard Hill",
+      "John Noble",
+      "Marton Csokas",
+      "Shane Rangi",
+      "Brad Dourif",
+      "Lawrence Makoare",
+      "John Bach",
+      "Bret McKenzie",
+      "Joel Tobeck",
+      "Sala Baker",
+      "Ian Hughes",
+      "Alan Howard",
+      "Elijah Wood",
+      "Andrew Lesnie",
+      "Bruce Spence"
+    ],
+    "runtimeMinutes": 250,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "New Zealand"
+    ]
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "wikidataId": "Q14171368",
+    "imdbId": "tt2395427",
+    "wikidataTitle": "Avengers: Age of Ultron",
+    "year": 2015,
+    "directors": [
+      "Joss Whedon"
+    ],
+    "genres": [
+      "science fiction film",
+      "superhero film"
+    ],
+    "cast": [
+      "Jeremy Renner",
+      "Scarlett Johansson",
+      "Josh Brolin",
+      "Mark Ruffalo",
+      "Aaron Taylor-Johnson",
+      "Chris Hemsworth",
+      "Thomas Kretschmann",
+      "Julie Delpy",
+      "Robert Downey Jr.",
+      "Samuel L. Jackson",
+      "Chris Evans",
+      "Stan Lee",
+      "Cobie Smulders",
+      "Andy Serkis",
+      "Stellan Skarsgård",
+      "Linda Cardellini",
+      "Elizabeth Olsen",
+      "Hayley Atwell",
+      "Paul Bettany",
+      "Don Cheadle",
+      "James Spader",
+      "Idris Elba",
+      "Anthony Mackie",
+      "Julia Krynke",
+      "Aaron Himelstein",
+      "Henry Goodman",
+      "Claudia Kim",
+      "Lex Lang",
+      "Julian Bleach",
+      "Vuyo Dabula",
+      "Denis Khoroshko",
+      "Brian Schaeffer",
+      "Dominique Provost-Chalkley",
+      "Hlologelo Ledwaba",
+      "Ian Kay",
+      "Barry Aird",
+      "Jaiden Stafford",
+      "Antony Acheampong",
+      "Chioma Anyanwu",
+      "Imogen Poynton",
+      "Isabella Poynton",
+      "Sunny Yeo",
+      "Namju Go",
+      "Mina Kweon",
+      "Earl T. Kim",
+      "Arthur Lee",
+      "Verity Hewlitt",
+      "Michael Matovski",
+      "Alma Noce",
+      "Riccardo Richetta",
+      "Constanza Ruff",
+      "Monty Mclaren-Clark",
+      "Tony Christian",
+      "Ingvild Deila",
+      "Bentley Kalu",
+      "Ben Sakamoto",
+      "Chris Luca",
+      "Isaac Andrews",
+      "Gareth Kieran Jones",
+      "Chan Woo Lim",
+      "Minhee Yeo",
+      "Christopher Beasley",
+      "Nondumiso Tembe",
+      "Kabelo Thai",
+      "Mandla Gaduka",
+      "Harriet Manamela",
+      "Beulah Hashe",
+      "Musca Kumalo",
+      "Mathapelo September"
+    ],
+    "runtimeMinutes": 141,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "wikidataId": "Q181069",
+    "imdbId": "tt0121765",
+    "wikidataTitle": "Star Wars: Episode II – Attack of the Clones",
+    "year": 2002,
+    "directors": [
+      "George Lucas"
+    ],
+    "genres": [
+      "adventure film",
+      "science fiction film",
+      "fantasy film",
+      "action film"
+    ],
+    "cast": [
+      "Jimmy Smits",
+      "Ewan McGregor",
+      "Samuel L. Jackson",
+      "Christopher Lee",
+      "Hayden Christensen",
+      "Rose Byrne",
+      "Pernilla August",
+      "Leeanna Walsman",
+      "Frank Oz",
+      "Marton Csokas",
+      "Ian McDiarmid",
+      "Jack Thompson",
+      "Joel Edgerton",
+      "Alan Ruscoe",
+      "Bonnie Piesse",
+      "Jay Laga'aia",
+      "Susie Porter",
+      "Leonard L. Thomas",
+      "Ian Watkin",
+      "Ahmed Best",
+      "Rena Owen",
+      "Anthony Daniels",
+      "Verónica Segura",
+      "Kenny Baker",
+      "Temuera Morrison",
+      "Oliver Ford Davies",
+      "Daniel Logan",
+      "Silas Carson",
+      "Matt Doran",
+      "Alethea McGrath",
+      "Andy Secombe",
+      "Natalie Portman",
+      "Liam Neeson"
+    ],
+    "runtimeMinutes": 142,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "wikidataId": "Q172241",
+    "imdbId": "tt0111161",
+    "wikidataTitle": "The Shawshank Redemption",
+    "year": 1995,
+    "directors": [
+      "Frank Darabont"
+    ],
+    "genres": [
+      "prison film",
+      "buddy film",
+      "crime film",
+      "film based on literature",
+      "drama film"
+    ],
+    "cast": [
+      "Clancy Brown",
+      "Morgan Freeman",
+      "Tim Robbins",
+      "William Sadler",
+      "James Whitmore",
+      "Bob Gunton",
+      "Gil Bellows",
+      "Jeffrey DeMunn",
+      "Frank Medrano",
+      "Mark Rolston",
+      "Brian Delate",
+      "Larry Brandenburg",
+      "Alfonso Freeman",
+      "Bill Bolender",
+      "John Horton",
+      "Don McManus",
+      "Paul McCrane",
+      "Jude Ciccolella",
+      "Ned Bellamy",
+      "David Proval"
+    ],
+    "runtimeMinutes": 142,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "wikidataId": "Q163872",
+    "imdbId": "tt0468569",
+    "wikidataTitle": "The Dark Knight",
+    "year": 2008,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "crime thriller film",
+      "drama film",
+      "action film",
+      "crime film",
+      "superhero film",
+      "neo-noir",
+      "thriller film"
+    ],
+    "cast": [
+      "Cillian Murphy",
+      "Eric Roberts",
+      "William Fichtner",
+      "Nestor Carbonell",
+      "Heath Ledger",
+      "Christian Bale",
+      "Morgan Freeman",
+      "Sarah Jayne Dunn",
+      "Nicky Katt",
+      "Nathan Gamble",
+      "Aaron Eckhart",
+      "Maggie Gyllenhaal",
+      "Gary Oldman",
+      "Michael Caine",
+      "Chin Han",
+      "Vincent Riotta",
+      "Colin McFarlane",
+      "Michael Jai White",
+      "Beatrice Rosen",
+      "Anthony Michael Hall",
+      "Edison Chen",
+      "Joshua Harto",
+      "Monique Gabriela Curnen",
+      "Ritchie Coster",
+      "Melinda McGraw",
+      "David Dastmalchian",
+      "Keith Szarabajka",
+      "Richard Dillane",
+      "Tommy Lister Jr."
+    ],
+    "runtimeMinutes": 153,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "wikidataId": "Q104123",
+    "imdbId": "tt0110912",
+    "wikidataTitle": "Pulp Fiction",
+    "year": 1994,
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "suspense film",
+      "crime thriller film",
+      "crime drama film",
+      "drama film",
+      "comedy film",
+      "action film",
+      "independent film",
+      "comedy drama",
+      "crime film",
+      "crime comedy film",
+      "neo-noir",
+      "thriller film",
+      "action thriller",
+      "black comedy film",
+      "gangster film"
+    ],
+    "cast": [
+      "John Travolta",
+      "Steve Buscemi",
+      "Rosanna Arquette",
+      "Uma Thurman",
+      "Peter Greene",
+      "Samuel L. Jackson",
+      "Christopher Walken",
+      "Harvey Keitel",
+      "Bruce Willis",
+      "Quentin Tarantino",
+      "Phil LaMarr",
+      "Kathy Griffin",
+      "Angela Jones",
+      "Paul Calderón",
+      "Brenda Hillhouse",
+      "Bronagh Gallagher",
+      "Ving Rhames",
+      "Eric Stoltz",
+      "Maria de Medeiros",
+      "Amanda Plummer",
+      "Lawrence Bender",
+      "Burr Steers",
+      "Dick Miller",
+      "Joseph Pilato",
+      "Emil Sitka",
+      "Frank Whaley",
+      "Alexis Arquette",
+      "Julia Sweeney",
+      "Karen Maruyama",
+      "Linda Kaye",
+      "Tim Roth",
+      "Michael Gilden",
+      "Stephen Hibbert",
+      "Duane Whitaker",
+      "Susan Griffiths"
+    ],
+    "runtimeMinutes": 154,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "wikidataId": "Q190050",
+    "imdbId": "tt0137523",
+    "wikidataTitle": "Fight Club",
+    "year": 1999,
+    "directors": [
+      "David Fincher"
+    ],
+    "genres": [
+      "psychological thriller",
+      "thriller film",
+      "flashback film",
+      "film based on a novel",
+      "drama film"
+    ],
+    "cast": [
+      "Holt McCallany",
+      "Stuart Blumberg",
+      "Christina Cabot",
+      "Phil Hawn",
+      "Paul Carafotes",
+      "Ezra Buzzington",
+      "Carl Ciarfalio",
+      "Pat McNamara",
+      "Rachel Singer",
+      "Charlie Dell",
+      "Brad Pitt",
+      "Edward Norton",
+      "Zach Grenier",
+      "Meat Loaf",
+      "Jared Leto",
+      "Brian Tochi",
+      "Bob Stephenson",
+      "Helena Bonham Carter",
+      "Matt Winston",
+      "David Lee Smith",
+      "David Andrews",
+      "Eddie Hargitay",
+      "Tim de Zarn",
+      "Eugenie Bondurant",
+      "Michael Shamus Wiles",
+      "Paul Dillon",
+      "Eion Bailey",
+      "Richmond Arquette"
+    ],
+    "runtimeMinutes": 139,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Germany",
+      "United States"
+    ]
+  },
+  {
+    "title": "The Godfather Part II",
+    "wikidataId": "Q184768",
+    "imdbId": "tt0071562",
+    "wikidataTitle": "The Godfather Part II",
+    "year": 1974,
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "epic film",
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "gangster film",
+      "suspense film",
+      "flashback film",
+      "film based on a novel",
+      "police procedural film",
+      "crime drama film",
+      "historical drama film",
+      "historical film",
+      "crime thriller film"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Carmen Argenziano",
+      "James Caan",
+      "Diane Keaton",
+      "Al Pacino",
+      "Talia Shire",
+      "Robert Duvall",
+      "Sofia Coppola",
+      "G. D. Spradlin",
+      "Richard Matheson",
+      "Al Martino",
+      "Erica Yohn",
+      "Lee Strasberg",
+      "Danny Aiello",
+      "Harry Dean Stanton",
+      "Bruno Kirby",
+      "Morgana King",
+      "Amerigo Tot",
+      "Michael V. Gazzo",
+      "Abe Vigoda",
+      "Roger Corman",
+      "Gianni Russo",
+      "Roman Coppola",
+      "John Cazale",
+      "Sho Kosugi",
+      "Fay Spain",
+      "Maria Carta",
+      "Kathleen Beller",
+      "Marianna Hill",
+      "Gastone Moschin",
+      "Richard Bright",
+      "Joe Spinell",
+      "Ezio Flagello",
+      "Troy Donahue",
+      "Julie Gregg",
+      "Oreste Baldini",
+      "Ivonne Coll",
+      "Frank Sivero",
+      "Dominic Chianese",
+      "Leopoldo Trieste",
+      "Peter Donat",
+      "William Bowers",
+      "John Aprea",
+      "Tom Dahlgren",
+      "Francesca De Sapio",
+      "Tom Rosqui",
+      "Carmine Caridi",
+      "Tere Livrano"
+    ],
+    "runtimeMinutes": 165,
+    "languages": [
+      "English",
+      "Sicilian"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Schindler's List",
+    "wikidataId": "Q483941",
+    "imdbId": "tt0108052",
+    "wikidataTitle": "Schindler's List",
+    "year": 1993,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "war drama",
+      "historical drama film",
+      "drama film",
+      "war film",
+      "biographical film",
+      "epic film",
+      "anti-war film",
+      "historical film",
+      "film based on a novel",
+      "psychological drama film"
+    ],
+    "cast": [
+      "Wilhelm Manske",
+      "Norbert Weisser",
+      "Ben Kingsley",
+      "Caroline Goodall",
+      "Alexander Held",
+      "Thomas Morris",
+      "August Schmölzer",
+      "Ludger Pistor",
+      "Martin Semmelrogge",
+      "Jochen Nickel",
+      "Andrzej Seweryn",
+      "Beatrice Macola",
+      "Branko Lustig",
+      "Małgorzata Gebel",
+      "Bettina Kupfer",
+      "Mark Ivanir",
+      "Embeth Davidtz",
+      "Ralph Fiennes",
+      "Maciej Kozłowski",
+      "Liam Neeson",
+      "Maria Peszek",
+      "Götz Otto",
+      "Erwin Leder",
+      "Edward Linde-Lubaszenko",
+      "Jonathan Sagall",
+      "Friedrich von Thun",
+      "Rami Heuberger",
+      "Wojciech Klata",
+      "Jerzy Nowak",
+      "Joachim Paul Assböck",
+      "Grzegorz Damięcki",
+      "Tadeusz Bradecki",
+      "Ezra Dagan",
+      "Elina Löwensohn",
+      "Agnieszka Wagner",
+      "Anna Mucha",
+      "Paweł Deląg",
+      "Jan Jurewicz",
+      "Geno Lechner",
+      "Alexander Strobele",
+      "Hans-Jörg Assmann",
+      "Hans-Michael Rehberg",
+      "Henryk Bista",
+      "Maja Ostaszewska",
+      "Razia Israeli",
+      "Miri Fabian",
+      "Daniel Del Ponte",
+      "Grzegorz Kwas",
+      "Tadeusz Huk",
+      "Piotr Polk",
+      "Olaf Lubaszenko"
+    ],
+    "runtimeMinutes": 195,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Goodfellas",
+    "wikidataId": "Q42047",
+    "imdbId": "tt0099685",
+    "wikidataTitle": "Goodfellas",
+    "year": 1990,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "biographical film",
+      "crime film",
+      "thriller film",
+      "gangster film",
+      "suspense film",
+      "historical film",
+      "crime thriller film",
+      "film based on book",
+      "police procedural film",
+      "crime drama film",
+      "historical drama film",
+      "drama film",
+      "period drama film"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Samuel L. Jackson",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Michael Imperioli",
+      "Peter Onorati",
+      "Vincent Gallo",
+      "Lorraine Bracco",
+      "Beau Starr",
+      "Tony Darrow",
+      "Charles Scorsese",
+      "Tony Sirico",
+      "Jerry Vale",
+      "Debi Mazar",
+      "Illeana Douglas",
+      "Tobin Bell",
+      "Catherine Scorsese",
+      "Paul Sorvino",
+      "Victor Colicchio",
+      "Isiah Whitlock Jr.",
+      "Melissa Prophet",
+      "Paul Herman",
+      "Bo Dietl",
+      "Bob Golub",
+      "Chuck Low",
+      "Frank Vincent",
+      "Vincent Pastore",
+      "Tony Lip",
+      "Henny Youngman",
+      "Kevin Corrigan",
+      "Frank Sivero",
+      "Louis Eppolito",
+      "Welker White",
+      "Gina Mastrogiacomo",
+      "Marianne Leone Cooper",
+      "Elizabeth Whitcraft",
+      "Frank DiLeo",
+      "Suzanne Shepherd",
+      "Mike Starr",
+      "Frank Adonis",
+      "Frank Pellegrino",
+      "Tony Powers",
+      "Margo Winkler",
+      "Nick Vallelonga",
+      "Edward McDonald",
+      "Robbie Vinton",
+      "Joseph Bono",
+      "Christopher Serrone"
+    ],
+    "runtimeMinutes": 146,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Inception",
+    "wikidataId": "Q25188",
+    "imdbId": "tt1375666",
+    "wikidataTitle": "Inception",
+    "year": 2010,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "heist film",
+      "mystery film",
+      "thriller film",
+      "science fiction action film"
+    ],
+    "cast": [
+      "Marion Cotillard",
+      "Leonardo DiCaprio",
+      "Michael Caine",
+      "Elliot Page",
+      "Joseph Gordon-Levitt",
+      "Virgile Bramly",
+      "Yuji Okumoto",
+      "Tohoru Masamune",
+      "Ken Watanabe",
+      "Pete Postlethwaite",
+      "Talulah Riley",
+      "Earl Cameron",
+      "Silvie Laguna",
+      "Cillian Murphy",
+      "Tom Hardy",
+      "Lukas Haas",
+      "Dileep Rao",
+      "Taylor Geare",
+      "Claire Geare",
+      "Tom Berenger",
+      "Michael Gaston"
+    ],
+    "runtimeMinutes": 148,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Matrix",
+    "wikidataId": "Q83495",
+    "imdbId": "tt0133093",
+    "wikidataTitle": "The Matrix",
+    "year": 1999,
+    "directors": [
+      "Lilly Wachowski",
+      "Lana Wachowski"
+    ],
+    "genres": [
+      "post-apocalyptic film",
+      "superhero film",
+      "thriller film",
+      "action thriller",
+      "dystopian film",
+      "film noir",
+      "action film",
+      "science fiction film",
+      "cyberpunk"
+    ],
+    "cast": [
+      "David Aston",
+      "Joe Pantoliano",
+      "Gloria Foster",
+      "Carrie-Anne Moss",
+      "Laurence Fishburne",
+      "Bill Young",
+      "Robert Taylor",
+      "Hugo Weaving",
+      "Keanu Reeves",
+      "Marcus Chong",
+      "Matt Doran",
+      "Ada Nicodemou",
+      "Steve Dodd",
+      "Anthony Ray Parker",
+      "Paul Goddard",
+      "Belinda McClory",
+      "Julian Arahanga",
+      "Jeremy Ball",
+      "Rowan Witt"
+    ],
+    "runtimeMinutes": 136,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Australia"
+    ]
+  },
+  {
+    "title": "Parasite",
+    "wikidataId": "Q61448040",
+    "imdbId": "tt6751668",
+    "wikidataTitle": "Parasite",
+    "year": 2019,
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "genres": [
+      "black comedy",
+      "comedy drama",
+      "thriller film"
+    ],
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Choi Woo-shik",
+      "Cho Yeo-jeong",
+      "Park Seo-joon",
+      "Jung Ziso",
+      "Park So-dam",
+      "Lee Jung-eun",
+      "Park Myung-hoon",
+      "Jang Hye-jin",
+      "Jeong E-suh"
+    ],
+    "runtimeMinutes": 132,
+    "languages": [
+      "Korean"
+    ],
+    "countries": [
+      "South Korea"
+    ]
+  },
+  {
+    "title": "Spirited Away",
+    "wikidataId": "Q155653",
+    "imdbId": "tt0245429",
+    "wikidataTitle": "Spirited Away",
+    "year": 2001,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "genres": [
+      "drama film",
+      "fantasy film",
+      "children's film",
+      "fantasy anime and manga",
+      "isekai",
+      "coming-of-age film",
+      "supernatural anime"
+    ],
+    "cast": [],
+    "runtimeMinutes": 125,
+    "languages": [
+      "Japanese"
+    ],
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "wikidataId": "Q13417189",
+    "imdbId": "tt0816692",
+    "wikidataTitle": "Interstellar",
+    "year": 2014,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "drama film",
+      "adventure film",
+      "science fiction film",
+      "hard science fiction",
+      "thriller film",
+      "dystopian film",
+      "time-travel film"
+    ],
+    "cast": [
+      "Anne Hathaway",
+      "Mackenzie Foy",
+      "Josh Stewart",
+      "Michael Caine",
+      "Matt Damon",
+      "Matthew McConaughey",
+      "David Gyasi",
+      "Collette Wolfe",
+      "Jeff Hephner",
+      "Elyes Gabel",
+      "Topher Grace",
+      "John Lithgow",
+      "Wes Bentley",
+      "William Devane",
+      "Timothée Chalamet",
+      "Francis X. McCarthy",
+      "Ellen Burstyn",
+      "David Oyelowo",
+      "Jessica Chastain",
+      "Brooke Smith",
+      "Casey Affleck",
+      "Leah Cairns",
+      "Bill Irwin"
+    ],
+    "runtimeMinutes": 169,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Green Mile",
+    "wikidataId": "Q208263",
+    "imdbId": "tt0120689",
+    "wikidataTitle": "The Green Mile",
+    "year": 1999,
+    "directors": [
+      "Frank Darabont"
+    ],
+    "genres": [
+      "drama film",
+      "fantasy film",
+      "prison film",
+      "flashback film",
+      "magic realist film"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "William Sadler",
+      "Doug Hutchison",
+      "Scotty Leavenworth",
+      "Dabbs Greer",
+      "Bill McKinney",
+      "Brent Briscoe",
+      "Michael Jeter",
+      "Paula Malcomson",
+      "Jeffrey DeMunn",
+      "Eve Brent",
+      "Michael Clarke Duncan",
+      "Gary Sinise",
+      "Patricia Clarkson",
+      "Bonnie Hunt",
+      "David Morse",
+      "James Cromwell",
+      "Graham Greene",
+      "Harry Dean Stanton",
+      "Barry Pepper",
+      "Sam Rockwell"
+    ],
+    "runtimeMinutes": 189,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Departed",
+    "wikidataId": "Q172975",
+    "imdbId": "tt0407887",
+    "wikidataTitle": "The Departed",
+    "year": 2006,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "drama film",
+      "epic film",
+      "crime film",
+      "mystery film",
+      "neo-noir",
+      "thriller film",
+      "gangster film",
+      "suspense film",
+      "crime thriller film",
+      "crime drama film"
+    ],
+    "cast": [
+      "Vera Farmiga",
+      "Kristen Dalton",
+      "Ray Winstone",
+      "Anthony Anderson",
+      "James Badge Dale",
+      "Mark Rolston",
+      "David O'Hara",
+      "Leonardo DiCaprio",
+      "Jack Nicholson",
+      "Mark Wahlberg",
+      "Billy Smith",
+      "Kevin Corrigan",
+      "Robert Wahlberg",
+      "Alec Baldwin",
+      "Matt Damon",
+      "Martin Sheen",
+      "John McConnell",
+      "John Cenatiempo"
+    ],
+    "runtimeMinutes": 151,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ]
+  },
+  {
+    "title": "Whiplash",
+    "wikidataId": "Q15648198",
+    "imdbId": "tt2582802",
+    "wikidataTitle": "Whiplash",
+    "year": 2014,
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "genres": [
+      "drama film",
+      "musical film"
+    ],
+    "cast": [
+      "Melissa Benoist",
+      "J. K. Simmons",
+      "Miles Teller",
+      "Paul Reiser",
+      "April Grace",
+      "Michelle Ruff",
+      "Chris Mulkey",
+      "Wendee Lee",
+      "Jayson Blair",
+      "Henry G. Sanders",
+      "Max Kasch",
+      "Austin Stowell",
+      "Kavita Patil",
+      "Kofi Siriboe",
+      "Michael Cohen",
+      "Suanne Spoke"
+    ],
+    "runtimeMinutes": 106,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "wikidataId": "Q1757288",
+    "imdbId": "tt1392190",
+    "wikidataTitle": "Mad Max: Fury Road",
+    "year": 2015,
+    "directors": [
+      "George Miller"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "post-apocalyptic film",
+      "dystopian film"
+    ],
+    "cast": [
+      "Richard Norton",
+      "Charlize Theron",
+      "Tom Hardy",
+      "Rosie Huntington-Whiteley",
+      "Zoë Kravitz",
+      "Riley Keough",
+      "Nicholas Hoult",
+      "Abbey Lee",
+      "Megan Gale",
+      "Angus Sampson",
+      "Gillian Jones",
+      "John Howard",
+      "Josh Helman",
+      "iOTA",
+      "Melissa Jaffer",
+      "Richard Carter",
+      "Lee Perry",
+      "Courtney Eaton",
+      "Nathan Jones",
+      "Joy Smithers",
+      "Hugh Keays-Byrne"
+    ],
+    "runtimeMinutes": 120,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Australia",
+      "United States"
+    ]
+  },
+  {
+    "title": "Aliens",
+    "wikidataId": "Q104814",
+    "imdbId": "tt0090605",
+    "wikidataTitle": "Aliens",
+    "year": 1986,
+    "directors": [
+      "James Cameron"
+    ],
+    "genres": [
+      "action film",
+      "horror film",
+      "adventure film",
+      "war film",
+      "science fiction film",
+      "monster film",
+      "thriller film",
+      "science fiction horror film",
+      "suspense film",
+      "science fiction action film"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Bill Paxton",
+      "Michael Biehn",
+      "Jenette Goldstein",
+      "Lance Henriksen",
+      "Tom Woodruff Jr.",
+      "Mark Rolston",
+      "Daniel Kash",
+      "Al Matthews",
+      "William Hope",
+      "Ricco Ross",
+      "Mac McDonald",
+      "Colette Hiller",
+      "Jay Benedict",
+      "Tip Tipping",
+      "Cynthia Dale Scott",
+      "Paul Reiser",
+      "Carrie Henn"
+    ],
+    "runtimeMinutes": 137,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "wikidataId": "Q170564",
+    "imdbId": "tt0103064",
+    "wikidataTitle": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "directors": [
+      "James Cameron"
+    ],
+    "genres": [
+      "post-apocalyptic film",
+      "girls with guns",
+      "thriller film",
+      "black comedy film",
+      "suspense film",
+      "chase film",
+      "dystopian film",
+      "science fiction action film",
+      "time-travel film",
+      "drama film",
+      "comedy film",
+      "cyberpunk",
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "techno-thriller"
+    ],
+    "cast": [
+      "Linda Hamilton",
+      "Nikki Cox",
+      "Michael Biehn",
+      "Jenette Goldstein",
+      "Robert Patrick",
+      "Edward Furlong",
+      "Arnold Schwarzenegger",
+      "Q361610",
+      "Cástulo Guerra",
+      "Earl Boen",
+      "Joe Morton",
+      "William Wisher Jr.",
+      "S. Epatha Merkerson",
+      "Danny Cooksey",
+      "Michael Edwards",
+      "Don Lake",
+      "Scott Shaw"
+    ],
+    "runtimeMinutes": 137,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Jurassic Park",
+    "wikidataId": "Q167726",
+    "imdbId": "tt0107290",
+    "wikidataTitle": "Jurassic Park",
+    "year": 1993,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "thriller film"
+    ],
+    "cast": [
+      "Richard Attenborough",
+      "Jeff Goldblum",
+      "Samuel L. Jackson",
+      "Sam Neill",
+      "Richard Kiley",
+      "Martin Ferrero",
+      "Wayne Knight",
+      "Laura Dern",
+      "Ariana Richards",
+      "Joseph Mazzello",
+      "BD Wong",
+      "Dean Cundey",
+      "Bob Peck",
+      "Miguel Sandoval",
+      "Gerald R. Molen",
+      "Cameron Thor"
+    ],
+    "runtimeMinutes": 127,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "wikidataId": "Q134773",
+    "imdbId": "tt0109830",
+    "wikidataTitle": "Q134773",
+    "year": 1994,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "genres": [
+      "drama film",
+      "comedy film",
+      "tragicomedy",
+      "historical drama",
+      "flashback film",
+      "coming-of-age film",
+      "American football film",
+      "romantic comedy film"
+    ],
+    "cast": [
+      "John Lennon",
+      "Tom Hanks",
+      "Gerald Ford",
+      "Hanna R. Hall",
+      "Kurt Russell",
+      "Mykelti Williamson",
+      "Bobby Richardson",
+      "Michael Jace",
+      "Gary Sinise",
+      "Sally Field",
+      "Dick Cavett",
+      "Mary Ellen Trainor",
+      "Grand L. Bush",
+      "David Brisbin",
+      "Al Harrington",
+      "Brett Rice",
+      "Christopher Jones",
+      "Peter Dobson",
+      "Stephen Bridgewater",
+      "Joe Stefanelli",
+      "Nora Dunfee",
+      "Michael Conner Humphreys",
+      "Geoffrey Blake",
+      "Joe Alaskey",
+      "Sonny Shroyer",
+      "Jacqueline Lovell",
+      "Q272972",
+      "Sam Anderson",
+      "John Worsham",
+      "Alexander Zemeckis",
+      "Logan Livingston Gomez",
+      "Vanessa Roth",
+      "Hallie D'Amore",
+      "Daniel C. Striepeke",
+      "W. Benson Terry",
+      "Kevin Davis",
+      "Michael Burgess",
+      "Frank Geyer",
+      "Rob Landry",
+      "Jason McGuire",
+      "Emily Carey",
+      "E. A. Hanks",
+      "John Voldstad",
+      "Afemo Omilami",
+      "Pete Auster",
+      "Ed Davis",
+      "Ben Waddel",
+      "Tyler Long",
+      "Grady Bowman",
+      "Bruce Lucvia",
+      "Kirk Ward",
+      "Siobhan Fallon Hogan",
+      "Haley Joel Osment",
+      "Ione M. Telech",
+      "Christine Seabrook",
+      "Angela Lomas",
+      "Timothy Record",
+      "Deborah McTeer",
+      "Don Fischer",
+      "Rebecca Williams",
+      "Aaron Izbicki",
+      "Steven Griffith",
+      "William Acy \"Billy\" Roberson Jr",
+      "Scott Oliver",
+      "John William Galt",
+      "Hilary Chaplain",
+      "Tim Perry",
+      "Paul Raczkowski",
+      "Valentine",
+      "Tiffany Salerno",
+      "Marla Sucharetza",
+      "Aloysius Gigl",
+      "Kitty K. Green",
+      "Matt Wallace",
+      "Danté McCarthy",
+      "Matt Rebenkoff",
+      "Peter Bannon",
+      "Joe Washington",
+      "Kevin Mangan",
+      "Fay Genens",
+      "Daniel J. Gillooly",
+      "Calvin Gadsden",
+      "Jed Gillin",
+      "Bob Harks",
+      "Kenneth Bevington",
+      "Michael Flannery",
+      "Bob Penny",
+      "John Randall",
+      "Margo Moorer",
+      "Michael McFall",
+      "Eric Underwood",
+      "Steve DeRelian",
+      "Isabel Rose",
+      "Jay Ross",
+      "Harold G. Herthum",
+      "George Kelly",
+      "Paulie DiCocco",
+      "Mike Jolly",
+      "Michael Kemmerling",
+      "Lenny Herb",
+      "Charles Boswell",
+      "Timothy McNeil",
+      "Jeffrey Winner",
+      "Russ Wilson",
+      "Richard D'Alessandro",
+      "Dick Stilwell",
+      "Gary Robinson",
+      "Marlena Smalls",
+      "Byron Minns",
+      "Bonnie Ann Burgess",
+      "Natalie Hendrix",
+      "Chiffonye Cobb",
+      "Lonnie Hamilton",
+      "Teresa Denton",
+      "Mark Matheisen",
+      "Jack Bowden",
+      "Lazarus Jackson",
+      "Juan Singleton",
+      "Michael Mattison"
+    ],
+    "runtimeMinutes": 142,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Saving Private Ryan",
+    "wikidataId": "Q165817",
+    "imdbId": "tt0120815",
+    "wikidataTitle": "Saving Private Ryan",
+    "year": 1998,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "war film",
+      "drama film",
+      "action film"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Dale Dye",
+      "Joerg Stadler",
+      "Matt Damon",
+      "Vin Diesel",
+      "Paul Giamatti",
+      "Giovanni Ribisi",
+      "Adam Goldberg",
+      "Jeremy Davies",
+      "Edward Burns",
+      "Barry Pepper",
+      "Nathan Fillion",
+      "Tom Sizemore",
+      "Dennis Farina",
+      "Ted Danson",
+      "Kathleen Byron",
+      "Andrew Scott",
+      "Harrison Young",
+      "John de Lancie",
+      "Ryan Hurst",
+      "Dylan Bruno",
+      "Corey Johnson",
+      "John Sharian",
+      "Max Martini",
+      "Leland Orser",
+      "Rolf Saxon",
+      "Tom Hanks",
+      "Harve Presnell",
+      "David Wohl",
+      "Demetri Goritsas",
+      "Stéphane Cornicard",
+      "Amanda Boxer",
+      "Erich Redman",
+      "Martin Hub",
+      "Glenn Wrage"
+    ],
+    "runtimeMinutes": 169,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Gladiator",
+    "wikidataId": "Q128518",
+    "imdbId": "tt0172495",
+    "wikidataTitle": "Gladiator",
+    "year": 2000,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "adventure film",
+      "epic film",
+      "sword-and-sandal film",
+      "melodrama",
+      "historical film",
+      "historical drama film"
+    ],
+    "cast": [
+      "Ralf Moeller",
+      "Richard Harris",
+      "Russell Crowe",
+      "Oliver Reed",
+      "Giannina Facio",
+      "Omid Djalili",
+      "Tony Curran",
+      "Djimon Hounsou",
+      "David Hemmings",
+      "Tomas Arana",
+      "David Schofield",
+      "John Shrapnel",
+      "Sven-Ole Thorsen",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Derek Jacobi",
+      "Giorgio Cantarini",
+      "Tommy Flanagan",
+      "John Quinn",
+      "Spencer Treat Clark",
+      "Allan Corduner",
+      "David Bailie",
+      "Adam Levy"
+    ],
+    "runtimeMinutes": 155,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Shutter Island",
+    "wikidataId": "Q210364",
+    "imdbId": "tt1130884",
+    "wikidataTitle": "Shutter Island",
+    "year": 2010,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "horror film",
+      "adventure film",
+      "crime film",
+      "mystery film",
+      "neo-noir",
+      "thriller film",
+      "suspense film",
+      "crime thriller film",
+      "film based on a novel",
+      "psychological drama film",
+      "psychological horror film",
+      "psychological thriller film",
+      "crime drama film"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Michelle Williams",
+      "Ben Kingsley",
+      "Max von Sydow",
+      "Patricia Clarkson",
+      "Emily Mortimer",
+      "Robin Bartlett",
+      "Jackie Earle Haley",
+      "Elias Koteas",
+      "Aidan Mitchell",
+      "Ted Levine",
+      "Ruby Jerins",
+      "Christopher Denham",
+      "John Carroll Lynch",
+      "Jill Larson",
+      "Joseph Sikora",
+      "Curtiss Cook"
+    ],
+    "runtimeMinutes": 139,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "wikidataId": "Q133654",
+    "imdbId": "tt0102926",
+    "wikidataTitle": "The Silence of the Lambs",
+    "year": 1991,
+    "directors": [
+      "Jonathan Demme"
+    ],
+    "genres": [
+      "crime drama film",
+      "thriller film",
+      "crime thriller film",
+      "LGBT-related film",
+      "film based on a novel",
+      "psychological drama film",
+      "psychological horror film",
+      "psychological thriller film",
+      "police procedural film",
+      "drama film",
+      "horror film",
+      "crime film"
+    ],
+    "cast": [
+      "Diane Baker",
+      "Chris Isaak",
+      "Roger Corman",
+      "Charles Napier",
+      "Jodie Foster",
+      "George A. Romero",
+      "Anthony Hopkins",
+      "Dan Butler",
+      "Anthony Heald",
+      "Obba Babatundé",
+      "Frankie Faison",
+      "Scott Glenn",
+      "Brooke Smith",
+      "Ron Vawter",
+      "Bill Miller",
+      "Stuart Rudin",
+      "Harry Northup",
+      "Ted Levine",
+      "Kasi Lemmons",
+      "Daniel von Bargen",
+      "Tracey Walter",
+      "Brent Hinkley",
+      "Chuck Aber",
+      "Ella Scott Lynch",
+      "Kenneth Utt",
+      "Paul Lazar",
+      "Darla",
+      "Tommy Lafitte",
+      "Cynthia Ettinger",
+      "Adelle Lutz"
+    ],
+    "runtimeMinutes": 118,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Se7en",
+    "wikidataId": "Q190908",
+    "imdbId": "tt0114369",
+    "wikidataTitle": "Seven",
+    "year": 1995,
+    "directors": [
+      "David Fincher"
+    ],
+    "genres": [
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "buddy cop film",
+      "suspense film",
+      "chase film",
+      "crime thriller film",
+      "detective film",
+      "psychological drama film",
+      "psychological horror film",
+      "psychological thriller film",
+      "police procedural film",
+      "crime drama film",
+      "drama film",
+      "action film",
+      "horror film",
+      "adventure film",
+      "independent film"
+    ],
+    "cast": [
+      "Kevin Spacey",
+      "Gwyneth Paltrow",
+      "Brad Pitt",
+      "Richard Roundtree",
+      "Andrew Kevin Walker",
+      "Michael Massee",
+      "Morgan Freeman",
+      "John C. McGinley",
+      "R. Lee Ermey",
+      "Richard Schiff",
+      "Mark Boone Junior",
+      "Richmond Arquette",
+      "Leland Orser",
+      "Alfonso Freeman",
+      "Daniel Zacapa",
+      "Peter Crombie",
+      "Hawthorne James",
+      "Endre Hules",
+      "Richard Portnow",
+      "Charles S. Dutton",
+      "Haris Savides"
+    ],
+    "runtimeMinutes": 127,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Prestige",
+    "wikidataId": "Q46551",
+    "imdbId": "tt0482571",
+    "wikidataTitle": "The Prestige",
+    "year": 2006,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "drama film",
+      "fantasy film",
+      "mystery film",
+      "thriller film",
+      "magic realist film"
+    ],
+    "cast": [
+      "David Bowie",
+      "Scarlett Johansson",
+      "Christian Bale",
+      "Michael Caine",
+      "Q129591",
+      "Andy Serkis",
+      "Piper Perabo",
+      "Rebecca Hall",
+      "Dawn Upshaw",
+      "Daniel Davis",
+      "Jodi Bianca Wise",
+      "Roger Rees",
+      "Enn Reitel",
+      "Sam Menning",
+      "Ezra Buzzington",
+      "Jim Piddock",
+      "Kevin Will",
+      "Jamie Harris",
+      "W. Morgan Sheppard",
+      "Mark Ryan",
+      "Ron Perkins",
+      "Ricky Jay",
+      "James Otis",
+      "Chao-Li Chi",
+      "Christopher Neame",
+      "Edward Hibbert"
+    ],
+    "runtimeMinutes": 125,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Memento",
+    "wikidataId": "Q190525",
+    "imdbId": "tt0209144",
+    "wikidataTitle": "Q190525",
+    "year": 2000,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "drama film",
+      "film noir",
+      "mystery film",
+      "neo-noir",
+      "horror film",
+      "crime film",
+      "film based on literature",
+      "thriller film",
+      "flashback film"
+    ],
+    "cast": [
+      "Carrie-Anne Moss",
+      "Jorja Fox",
+      "Harriet Sansom Harris",
+      "Joe Pantoliano",
+      "Stephen Tobolowsky",
+      "Marianne Muellerleile",
+      "Larry Holden",
+      "Callum Keith Rennie",
+      "Mark Boone Junior",
+      "Thomas Lennon",
+      "Guy Pearce"
+    ],
+    "runtimeMinutes": 113,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Django Unchained",
+    "wikidataId": "Q571032",
+    "imdbId": "tt1853728",
+    "wikidataTitle": "Django Unchained",
+    "year": 2012,
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "Western film",
+      "action film",
+      "Revisionist Western",
+      "comedy drama",
+      "blaxploitation film",
+      "historical film",
+      "historical drama film",
+      "drama film"
+    ],
+    "cast": [
+      "Jonah Hill",
+      "Lewis Smith",
+      "Walton Goggins",
+      "Michael Parks",
+      "Louise Stratten",
+      "Gary Grubbs",
+      "Don Stroud",
+      "John Jarratt",
+      "Bruce Dern",
+      "Misty Upham",
+      "James Remar",
+      "Rex Linn",
+      "Robert Carradine",
+      "Quentin Tarantino",
+      "Leonardo DiCaprio",
+      "Christoph Waltz",
+      "Tom Savini",
+      "Jamie Foxx",
+      "Ned Bellamy",
+      "Dennis Christopher",
+      "Evan Parke",
+      "Ted Neeley",
+      "Lee Horsley",
+      "Laura Cayouette",
+      "Tom Wopat",
+      "Michael Bacall",
+      "Cooper Huckabee",
+      "John McConnell",
+      "Nichole Galicia",
+      "Ato Essandoh",
+      "David Steen",
+      "Jarrod Bunch",
+      "J. D. Evermore",
+      "Danièle Watts",
+      "Sammi Rotibi",
+      "Dana Gourrier",
+      "Samuel L. Jackson",
+      "Zoë Bell",
+      "Amber Tamblyn",
+      "Kerry Washington",
+      "Don Johnson",
+      "Franco Nero",
+      "Michael Bowen",
+      "Russ Tamblyn",
+      "M.C. Gainey",
+      "James Parks",
+      "James Russo",
+      "Johnny Otto",
+      "Mark Ulano",
+      "Sharon Pierre-Louis",
+      "Jamal Duff",
+      "Jake Garber"
+    ],
+    "runtimeMinutes": 165,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "wikidataId": "Q1392744",
+    "imdbId": "tt0993846",
+    "wikidataTitle": "The Wolf of Wall Street",
+    "year": 2014,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "drama film",
+      "comedy film",
+      "biographical film",
+      "epic film",
+      "comedy drama",
+      "crime film",
+      "black comedy film",
+      "film based on book",
+      "crime drama film"
+    ],
+    "cast": [
+      "Fran Lebowitz",
+      "Leonardo DiCaprio",
+      "Martin Klebba",
+      "Matthew McConaughey",
+      "Jean Dujardin",
+      "Joanna Lumley",
+      "Spike Jonze",
+      "Rob Reiner",
+      "Jon Favreau",
+      "Jonah Hill",
+      "Ethan Suplee",
+      "Jaleel White",
+      "Kyle Chandler",
+      "Jon Bernthal",
+      "Christine Ebersole",
+      "Reginald VelJohnson",
+      "Jake Hoffman",
+      "Margot Robbie",
+      "Robert Clohessy",
+      "Katarina Čas",
+      "Jordan Belfort",
+      "Kenneth Choi",
+      "Shea Whigham",
+      "Ashlie Atkinson",
+      "Bo Dietl",
+      "Cristin Milioti",
+      "P. J. Byrne",
+      "Henry Zebrowski",
+      "Matthew Rauch",
+      "Thomas Middleditch",
+      "Jeremy Bobb",
+      "Ward Horton",
+      "Emily Tremaine",
+      "Catherine Curtin",
+      "Stephanie Kurtzuba",
+      "Zach Miko"
+    ],
+    "runtimeMinutes": 180,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Truman Show",
+    "wikidataId": "Q214801",
+    "imdbId": "tt0120382",
+    "wikidataTitle": "The Truman Show",
+    "year": 1998,
+    "directors": [
+      "Peter Weir"
+    ],
+    "genres": [
+      "drama film",
+      "comedy film",
+      "tragicomedy",
+      "science fiction film",
+      "dystopian fiction",
+      "dystopian film"
+    ],
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Philip Baker Hall",
+      "Don Taylor",
+      "Noah Emmerich",
+      "Marc Macaulay",
+      "Terry Camilleri",
+      "Natascha McElhone",
+      "Holland Taylor",
+      "Harry Shearer",
+      "Peter Krause",
+      "Heidi Schanz",
+      "John Roselius",
+      "Marcia DeBonis",
+      "O-Lan Jones",
+      "Una Damon",
+      "Kevin D. Ross",
+      "Philip Glass",
+      "Paul Giamatti",
+      "Laura Linney",
+      "Brian Delate",
+      "Yuji Okumoto",
+      "Dona Hardy"
+    ],
+    "runtimeMinutes": 99,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Lion King",
+    "wikidataId": "Q36479",
+    "imdbId": "tt0110357",
+    "wikidataTitle": "The Lion King",
+    "year": 1994,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "genres": [
+      "drama film",
+      "adventure film",
+      "musical film",
+      "family film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 88,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Toy Story",
+    "wikidataId": "Q171048",
+    "imdbId": "tt0114709",
+    "wikidataTitle": "Toy Story",
+    "year": 1995,
+    "directors": [
+      "John Lasseter"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "adventure film",
+      "buddy film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 81,
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Finding Nemo",
+    "wikidataId": "Q132863",
+    "imdbId": "tt0266543",
+    "wikidataTitle": "Finding Nemo",
+    "year": 2003,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "genres": [
+      "comedy film",
+      "adventure film",
+      "family film",
+      "children's film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 100,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Up",
+    "wikidataId": "Q174811",
+    "imdbId": "tt1049413",
+    "wikidataTitle": "Up",
+    "year": 2009,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "genres": [
+      "adventure film",
+      "fantasy film",
+      "comedy film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 96,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Coco",
+    "wikidataId": "Q5815826",
+    "imdbId": "tt2380307",
+    "wikidataTitle": "Coco",
+    "year": 2017,
+    "directors": [
+      "Adrian Molina",
+      "Lee Unkrich"
+    ],
+    "genres": [
+      "musical film",
+      "family film",
+      "melodrama",
+      "detective film",
+      "ghost film",
+      "adventure film",
+      "drama film",
+      "fantasy film",
+      "comedy film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 109,
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Mexico"
+    ]
+  },
+  {
+    "title": "The Incredibles",
+    "wikidataId": "Q213326",
+    "imdbId": "tt0317705",
+    "wikidataTitle": "The Incredibles",
+    "year": 2004,
+    "directors": [
+      "Brad Bird"
+    ],
+    "genres": [
+      "comedy film",
+      "action film",
+      "family film",
+      "superhero film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 111,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "wikidataId": "Q170035",
+    "imdbId": "tt0382932",
+    "wikidataTitle": "Ratatouille",
+    "year": 2007,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "genres": [
+      "buddy film",
+      "comedy drama",
+      "flashback film",
+      "coming-of-age film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 111,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "WALL-E",
+    "wikidataId": "Q104905",
+    "imdbId": "tt0910970",
+    "wikidataTitle": "WALL-E",
+    "year": 2008,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "genres": [
+      "romance film",
+      "post-apocalyptic film",
+      "children's film",
+      "adventure science fiction",
+      "dystopian film",
+      "flashback film",
+      "romantic comedy film",
+      "comedy film",
+      "adventure film",
+      "science fiction film",
+      "science fiction comedy"
+    ],
+    "cast": [],
+    "runtimeMinutes": 98,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "La La Land",
+    "wikidataId": "Q20856802",
+    "imdbId": "tt3783958",
+    "wikidataTitle": "La La Land",
+    "year": 2016,
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "genres": [
+      "drama film",
+      "comedy film",
+      "musical film",
+      "comedy drama",
+      "romance film",
+      "dance film"
+    ],
+    "cast": [
+      "J. K. Simmons",
+      "Ryan Gosling",
+      "Rosemarie DeWitt",
+      "Trevor Lissauer",
+      "John Legend",
+      "Emma Stone",
+      "Josh Pence",
+      "Jason Fuchs",
+      "Sonoya Mizuno",
+      "Callie Hernandez",
+      "Tom Everett Scott",
+      "Meagen Fay",
+      "Finn Wittrock",
+      "Candice Coke"
+    ],
+    "runtimeMinutes": 128,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "wikidataId": "Q3521099",
+    "imdbId": "tt2278388",
+    "wikidataTitle": "The Grand Budapest Hotel",
+    "year": 2014,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "genres": [
+      "romance film",
+      "drama film",
+      "comedy film",
+      "tragicomedy",
+      "adventure film",
+      "crime film"
+    ],
+    "cast": [
+      "Waris Ahluwalia",
+      "Florian Lukas",
+      "Edward Norton",
+      "Jude Law",
+      "Owen Wilson",
+      "F. Murray Abraham",
+      "Tony Revolori",
+      "Lucas Hedges",
+      "Marko Dyrlich",
+      "Bernhard Kremser",
+      "Ralph Fiennes",
+      "Bill Murray",
+      "Claudia Jung",
+      "Lisa Kreuzer",
+      "Daniel Steiner",
+      "Tom Wilkinson",
+      "Neal Huff",
+      "Saoirse Ronan",
+      "Léa Seydoux",
+      "Willem Dafoe",
+      "Jason Schwartzman",
+      "Mathieu Amalric",
+      "Fisher Stevens",
+      "Bob Balaban",
+      "Karl Markovics",
+      "Wallace Wolodarsky",
+      "Hannes Wegener",
+      "Georg Tryphon",
+      "Steffen Scheumann",
+      "Golo Euler",
+      "Hans-Martin Stier",
+      "Heike Hanold-Lynch",
+      "Hendrik von Bültzingslöwen",
+      "Volker Zack",
+      "Matthias Matschke",
+      "Michael Benthin",
+      "Michaela Caspar",
+      "Milton Welsh",
+      "Sabine Urig",
+      "Larry Pine",
+      "Giselda Volodi",
+      "Gabriel Rush",
+      "Rainer Reiners",
+      "Philipp Sonntag",
+      "Adrien Brody",
+      "Jeff Goldblum",
+      "Harvey Keitel",
+      "Tilda Swinton"
+    ],
+    "runtimeMinutes": 99,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Germany",
+      "United States"
+    ]
+  },
+  {
+    "title": "Her",
+    "wikidataId": "Q788822",
+    "imdbId": "tt1798709",
+    "wikidataTitle": "Her",
+    "year": 2013,
+    "directors": [
+      "Spike Jonze"
+    ],
+    "genres": [
+      "drama film",
+      "comedy film",
+      "science fiction film",
+      "romantic comedy",
+      "arthouse science fiction film"
+    ],
+    "cast": [
+      "Bill Hader",
+      "Scarlett Johansson",
+      "Brian Cox",
+      "Joaquin Phoenix",
+      "Marian Saastad Ottesen",
+      "Alia Janine",
+      "Jeremy Rabb",
+      "Olivia Wilde",
+      "Rooney Mara",
+      "Kristen Wiig",
+      "Soko",
+      "Spike Jonze",
+      "Portia Doubleday",
+      "Luka Jones",
+      "Caroline Jaden Stussi",
+      "Pamela Roylance",
+      "Steve Zissis",
+      "Lisa Renee Pitts",
+      "Sam Jaeger",
+      "Amy Adams",
+      "Chris Pratt",
+      "Matt Letscher",
+      "Katherine Boecher",
+      "Belinda Gosbee",
+      "Laura Meadows",
+      "Marc Abbink",
+      "Lisa Cohen",
+      "Claudia Choi"
+    ],
+    "runtimeMinutes": 126,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Arrival",
+    "wikidataId": "Q20382729",
+    "imdbId": "tt2543164",
+    "wikidataTitle": "Arrival",
+    "year": 2016,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "genres": [
+      "science fiction film",
+      "mystery film",
+      "thriller film",
+      "drama film"
+    ],
+    "cast": [
+      "Amy Adams",
+      "Tzi Ma",
+      "Frank Schorpion",
+      "Mark O'Brien",
+      "Sangita Patel",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg"
+    ],
+    "runtimeMinutes": 116,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Blade Runner",
+    "wikidataId": "Q184843",
+    "imdbId": "tt0083658",
+    "wikidataTitle": "Blade Runner",
+    "year": 1982,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "genres": [
+      "cyberpunk",
+      "film noir",
+      "action film",
+      "science fiction film",
+      "crime film",
+      "tech noir",
+      "neo-noir",
+      "thriller film",
+      "crime thriller film",
+      "dystopian film",
+      "crime drama film",
+      "drama film"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Daryl Hannah",
+      "Rutger Hauer",
+      "Edward James Olmos",
+      "Sean Young",
+      "Joanna Cassidy",
+      "James Hong",
+      "M. Emmet Walsh",
+      "Brion James",
+      "Morgan Paull",
+      "William Sanderson",
+      "Joe Turkel",
+      "Hy Pyke"
+    ],
+    "runtimeMinutes": 112,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ]
+  },
+  {
+    "title": "Blade Runner 2049",
+    "wikidataId": "Q21500755",
+    "imdbId": "tt1856101",
+    "wikidataTitle": "Blade Runner 2049",
+    "year": 2017,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "genres": [
+      "thriller film",
+      "dystopian film",
+      "drama film",
+      "cyberpunk",
+      "action film",
+      "science fiction film",
+      "mystery film",
+      "neo-noir"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Hiam Abbass",
+      "Ryan Gosling",
+      "Edward James Olmos",
+      "Dave Bautista",
+      "Tómas Lemarquis",
+      "Wood Harris",
+      "Sylvia Hoeks",
+      "Sallie Harmsen",
+      "Sean Young",
+      "Carla Juri",
+      "Barkhad Abdi",
+      "David Dastmalchian",
+      "Q272972",
+      "Elarica Johnson",
+      "Jared Leto",
+      "Lennie James",
+      "Ana de Armas",
+      "Mackenzie Davis"
+    ],
+    "runtimeMinutes": 164,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Hungary",
+      "Canada",
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Back to the Future",
+    "wikidataId": "Q91540",
+    "imdbId": "tt0088763",
+    "wikidataTitle": "Back to the Future",
+    "year": 1985,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "genres": [
+      "comedy film",
+      "adventure film",
+      "science fiction film",
+      "teen film",
+      "speculative fiction film",
+      "time-travel film"
+    ],
+    "cast": [
+      "Claudia Wells",
+      "Christopher Lloyd",
+      "Frances Lee McCain",
+      "Billy Zane",
+      "Lea Thompson",
+      "Crispin Glover",
+      "George Buck Flower",
+      "Thomas F. Wilson",
+      "George DiCenzo",
+      "Norman Alden",
+      "Casey Siemaszko",
+      "Courtney Gains",
+      "Marc McClure",
+      "Jason Marin",
+      "Michael J. Fox",
+      "Wendie Jo Sperber",
+      "Huey Lewis",
+      "Maia Brewton",
+      "Huey Lewis and the News",
+      "Jason Hervey",
+      "James Tolkan",
+      "Will Hare",
+      "Donald Fullilove",
+      "J. J. Cohen"
+    ],
+    "runtimeMinutes": 115,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Ghostbusters",
+    "wikidataId": "Q108745",
+    "imdbId": "tt0087332",
+    "wikidataTitle": "Ghostbusters",
+    "year": 1984,
+    "directors": [
+      "Ivan Reitman"
+    ],
+    "genres": [
+      "comedy horror",
+      "adventure film",
+      "science fiction film",
+      "buddy film",
+      "monster film",
+      "ghost film",
+      "action film",
+      "fantasy film",
+      "comedy film"
+    ],
+    "cast": [
+      "Bill Murray",
+      "Sigourney Weaver",
+      "Dan Aykroyd",
+      "Alice Drummond",
+      "Larry King",
+      "Annie Potts",
+      "Harold Ramis",
+      "Rick Moranis",
+      "David Margulies",
+      "Reginald VelJohnson",
+      "Ernie Hudson",
+      "William Atherton",
+      "Timothy Carhart",
+      "Michael Ensign",
+      "Slavitza Jovan",
+      "Kymberly Herrin"
+    ],
+    "runtimeMinutes": 105,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Halloween",
+    "wikidataId": "Q221103",
+    "imdbId": "tt0077651",
+    "wikidataTitle": "Halloween",
+    "year": 1979,
+    "directors": [
+      "John Carpenter"
+    ],
+    "genres": [
+      "teen horror film",
+      "drama film",
+      "horror film",
+      "independent film",
+      "slasher film",
+      "crime film",
+      "teen film",
+      "mystery film",
+      "thriller film",
+      "crime thriller film",
+      "crime drama film"
+    ],
+    "cast": [
+      "Nancy Kyes",
+      "P. J. Soles",
+      "Charles Cyphers",
+      "Kyle Richards",
+      "Arthur Malet",
+      "Tony Moran",
+      "Donald Pleasence",
+      "Nick Castle",
+      "Nancy Stephens",
+      "Gabriel Cattand",
+      "John Carpenter",
+      "Jamie Lee Curtis",
+      "John Michael Graham"
+    ],
+    "runtimeMinutes": 92,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "A Quiet Place",
+    "wikidataId": "Q39070473",
+    "imdbId": "tt6644200",
+    "wikidataTitle": "A Quiet Place",
+    "year": 2018,
+    "directors": [
+      "John Krasinski"
+    ],
+    "genres": [
+      "horror film",
+      "science fiction film",
+      "post-apocalyptic film",
+      "thriller film",
+      "apocalyptic film"
+    ],
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Leon Russom",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "runtimeMinutes": 90,
+    "languages": [
+      "American Sign Language",
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "wikidataId": "Q185888",
+    "imdbId": "tt1285016",
+    "wikidataTitle": "The Social Network",
+    "year": 2010,
+    "directors": [
+      "David Fincher"
+    ],
+    "genres": [
+      "biographical film",
+      "trial film",
+      "film based on book",
+      "drama film"
+    ],
+    "cast": [
+      "Rooney Mara",
+      "Malese Jow",
+      "Aaron Sorkin",
+      "Max Minghella",
+      "Armie Hammer",
+      "Joseph Mazzello",
+      "Rashida Jones",
+      "Andrew Garfield",
+      "Justin Timberlake",
+      "Brenda Song",
+      "Jessica Franz",
+      "Natalina Maggio",
+      "Jared Hillman",
+      "Patrick Mapel",
+      "Steve Sires",
+      "Emma Fitzpatrick",
+      "Mark Saul",
+      "Nancy Linari",
+      "Pamela Roylance",
+      "Caitlin Gerard",
+      "Riley Voelkel",
+      "Dakota Johnson",
+      "Barry Livingston",
+      "Douglas Urbanski",
+      "James Shanklin",
+      "Dustin Fitzsimons",
+      "Felisha Terrell",
+      "Wallace Langham",
+      "Caleb Landry Jones",
+      "Josh Pence",
+      "Jesse Heiman",
+      "David Selby",
+      "Trevor Wright",
+      "Shelby Young",
+      "Mariah Bonner",
+      "John Getz",
+      "Adina Porter",
+      "Cherilyn Wilson",
+      "Q219512",
+      "Scott Lawrence"
+    ],
+    "runtimeMinutes": 121,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Pianist",
+    "wikidataId": "Q150804",
+    "imdbId": "tt0253474",
+    "wikidataTitle": "The Pianist",
+    "year": 2002,
+    "directors": [
+      "Roman Polanski"
+    ],
+    "genres": [
+      "historical film",
+      "drama film",
+      "war film",
+      "biographical film",
+      "musical film"
+    ],
+    "cast": [
+      "Wanja Mues",
+      "Axel Prahl",
+      "Adrien Brody",
+      "Joachim Paul Assböck",
+      "Udo Kroschwald",
+      "Emilia Fox",
+      "Katarzyna Figura",
+      "Maja Ostaszewska",
+      "Joanna Brodzik",
+      "Frank Finlay",
+      "Cyril Shaps",
+      "Zbigniew Zamachowski",
+      "Thomas Kretschmann",
+      "Maureen Lipman",
+      "Popeck",
+      "Richard Ridings",
+      "Lech Mackiewicz",
+      "Etel Szyc",
+      "Zofia Czerwińska",
+      "Andrzej Pieczyński",
+      "Ronan Vibert",
+      "Q7156186",
+      "Roy Smiles",
+      "Valentine Pelka",
+      "Krzysztof Pieczyński",
+      "Paweł Burczyk",
+      "Piotr Siejka",
+      "Daniel Caltagirone",
+      "John Keogh",
+      "Morgane Polanski",
+      "Frank Köbe",
+      "Julia Rayner",
+      "Jessica Kate Meyer",
+      "Ruth Platt",
+      "Andrzej Walden",
+      "Adam Bauman",
+      "Andrzej Szenajch",
+      "Tadeusz Wojtych",
+      "Zbigniew Waleryś",
+      "Andrzej Blumenfeld",
+      "Andrzej Zielinski",
+      "Dorota Liliental",
+      "Jarosław Kopaczewski",
+      "Katarzyna Bargiełowska",
+      "Nina Franoszek",
+      "Michał Żebrowski",
+      "Ed Stoppard",
+      "Peter Rappenglück",
+      "Thomas Lawinky",
+      "Andrew Tiernan",
+      "Borys Szyc",
+      "Cezary Kosiński",
+      "Marian Dziędziel"
+    ],
+    "runtimeMinutes": 149,
+    "languages": [
+      "French",
+      "English",
+      "German",
+      "Russian"
+    ],
+    "countries": [
+      "United States",
+      "France",
+      "United Kingdom",
+      "Poland",
+      "Germany"
+    ]
+  },
+  {
+    "title": "A Beautiful Mind",
+    "wikidataId": "Q164103",
+    "imdbId": "tt0268978",
+    "wikidataTitle": "A Beautiful Mind",
+    "year": 2001,
+    "directors": [
+      "Ron Howard"
+    ],
+    "genres": [
+      "drama film",
+      "biographical film",
+      "film based on book"
+    ],
+    "cast": [
+      "Anthony Rapp",
+      "Josh Lucas",
+      "Jennifer Connelly",
+      "Ron Howard",
+      "Ed Harris",
+      "Russell Crowe",
+      "Christopher Plummer",
+      "Bryce Dallas Howard",
+      "Paul Bettany",
+      "Adam Goldberg",
+      "Judd Hirsch",
+      "Vivien Cardone",
+      "Austin Pendleton",
+      "Jason Gray-Stanford",
+      "Roy Thinnes",
+      "Rance Howard",
+      "Josh Pais",
+      "Reggie Austin",
+      "Alessandro Tanaka"
+    ],
+    "runtimeMinutes": 135,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Good Will Hunting",
+    "wikidataId": "Q193835",
+    "imdbId": "tt0119217",
+    "wikidataTitle": "Good Will Hunting",
+    "year": 1997,
+    "directors": [
+      "Gus Van Sant"
+    ],
+    "genres": [
+      "romance film",
+      "coming-of-age film",
+      "drama film"
+    ],
+    "cast": [
+      "Minnie Driver",
+      "Casey Affleck",
+      "Ben Affleck",
+      "Harmony Korine",
+      "Cole Hauser",
+      "Vik Sahay",
+      "George Plimpton",
+      "Scott William Winters",
+      "Alison Folland",
+      "Robin Williams",
+      "Matt Damon",
+      "Stellan Skarsgård"
+    ],
+    "runtimeMinutes": 126,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "No Country for Old Men",
+    "wikidataId": "Q183081",
+    "imdbId": "tt0477348",
+    "wikidataTitle": "No Country for Old Men",
+    "year": 2008,
+    "directors": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "genres": [
+      "crime film",
+      "mystery film",
+      "neo-noir",
+      "thriller film",
+      "gangster film",
+      "suspense film",
+      "crime thriller film",
+      "film based on a novel",
+      "psychological drama film",
+      "contemporary Western film",
+      "psychological thriller film",
+      "crime drama film",
+      "drama film",
+      "Western film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Josh Brolin",
+      "Javier Bardem",
+      "Tommy Lee Jones",
+      "Woody Harrelson",
+      "Kelly Macdonald",
+      "Beth Grant",
+      "Barry Corbin",
+      "Garret Dillahunt",
+      "Caleb Landry Jones",
+      "Kathy Lamkin",
+      "Stephen Root",
+      "Jason Douglas",
+      "Rodger Boyce",
+      "Tess Harper",
+      "Gene Jones",
+      "Rutherford Cravens",
+      "Thomas Kopache",
+      "Josh Blaylock"
+    ],
+    "runtimeMinutes": 122,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "There Will Be Blood",
+    "wikidataId": "Q244315",
+    "imdbId": "tt0469494",
+    "wikidataTitle": "There Will Be Blood",
+    "year": 2008,
+    "directors": [
+      "Paul Thomas Anderson"
+    ],
+    "genres": [
+      "Western film",
+      "independent film",
+      "Revisionist Western",
+      "period drama film",
+      "epic film",
+      "thriller film",
+      "historical film",
+      "film based on a novel",
+      "historical drama film",
+      "drama film"
+    ],
+    "cast": [
+      "Daniel Day-Lewis",
+      "Ciarán Hinds",
+      "Paul Dano",
+      "Barry Del Sherman",
+      "Kevin J. O'Connor",
+      "Paul F. Tompkins",
+      "David Warshofsky",
+      "Jim Meskimen",
+      "Russell Harvard",
+      "Dillon Freasier",
+      "Jim Downey",
+      "Kevin Breznahan"
+    ],
+    "runtimeMinutes": 158,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Prisoners",
+    "wikidataId": "Q3404003",
+    "imdbId": "tt1392214",
+    "wikidataTitle": "Prisoners",
+    "year": 2013,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "genres": [
+      "drama film",
+      "crime film",
+      "vigilante film"
+    ],
+    "cast": [
+      "Melissa Leo",
+      "Terrence Howard",
+      "Paul Dano",
+      "Dennis Christopher",
+      "Len Cariou",
+      "Dylan Minnette",
+      "David Dastmalchian",
+      "Zoë Soul Paris",
+      "Q129591",
+      "Jake Gyllenhaal",
+      "Wayne Duvall",
+      "Viola Davis",
+      "Maria Bello"
+    ],
+    "runtimeMinutes": 153,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Gone Girl",
+    "wikidataId": "Q14920425",
+    "imdbId": "tt2267998",
+    "wikidataTitle": "Gone Girl",
+    "year": 2014,
+    "directors": [
+      "David Fincher"
+    ],
+    "genres": [
+      "drama film",
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "crime thriller film",
+      "detective film",
+      "film based on a novel"
+    ],
+    "cast": [
+      "David Clennon",
+      "Sela Ward",
+      "Rosamund Pike",
+      "Missi Pyle",
+      "Kim Dickens",
+      "Lee Norris",
+      "Kathleen Rose Perkins",
+      "Patrick Fugit",
+      "Casey Wilson",
+      "Ben Affleck",
+      "Neil Patrick Harris",
+      "Scoot McNairy",
+      "Boyd Holbrook",
+      "Tyler Perry",
+      "Emily Ratajkowski",
+      "Lisa Banes",
+      "Carrie Coon",
+      "Lola Kirke",
+      "Jamie McShane"
+    ],
+    "runtimeMinutes": 149,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "wikidataId": "Q174284",
+    "imdbId": "tt0082971",
+    "wikidataTitle": "Raiders of the Lost Ark",
+    "year": 1981,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "action film",
+      "treasure hunt film"
+    ],
+    "cast": [
+      "John Rhys-Davies",
+      "Wolf Kahler",
+      "Harrison Ford",
+      "Karen Allen",
+      "Tutte Lemkow",
+      "Alfred Molina",
+      "Denholm Elliott",
+      "Frank Marshall",
+      "Anthony Higgins",
+      "Pat Roach",
+      "Dennis Muren",
+      "Don Fellows",
+      "George Harris",
+      "William Hootkins",
+      "Paul Freeman",
+      "Ronald Lacey",
+      "Vic Tablian",
+      "Sonny Caldinez",
+      "Eddie Tagoe",
+      "Terry Richards"
+    ],
+    "runtimeMinutes": 115,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "wikidataId": "Q46717",
+    "imdbId": "tt0325980",
+    "wikidataTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "genres": [
+      "pirate film",
+      "treasure hunt film",
+      "fantasy film",
+      "comedy film",
+      "action film",
+      "swashbuckler film",
+      "adventure film"
+    ],
+    "cast": [
+      "Orlando Bloom",
+      "Martin Klebba",
+      "Geoffrey Rush",
+      "Robbie Gee",
+      "Zoe Saldaña",
+      "Jack Davenport",
+      "Guy Siner",
+      "Damian O'Hare",
+      "Greg Ellis",
+      "Trevor Goddard",
+      "Angus Barnett",
+      "David Bailie",
+      "Vanessa Branch",
+      "Johnny Depp",
+      "Keira Knightley",
+      "Vince Lozano",
+      "Dylan Smith",
+      "Michael Berry Jr.",
+      "Jonathan Pryce",
+      "Kevin McNally",
+      "Mackenzie Crook",
+      "Lee Arenberg",
+      "Isaac C. Singleton Jr.",
+      "Lucinda Dryzek",
+      "Treva Etienne"
+    ],
+    "runtimeMinutes": 137,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "wikidataId": "Q102438",
+    "imdbId": "tt0241527",
+    "wikidataTitle": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
+    "directors": [
+      "Chris Columbus"
+    ],
+    "genres": [
+      "fantasy film",
+      "adventure film",
+      "children's film",
+      "speculative fiction film",
+      "film based on a novel"
+    ],
+    "cast": [
+      "Rupert Grint",
+      "John Cleese",
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Fiona Shaw",
+      "Bonnie Wright",
+      "Tom Felton",
+      "Alan Rickman",
+      "Richard Harris",
+      "Warwick Davis",
+      "Matthew Lewis",
+      "Maggie Smith",
+      "John Hurt",
+      "Zoë Wanamaker",
+      "Julie Walters",
+      "Julianne Hough",
+      "Geraldine Somerville",
+      "Tamara Taylor",
+      "Alfred Enoch",
+      "Verne Troyer",
+      "Elizabeth Spriggs",
+      "Danielle Tabor",
+      "Robbie Coltrane",
+      "Richard Griffiths",
+      "Devon Murray",
+      "David Bradley",
+      "Harry Melling",
+      "Ian Hart",
+      "Sean Biggerstaff",
+      "Adrian Rawlins",
+      "Chris Rankin",
+      "Joshua Herdman",
+      "Jamie Waylett",
+      "Luke Youngblood",
+      "Richard Bremmer",
+      "Leslie Phillips",
+      "Terence Bayler",
+      "Eleanor Columbus",
+      "David Holmes",
+      "Derek Hough",
+      "James Phelps",
+      "Nina Young",
+      "Simon Fisher-Becker",
+      "Ray Fearon",
+      "Derek Deadman",
+      "Jean Southern",
+      "Leilah Sutherland",
+      "David Brett",
+      "Miles Richardson",
+      "Paul Marc Davis",
+      "Stefan Pejic",
+      "Will Theakston",
+      "Oliver Phelps",
+      "Emily Dale",
+      "Richard Reid",
+      "Scott Fern"
+    ],
+    "runtimeMinutes": 152,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "wikidataId": "Q102448",
+    "imdbId": "tt0304141",
+    "wikidataTitle": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2022,
+    "directors": [
+      "Alfonso Cuarón"
+    ],
+    "genres": [
+      "werewolf film",
+      "film based on a novel",
+      "time-travel film",
+      "children's film",
+      "fantasy film",
+      "adventure film"
+    ],
+    "cast": [
+      "Rupert Grint",
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Fiona Shaw",
+      "Tom Felton",
+      "Alan Rickman",
+      "Warwick Davis",
+      "Matthew Lewis",
+      "Emma Thompson",
+      "Mark Williams",
+      "Adrian Rawlins",
+      "Robert Hardy",
+      "Chris Rankin",
+      "Joshua Herdman",
+      "Alfred Enoch",
+      "Timothy Spall",
+      "Robbie Coltrane",
+      "Richard Griffiths",
+      "Devon Murray",
+      "Gary Oldman",
+      "Bonnie Wright",
+      "Michael Gambon",
+      "David Thewlis",
+      "Julie Walters",
+      "Pam Ferris",
+      "Miriam Margolyes",
+      "Jamie Waylett",
+      "Paul Whitehouse",
+      "James Phelps",
+      "Maggie Smith",
+      "Julie Christie",
+      "David Bradley",
+      "Harry Melling",
+      "Jimmy Gardner",
+      "Lee Ingleby",
+      "Lenny Henry",
+      "Geraldine Somerville",
+      "Dawn French",
+      "Jim Tavaré",
+      "Edward Randell",
+      "Genevieve Gaunt",
+      "Sitara Shah",
+      "Oliver Phelps",
+      "Alex Crockford",
+      "Jennifer Smith"
+    ],
+    "runtimeMinutes": 142,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Citizen Kane",
+    "wikidataId": "Q24815",
+    "imdbId": "tt0033467",
+    "wikidataTitle": "Citizen Kane",
+    "year": 1941,
+    "directors": [
+      "Orson Welles"
+    ],
+    "genres": [
+      "fiction film",
+      "flashback film",
+      "drama film",
+      "biographical film",
+      "mystery film"
+    ],
+    "cast": [
+      "Gregg Toland",
+      "Dorothy Comingore",
+      "Agnes Moorehead",
+      "Alan Ladd",
+      "Ruth Warrick",
+      "Everett Sloane",
+      "William Alland",
+      "Paul Stewart",
+      "Erskine Sanford",
+      "Harry Shannon",
+      "Sonny Bupp",
+      "Buddy Swan",
+      "Walter Sande",
+      "Georgia Backus",
+      "Gino Corrado",
+      "Orson Welles",
+      "Joseph Cotten",
+      "Gus Schilling",
+      "Fortunio Bonanova",
+      "George Coulouris",
+      "Ray Collins",
+      "Philip Van Zandt",
+      "Charles Bennett",
+      "Roland Winters"
+    ],
+    "runtimeMinutes": 119,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "wikidataId": "Q103474",
+    "imdbId": "tt0062622",
+    "wikidataTitle": "2001: A Space Odyssey",
+    "year": 1968,
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "genres": [
+      "epic film",
+      "mystery film",
+      "space adventure film",
+      "arthouse science fiction film"
+    ],
+    "cast": [
+      "Arthur C. Clarke",
+      "Vivian Kubrick",
+      "Margaret Tyzack",
+      "Douglas Rain",
+      "Robert Beatty",
+      "Gary Lockwood",
+      "Keir Dullea",
+      "Ed Bishop",
+      "Leonard Rossiter",
+      "Kenneth Kendall",
+      "John Ashley",
+      "Peter Schiff",
+      "William Sylvester",
+      "Ann Gillis",
+      "Sean Sullivan",
+      "Alan Gifford",
+      "Daniel Richter",
+      "Terry Duggan",
+      "Bill Weston"
+    ],
+    "runtimeMinutes": 143,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "A Clockwork Orange",
+    "wikidataId": "Q181086",
+    "imdbId": "tt0066921",
+    "wikidataTitle": "A Clockwork Orange",
+    "year": 1972,
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "genres": [
+      "thriller film",
+      "speculative fiction film",
+      "black comedy film",
+      "crime thriller film",
+      "dystopian film",
+      "film based on a novel",
+      "arthouse science fiction film",
+      "crime drama film",
+      "satirical film",
+      "prison film",
+      "comedy drama",
+      "crime film",
+      "exploitation film",
+      "mystery film",
+      "crime comedy film",
+      "action film",
+      "science fiction film",
+      "drama film"
+    ],
+    "cast": [
+      "Anthony Sharp",
+      "Patrick Magee",
+      "David Prowse",
+      "Adrienne Corri",
+      "Margaret Tyzack",
+      "Katya Wyeth",
+      "Malcolm McDowell",
+      "Miriam Karlin",
+      "Pat Roach",
+      "Steven Berkoff",
+      "Warren Clarke",
+      "Q1010504",
+      "Carol Drinkwater",
+      "Clive Francis",
+      "Michael Bates",
+      "Aubrey Morris",
+      "Michael Tarn",
+      "John Clive",
+      "George Coulouris",
+      "Peter Burton",
+      "Alec Wallis",
+      "James Marcus",
+      "Paul Farrell",
+      "Godfrey Quigley",
+      "Helen Ford",
+      "John J. Carney",
+      "John Savident",
+      "Michael Gover",
+      "Philip Stone",
+      "Rex Rashley",
+      "Robert Bruce",
+      "Madge Ryan"
+    ],
+    "runtimeMinutes": 136,
+    "languages": [
+      "English",
+      "Nadsat"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Apocalypse Now",
+    "wikidataId": "Q182692",
+    "imdbId": "tt0078788",
+    "wikidataTitle": "Apocalypse Now",
+    "year": 1979,
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "epic film",
+      "thriller film",
+      "film based on book",
+      "psychological drama film",
+      "psychological horror film",
+      "psychological thriller film",
+      "war drama",
+      "horror film",
+      "adventure film",
+      "war film",
+      "satirical film"
+    ],
+    "cast": [
+      "Marlon Brando",
+      "Francis Ford Coppola",
+      "Harrison Ford",
+      "Dennis Hopper",
+      "Charlie Sheen",
+      "Scott Glenn",
+      "Aurore Clément",
+      "Tom Mason",
+      "Frank Villard",
+      "Joe Estevez",
+      "Pierre Segui",
+      "Jack Thibeau",
+      "Cynthia Wood",
+      "Marc Coppola",
+      "Gian-Carlo Coppola",
+      "Robert Duvall",
+      "Frederic Forrest",
+      "Bill Graham",
+      "Christian Marquand",
+      "Evan A. Lottman",
+      "James Gaines",
+      "Sam Bottoms",
+      "Albert Hall",
+      "Colleen Camp",
+      "Martin Sheen",
+      "Laurence Fishburne",
+      "Nick Nicholson",
+      "Jerry Ziesmer",
+      "Damien Leake",
+      "James Keane",
+      "Kerry Rossall",
+      "G. D. Spradlin",
+      "Roman Coppola",
+      "R. Lee Ermey",
+      "Vittorio Storaro",
+      "Charles Robinson"
+    ],
+    "runtimeMinutes": 147,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Rocky",
+    "wikidataId": "Q188652",
+    "imdbId": "tt0075148",
+    "wikidataTitle": "Rocky",
+    "year": 1976,
+    "directors": [
+      "John G. Avildsen"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "boxing film"
+    ],
+    "cast": [
+      "Sylvester Stallone",
+      "Joe Frazier",
+      "Talia Shire",
+      "Lloyd Kaufman",
+      "Michael Dorn",
+      "Carl Weathers",
+      "Burt Young",
+      "Burgess Meredith",
+      "Thayer David",
+      "Frank Stallone",
+      "Joe Spinell",
+      "Tony Burton",
+      "George O'Hanlon",
+      "Stan Shaw",
+      "Butkus Stallone",
+      "Simmy Bow",
+      "Frankie Van",
+      "Hank Rolike"
+    ],
+    "runtimeMinutes": 119,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Raging Bull",
+    "wikidataId": "Q220780",
+    "imdbId": "tt0081398",
+    "wikidataTitle": "Raging Bull",
+    "year": 1981,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "film based on book",
+      "historical drama film",
+      "drama film",
+      "action film",
+      "period drama film",
+      "biographical film",
+      "boxing film",
+      "sport film",
+      "neo-noir",
+      "historical film"
+    ],
+    "cast": [
+      "John Turturro",
+      "Theresa Saldana",
+      "Frank Vincent",
+      "Michael Badalucco",
+      "Nicholas Colasanto",
+      "Robert De Niro",
+      "Martin Scorsese",
+      "Cathy Moriarty",
+      "Joe Pesci",
+      "Charles Scorsese",
+      "Frank Adonis"
+    ],
+    "runtimeMinutes": 129,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Die Hard",
+    "wikidataId": "Q105598",
+    "imdbId": "tt0095016",
+    "wikidataTitle": "Die Hard",
+    "year": 1988,
+    "directors": [
+      "John McTiernan"
+    ],
+    "genres": [
+      "action film",
+      "heist film",
+      "action thriller",
+      "Christmas film",
+      "film based on a novel"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Norbert Grupe",
+      "Andreas Wisniewski",
+      "Alan Rickman",
+      "Reginald VelJohnson",
+      "William Atherton",
+      "Rick Ducommun",
+      "Tracy Reiner",
+      "Paul Gleason",
+      "Mary Ellen Trainor",
+      "Robert Davi",
+      "Grand L. Bush",
+      "Bonnie Bedelia",
+      "Alexander Godunov",
+      "Anthony Peck",
+      "Hart Bochner",
+      "Clarence Gilyard",
+      "Lorenzo Caccialanza",
+      "Rebecca Broussard",
+      "Robert Lesser",
+      "Selma Archerd",
+      "Dennis Hayden",
+      "De'voreaux White",
+      "James Shigeta",
+      "Al Leong",
+      "Bruno Doyon",
+      "Taylor Fry"
+    ],
+    "runtimeMinutes": 131,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Lethal Weapon",
+    "wikidataId": "Q462447",
+    "imdbId": "tt0093409",
+    "wikidataTitle": "Lethal Weapon",
+    "year": 1987,
+    "directors": [
+      "Richard Donner"
+    ],
+    "genres": [
+      "action film",
+      "buddy film",
+      "crime film",
+      "thriller film",
+      "Christmas film",
+      "buddy cop film"
+    ],
+    "cast": [
+      "Mel Gibson",
+      "Gary Busey",
+      "Mary Ellen Trainor",
+      "Grand L. Bush",
+      "Steve Kahan",
+      "Ed O'Ross",
+      "Tom Atkins",
+      "Sven-Ole Thorsen",
+      "Al Leong",
+      "Don Gordon",
+      "Mitchell Ryan",
+      "Jimmie F. Skaggs",
+      "Traci Wolfe",
+      "Blackie Dammett",
+      "Jack Thibeau",
+      "Danny Glover",
+      "Joan Severance",
+      "Darlene Love"
+    ],
+    "runtimeMinutes": 112,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Breakfast Club",
+    "wikidataId": "Q499152",
+    "imdbId": "tt0088847",
+    "wikidataTitle": "The Breakfast Club",
+    "year": 1985,
+    "directors": [
+      "John Hughes"
+    ],
+    "genres": [
+      "drama film",
+      "comedy drama",
+      "teen film",
+      "coming-of-age film"
+    ],
+    "cast": [
+      "John Kapelos",
+      "Emilio Estevez",
+      "Molly Ringwald",
+      "Ally Sheedy",
+      "John Hughes",
+      "Anthony Michael Hall",
+      "Judd Nelson",
+      "Paul Gleason"
+    ],
+    "runtimeMinutes": 93,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "wikidataId": "Q498906",
+    "imdbId": "tt0091042",
+    "wikidataTitle": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "directors": [
+      "John Hughes"
+    ],
+    "genres": [
+      "comedy film",
+      "teen film",
+      "coming-of-age film"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Charlie Sheen",
+      "Jennifer Grey",
+      "Kristy Swanson",
+      "Mia Sara",
+      "Edie McClurg",
+      "John Hughes",
+      "Max Perlich",
+      "Jeffrey Jones",
+      "Lyman Ward",
+      "Alan Ruck",
+      "Louie Anderson",
+      "Ben Stein",
+      "Katie Barberi",
+      "Richard Edson",
+      "Virginia Capers",
+      "Del Close",
+      "Joey D. Vieira",
+      "Scott Coffey",
+      "Larry \"Flash\" Jenkins",
+      "Jonathan Schmock"
+    ],
+    "runtimeMinutes": 102,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "wikidataId": "Q11621",
+    "imdbId": "tt0083866",
+    "wikidataTitle": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "drama film",
+      "science fiction film",
+      "family film",
+      "children's film"
+    ],
+    "cast": [
+      "Debra Winger",
+      "Erika Eleniak",
+      "Dee Wallace",
+      "Peter Coyote",
+      "James Kahn",
+      "Tamara De Treaux",
+      "Anne Lockhart",
+      "C. Thomas Howell",
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Robert MacNaughton",
+      "K. C. Martel",
+      "Sean Frye",
+      "Milt Kogan",
+      "Robert Barton"
+    ],
+    "runtimeMinutes": 115,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Goonies",
+    "wikidataId": "Q636043",
+    "imdbId": "tt0089218",
+    "wikidataTitle": "The Goonies",
+    "year": 2019,
+    "directors": [
+      "Richard Donner"
+    ],
+    "genres": [
+      "comedy film",
+      "action film",
+      "adventure film",
+      "children's film",
+      "treasure hunt film",
+      "family film",
+      "pirate film"
+    ],
+    "cast": [
+      "Josh Brolin",
+      "Sean Astin",
+      "Anne Ramsey",
+      "Richard Donner",
+      "Lupe Ontiveros",
+      "Martha Plimpton",
+      "Joe Pantoliano",
+      "Mary Ellen Trainor",
+      "Robert Davi",
+      "Kerri Green",
+      "Jeff Cohen",
+      "Michael Paul Chan",
+      "Steve Antin",
+      "Corey Feldman",
+      "Ke Huy Quan",
+      "Nick McLean",
+      "Newt Arnold",
+      "John Matuszak",
+      "George Robotham",
+      "Keith Walker"
+    ],
+    "runtimeMinutes": 112,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Home Alone",
+    "wikidataId": "Q105031",
+    "imdbId": "tt0099785",
+    "wikidataTitle": "Home Alone",
+    "year": 1990,
+    "directors": [
+      "Chris Columbus"
+    ],
+    "genres": [
+      "family film",
+      "Christmas film",
+      "comedy film",
+      "adventure film"
+    ],
+    "cast": [
+      "Macaulay Culkin",
+      "Bill Erwin",
+      "John Candy",
+      "Catherine O'Hara",
+      "Hope Davis",
+      "Lionel Barrymore",
+      "Kieran Culkin",
+      "Alan Wilder",
+      "Daniel Stern",
+      "Diana Rein",
+      "Jim Ortlieb",
+      "Terrie Snell",
+      "Anna Slotky",
+      "Paula Newsome",
+      "Ralph Foody",
+      "Ray Toler",
+      "Dan Charles Zukoski",
+      "Roberts Blossom",
+      "Angela Goethals",
+      "John Heard",
+      "Devin Ratray",
+      "Senta Moses",
+      "Mike Maronna",
+      "Ken Hudson Campbell",
+      "Kristin Minter",
+      "Gerry Becker",
+      "Gerry Bamman",
+      "Hillary Wolf",
+      "Larry Hankin",
+      "Billie Bird",
+      "Maria Verdi",
+      "Mark Beltzman",
+      "Matt Doherty",
+      "Joe Pesci"
+    ],
+    "runtimeMinutes": 103,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "wikidataId": "Q483852",
+    "imdbId": "tt0107614",
+    "wikidataTitle": "Mrs. Doubtfire",
+    "year": 1993,
+    "directors": [
+      "Chris Columbus"
+    ],
+    "genres": [
+      "screwball comedy film",
+      "comedy drama",
+      "LGBT-related film",
+      "film based on a novel",
+      "drama film"
+    ],
+    "cast": [
+      "Anne Haney",
+      "Martin Mull",
+      "Robert Prosky",
+      "Rick Overton",
+      "Terry McGovern",
+      "Sydney Walker",
+      "Lisa Jakub",
+      "Polly Holliday",
+      "Harvey Fierstein",
+      "Paul Guilfoyle",
+      "Matthew Lawrence",
+      "Ralph Peduto",
+      "Pierce Brosnan",
+      "Robin Williams",
+      "Sally Field",
+      "Mara Wilson"
+    ],
+    "runtimeMinutes": 125,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Groundhog Day",
+    "wikidataId": "Q488655",
+    "imdbId": "tt0107048",
+    "wikidataTitle": "Groundhog Day",
+    "year": 1993,
+    "directors": [
+      "Harold Ramis"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "science fiction film",
+      "comedy drama",
+      "romantic comedy",
+      "romance film",
+      "melodrama",
+      "magic realist film"
+    ],
+    "cast": [
+      "Ken Hudson Campbell",
+      "Brian Doyle-Murray",
+      "Mason Gamble",
+      "Marita Geraghty",
+      "Rick Overton",
+      "Robin Duke",
+      "Angela Paton",
+      "Bill Murray",
+      "Michael Shannon",
+      "Andie MacDowell",
+      "Harold Ramis",
+      "Stephen Tobolowsky",
+      "Chris Elliott",
+      "Willie Garson",
+      "Rick Ducommun"
+    ],
+    "runtimeMinutes": 101,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Mask",
+    "wikidataId": "Q219421",
+    "imdbId": "tt0110475",
+    "wikidataTitle": "The Mask",
+    "year": 1994,
+    "directors": [
+      "Chuck Russell"
+    ],
+    "genres": [
+      "superhero film",
+      "fantasy film",
+      "comedy film",
+      "speculative fiction film",
+      "gangster film"
+    ],
+    "cast": [
+      "Richard Jeni",
+      "Jim Carrey",
+      "Cameron Diaz",
+      "Peter Greene",
+      "Joely Fisher",
+      "Amy Yasbeck",
+      "Blake Clark",
+      "Tim Bagley",
+      "Ben Stein",
+      "Reg E. Cathey",
+      "Kevin Grevioux",
+      "Peter Riegert",
+      "Denis Forest",
+      "Nancy Fish",
+      "Orestes Matacena",
+      "Max"
+    ],
+    "runtimeMinutes": 97,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Notting Hill",
+    "wikidataId": "Q200672",
+    "imdbId": "tt0125439",
+    "wikidataTitle": "Notting Hill",
+    "year": 1999,
+    "directors": [
+      "Roger Michell"
+    ],
+    "genres": [
+      "comedy drama",
+      "romantic comedy"
+    ],
+    "cast": [
+      "Hugh Grant",
+      "Alec Baldwin",
+      "Mischa Barton",
+      "Rhys Ifans",
+      "Emily Mortimer",
+      "Gina McKee",
+      "Dylan Moran",
+      "Emma Chambers",
+      "Tim McInnerny",
+      "Julian Rhind-Tutt",
+      "James Dreyfus",
+      "John Shrapnel",
+      "Henry Goodman",
+      "Julia Roberts",
+      "Hugh Bonneville",
+      "Lorelei King",
+      "Richard McCabe"
+    ],
+    "runtimeMinutes": 119,
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "title": "Pretty Woman",
+    "wikidataId": "Q207954",
+    "imdbId": "tt0100405",
+    "wikidataTitle": "Pretty Woman",
+    "year": 1990,
+    "directors": [
+      "Garry Marshall"
+    ],
+    "genres": [
+      "romantic comedy",
+      "romance"
+    ],
+    "cast": [
+      "Jason Alexander",
+      "Héctor Elizondo",
+      "Garry Marshall",
+      "Julia Roberts",
+      "Richard Gere",
+      "Hank Azaria",
+      "Laura San Giacomo",
+      "Amy Yasbeck",
+      "Dey Young",
+      "Andrea Parker",
+      "Scott Marshall",
+      "James Patrick Stuart",
+      "Ralph Bellamy",
+      "Elinor Donahue",
+      "Larry Miller",
+      "Charles Minsky",
+      "Lynda Goodfriend",
+      "Frank Campanella",
+      "Al Sapienza",
+      "Alex Hyde-White",
+      "Larry Hankin"
+    ],
+    "runtimeMinutes": 119,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "wikidataId": "Q471169",
+    "imdbId": "tt0098635",
+    "wikidataTitle": "When Harry Met Sally",
+    "year": 1989,
+    "directors": [
+      "Rob Reiner"
+    ],
+    "genres": [
+      "romantic comedy",
+      "Christmas film",
+      "comedy film"
+    ],
+    "cast": [
+      "Carrie Fisher",
+      "Meg Ryan",
+      "Billy Crystal",
+      "Bruno Kirby",
+      "Tracy Reiner",
+      "Harley Jane Kozak",
+      "Steven Ford",
+      "Connie Sawyer",
+      "Lisa Jane Persky",
+      "Franc Luz",
+      "Michelle Nicastro"
+    ],
+    "runtimeMinutes": 90,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "wikidataId": "Q169082",
+    "imdbId": "tt0147800",
+    "wikidataTitle": "10 Things I Hate About You",
+    "year": 1999,
+    "directors": [
+      "Gil Junger"
+    ],
+    "genres": [
+      "romantic comedy",
+      "teen film",
+      "coming-of-age film",
+      "comedy drama"
+    ],
+    "cast": [
+      "Heath Ledger",
+      "Joseph Gordon-Levitt",
+      "Julia Stiles",
+      "Allison Janney",
+      "Gabrielle Union",
+      "Larisa Oleynik",
+      "Bianca Kajlich",
+      "Lindsey Shaw",
+      "David Krumholtz",
+      "Susan May Pratt",
+      "David Leisure",
+      "Andrew Keegan",
+      "Kay Hanley",
+      "Daryl Mitchell",
+      "Larry Miller",
+      "Carlos Lacámara",
+      "Kyle Cease",
+      "Monique Powell",
+      "Brian Mashburn",
+      "Michael Eisenstein",
+      "Greg Jackson",
+      "Terence Heuston",
+      "Eric Reidman",
+      "Quinn Maixner",
+      "Demegio Kimbrough",
+      "Brian Hood",
+      "Travis Muller",
+      "Ari Karczag",
+      "Laura Kenny",
+      "Alice Evans",
+      "Jesper Inglis",
+      "Nick Brown",
+      "Cameron Fraser",
+      "Todd Butler",
+      "Dennis Mosley",
+      "Nick Vukelic",
+      "Benjamin Laurence",
+      "Aidan Kennedy",
+      "Jelani Quinn",
+      "Jesse Dyer",
+      "Aaron Therol",
+      "Heather Taylor",
+      "Joshua Thorpe",
+      "J. R. Johnson",
+      "Wendy Gottlieb"
+    ],
+    "runtimeMinutes": 97,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Notebook",
+    "wikidataId": "Q223374",
+    "imdbId": "tt0332280",
+    "wikidataTitle": "The Notebook",
+    "year": 2004,
+    "directors": [
+      "Nick Cassavetes"
+    ],
+    "genres": [
+      "drama film",
+      "romance film",
+      "coming-of-age film"
+    ],
+    "cast": [
+      "Jennifer Echols",
+      "Traci Dinwiddie",
+      "Jamie Anne Allman",
+      "James Garner",
+      "Rachel McAdams",
+      "Ryan Gosling",
+      "Gena Rowlands",
+      "Joan Allen",
+      "Sam Shepard",
+      "Kevin Connolly",
+      "Heather Wahlquist",
+      "Paul Johansson",
+      "James Marsden",
+      "Robert Fraisse",
+      "David Thornton",
+      "Cullen Moss",
+      "Ed Grady",
+      "Starletta DuPois",
+      "Matthew Barry"
+    ],
+    "runtimeMinutes": 123,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "wikidataId": "Q208269",
+    "imdbId": "tt0338013",
+    "wikidataTitle": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "directors": [
+      "Michel Gondry"
+    ],
+    "genres": [
+      "fantasy film",
+      "science fiction film",
+      "comedy drama",
+      "romantic comedy",
+      "melodrama"
+    ],
+    "cast": [
+      "Jim Carrey",
+      "Mark Ruffalo",
+      "Kirsten Dunst",
+      "Kate Winslet",
+      "Tom Wilkinson",
+      "Ellen Pompeo",
+      "David Cross",
+      "Jane Adams",
+      "Elijah Wood",
+      "Deirdre O'Connell",
+      "Thomas Jay Ryan",
+      "Gerry Robert Byrne"
+    ],
+    "runtimeMinutes": 104,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "500 Days of Summer",
+    "wikidataId": "Q154935",
+    "imdbId": "tt1022603",
+    "wikidataTitle": "(500) Days of Summer",
+    "year": 2009,
+    "directors": [
+      "Marc Webb"
+    ],
+    "genres": [
+      "comedy film",
+      "comedy drama",
+      "romantic comedy",
+      "coming-of-age film"
+    ],
+    "cast": [
+      "Geoffrey Arend",
+      "Chloë Grace Moretz",
+      "Clark Gregg",
+      "Joseph Gordon-Levitt",
+      "Q191719",
+      "Maile Flanagan",
+      "Richard McGonagle",
+      "Kenny Hughes",
+      "Minka Kelly",
+      "Jennifer Hetrick",
+      "Matthew Gray Gubler",
+      "Patricia Belcher",
+      "Yvette Nicole Brown",
+      "Rachel Boston"
+    ],
+    "runtimeMinutes": 95,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Before Sunrise",
+    "wikidataId": "Q659609",
+    "imdbId": "tt0112471",
+    "wikidataTitle": "Before Sunrise",
+    "year": 1995,
+    "directors": [
+      "Richard Linklater"
+    ],
+    "genres": [
+      "drama film",
+      "romance film"
+    ],
+    "cast": [
+      "Hanno Pöschl",
+      "Andrea Eckert",
+      "Erni Mangold",
+      "Julie Delpy",
+      "Adam Goldberg",
+      "Ethan Hawke",
+      "Tex Rubinowitz",
+      "Dominic Castell"
+    ],
+    "runtimeMinutes": 97,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Switzerland",
+      "Austria"
+    ]
+  },
+  {
+    "title": "The Sixth Sense",
+    "wikidataId": "Q183063",
+    "imdbId": "tt0167404",
+    "wikidataTitle": "The Sixth Sense",
+    "year": 1999,
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "genres": [
+      "psychological drama film",
+      "psychological horror film",
+      "psychological thriller film",
+      "drama film",
+      "ghost film",
+      "thriller film",
+      "suspense film",
+      "horror film",
+      "mystery film"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Olivia Williams",
+      "Trevor Morgan",
+      "Mischa Barton",
+      "Bruce Norris",
+      "Glenn Fitzgerald",
+      "M. Night Shyamalan",
+      "Donnie Wahlberg",
+      "Haley Joel Osment",
+      "Bruce Willis",
+      "KaDee Strickland",
+      "Peter Anthony Tambakis",
+      "Angelica Page",
+      "Samia Shoaib"
+    ],
+    "runtimeMinutes": 107,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Others",
+    "wikidataId": "Q332515",
+    "imdbId": "tt0230600",
+    "wikidataTitle": "The Others",
+    "year": 2001,
+    "directors": [
+      "Alejandro Amenábar"
+    ],
+    "genres": [
+      "horror film",
+      "mystery film",
+      "drama film"
+    ],
+    "cast": [
+      "Nicole Kidman",
+      "Elaine Cassidy",
+      "Fionnula Flanagan",
+      "Michelle Fairley",
+      "Christopher Eccleston",
+      "Eric Sykes",
+      "Keith Allen",
+      "Renée Asherson",
+      "Alakina Mann",
+      "Gordon Reid",
+      "James Bentley"
+    ],
+    "runtimeMinutes": 101,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Spain",
+      "France",
+      "United States"
+    ]
+  },
+  {
+    "title": "Get Out",
+    "wikidataId": "Q25136235",
+    "imdbId": "tt5052448",
+    "wikidataTitle": "Get Out",
+    "year": 2017,
+    "directors": [
+      "Jordan Peele"
+    ],
+    "genres": [
+      "horror film",
+      "comedy horror",
+      "mystery film",
+      "thriller film"
+    ],
+    "cast": [
+      "Catherine Keener",
+      "Erika Alexander",
+      "Bradley Whitford",
+      "Stephen Root",
+      "Daniel Kaluuya",
+      "Caleb Landry Jones",
+      "Richard Herd",
+      "Allison Williams",
+      "LaKeith Stanfield",
+      "Lil Rel Howery",
+      "Betty Gabriel",
+      "Ashley LeConte Campbell"
+    ],
+    "runtimeMinutes": 104,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Japan",
+      "United States"
+    ]
+  },
+  {
+    "title": "Black Swan",
+    "wikidataId": "Q180214",
+    "imdbId": "tt0947798",
+    "wikidataTitle": "Black Swan",
+    "year": 2010,
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "genres": [
+      "drama film",
+      "horror film",
+      "psychological horror",
+      "thriller film",
+      "LGBT-related film",
+      "magic realist film",
+      "psychological thriller film"
+    ],
+    "cast": [
+      "Mila Kunis",
+      "Natalie Portman",
+      "Winona Ryder",
+      "Vincent Cassel",
+      "Benjamin Millepied",
+      "Toby Hemingway",
+      "Mark Margolis",
+      "Kristina Anapau",
+      "Barbara Hershey",
+      "Ksenia Solo",
+      "Janet Montgomery",
+      "Sebastian Stan",
+      "Tina Sloan"
+    ],
+    "runtimeMinutes": 108,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Usual Suspects",
+    "wikidataId": "Q132351",
+    "imdbId": "tt0114814",
+    "wikidataTitle": "The Usual Suspects",
+    "year": 1995,
+    "directors": [
+      "Bryan Singer"
+    ],
+    "genres": [
+      "gangster film",
+      "suspense film",
+      "crime thriller film",
+      "flashback film",
+      "detective film",
+      "crime drama film",
+      "drama film",
+      "action film",
+      "heist film",
+      "mystery film",
+      "neo-noir",
+      "thriller film"
+    ],
+    "cast": [
+      "Peter Greene",
+      "Benicio del Toro",
+      "Kevin Pollak",
+      "Cástulo Guerra",
+      "Christine Estabrook",
+      "Frank Medrano",
+      "Dan Hedaya",
+      "Kevin Spacey",
+      "Clark Gregg",
+      "Michelle Clunie",
+      "Gabriel Byrne",
+      "Stephen Baldwin",
+      "Christopher McQuarrie",
+      "Chazz Palminteri",
+      "Ron Gilbert",
+      "Pete Postlethwaite",
+      "Suzy Amis Cameron",
+      "Giancarlo Esposito",
+      "Louis Lombardi",
+      "Paul Bartel",
+      "Carl Bressler"
+    ],
+    "runtimeMinutes": 106,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Catch Me If You Can",
+    "wikidataId": "Q208108",
+    "imdbId": "tt0264464",
+    "wikidataTitle": "Catch Me If You Can",
+    "year": 2003,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "comedy film",
+      "heist film",
+      "biographical film",
+      "crime film",
+      "film based on book",
+      "drama film"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Sean Connery",
+      "Leonardo DiCaprio",
+      "Sarah Lancaster",
+      "Jessica Collins",
+      "Jaime Ray Newman",
+      "James Brolin",
+      "Nathalie Baye",
+      "Kitty Carlisle",
+      "Beverly Lynne",
+      "Jasmine Jessica Anthony",
+      "Frank Abagnale, Jr.",
+      "Amy Acker",
+      "Martin Sheen",
+      "Christopher Walken",
+      "Ellen Pompeo",
+      "Brian Howe",
+      "Elizabeth Banks",
+      "Honor Blackman",
+      "Lilyan Chauvin",
+      "James Morrison",
+      "Jennifer Garner",
+      "Malachi Throne",
+      "Nick Zano",
+      "Stephen Dunham",
+      "Margaret Travolta",
+      "Robert Symonds",
+      "Thomas Kopache",
+      "Frank John Hughes",
+      "Guy Thauvette",
+      "Joe Garagiola Sr.",
+      "Dave Hager",
+      "Kam Heskin",
+      "Jeremy Howard",
+      "Jesse Heiman",
+      "Gerald R. Molen",
+      "Jimmie F. Skaggs",
+      "John Finn",
+      "Roger Léger",
+      "Steve Eastin",
+      "Amy Adams",
+      "Q708059",
+      "Kaitlin Doubleday",
+      "Alfred Dennis",
+      "Nancy Lenehan",
+      "Robert Curtis Brown",
+      "Alex Hyde-White",
+      "Brian Goodman",
+      "Candice Azzara"
+    ],
+    "runtimeMinutes": 135,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "wikidataId": "Q183239",
+    "imdbId": "tt0421715",
+    "wikidataTitle": "The Curious Case of Benjamin Button",
+    "year": 2008,
+    "directors": [
+      "David Fincher"
+    ],
+    "genres": [
+      "speculative fiction film",
+      "film based on literature",
+      "romance film",
+      "drama film",
+      "fantasy film"
+    ],
+    "cast": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Josh Stewart",
+      "Tilda Swinton",
+      "Elle Fanning",
+      "Julia Ormond",
+      "Taraji P. Henson",
+      "Emma Degerstedt",
+      "Faune A. Chambers",
+      "Mahershala Ali",
+      "Jared Harris",
+      "Elias Koteas",
+      "Phyllis Somerville",
+      "Chandler Canterbury",
+      "Eve Brent",
+      "Jason Flemyng",
+      "Richmond Arquette",
+      "Danny Nelson",
+      "Madisen Beaty",
+      "Tom Everett",
+      "Louis Herthum",
+      "David Jensen",
+      "Rus Blackwell"
+    ],
+    "runtimeMinutes": 166,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "wikidataId": "Q125076",
+    "imdbId": "tt1010048",
+    "wikidataTitle": "Slumdog Millionaire",
+    "year": 2008,
+    "directors": [
+      "Danny Boyle",
+      "Loveleen Tandan"
+    ],
+    "genres": [
+      "drama film",
+      "crime film",
+      "romance film",
+      "coming-of-age film"
+    ],
+    "cast": [
+      "Freida Pinto",
+      "Dev Patel",
+      "Anil Kapoor",
+      "Irrfan Khan",
+      "Ayush Mahesh Khedekar",
+      "Madhur Mittal",
+      "Ashutosh Lobo Gajiwala",
+      "Azharuddin Mohammed Ismail",
+      "Mahesh Manjrekar",
+      "Tanvi Ganesh Lonkar",
+      "Shruti Seth",
+      "Tanay Chheda",
+      "Rubina Ali",
+      "Saurabh Shukla",
+      "Anand Tiwari",
+      "Ankur Vikal",
+      "Arfi Lamba",
+      "Rajendranath Zutshi",
+      "Faezeh Jalali",
+      "Anjum Sharma"
+    ],
+    "runtimeMinutes": 120,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Big Lebowski",
+    "wikidataId": "Q337078",
+    "imdbId": "tt0118715",
+    "wikidataTitle": "The Big Lebowski",
+    "year": 1998,
+    "directors": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "genres": [
+      "crime film",
+      "comedy of error",
+      "comedy film",
+      "film noir"
+    ],
+    "cast": [
+      "John Goodman",
+      "Aimee Mann",
+      "John Turturro",
+      "Peter Stormare",
+      "Jeff Bridges",
+      "Philip Seymour Hoffman",
+      "Flea",
+      "Jon Polito",
+      "Tara Reid",
+      "David Thewlis",
+      "Ben Gazzara",
+      "Sam Elliott",
+      "Mark Pellegrino",
+      "Julianne Moore",
+      "Steve Buscemi",
+      "Asia Carrera",
+      "Marshall Manesh",
+      "Leon Russom",
+      "David Huddleston",
+      "Torsten Voges",
+      "Jesse Flanagan",
+      "Richard Gant",
+      "Jack Kehler",
+      "Dom Irrera",
+      "Philip Moon",
+      "Jimmie Dale Gilmore",
+      "Christian Clemenson",
+      "Warren Keith",
+      "Harry Bugin"
+    ],
+    "runtimeMinutes": 117,
+    "languages": [
+      "German",
+      "Spanish",
+      "English",
+      "Hebrew"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Fargo",
+    "wikidataId": "Q222720",
+    "imdbId": "tt0116282",
+    "wikidataTitle": "Fargo",
+    "year": 1996,
+    "directors": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "genres": [
+      "crime film",
+      "mystery film",
+      "neo-noir",
+      "thriller film",
+      "black comedy film",
+      "suspense film",
+      "crime thriller film",
+      "police procedural film",
+      "crime drama film",
+      "comedy film",
+      "film noir",
+      "action film",
+      "comedy drama",
+      "drama film"
+    ],
+    "cast": [
+      "José Feliciano",
+      "John Carroll Lynch",
+      "William H. Macy",
+      "Peter Stormare",
+      "Melissa Peterman",
+      "Frances McDormand",
+      "Steve Buscemi",
+      "Larry Brandenburg",
+      "J. Todd Anderson",
+      "Bruce Campbell",
+      "Harve Presnell",
+      "Bruce Bohne",
+      "Kristin Rudrüd",
+      "Bain Boehlke",
+      "Steve Reevis",
+      "Steve Park",
+      "Tony Denman",
+      "Warren Keith"
+    ],
+    "runtimeMinutes": 98,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Hateful Eight",
+    "wikidataId": "Q18225084",
+    "imdbId": "tt3460252",
+    "wikidataTitle": "The Hateful Eight",
+    "year": 2015,
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "suspense film",
+      "crime thriller film",
+      "crime drama film",
+      "Western film",
+      "action film",
+      "Revisionist Western",
+      "crime film",
+      "mystery film",
+      "thriller film"
+    ],
+    "cast": [
+      "Quentin Tarantino",
+      "Kurt Russell",
+      "Samuel L. Jackson",
+      "Tim Roth",
+      "Channing Tatum",
+      "Q220584",
+      "Lee Horsley",
+      "Gene Jones",
+      "Dana Gourrier",
+      "Zoë Bell",
+      "Bruce Dern",
+      "Demián Bichir",
+      "Walton Goggins",
+      "James Parks",
+      "Jennifer Jason Leigh"
+    ],
+    "runtimeMinutes": 168,
+    "languages": [
+      "French",
+      "English",
+      "Spanish"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "wikidataId": "Q47300912",
+    "imdbId": "tt7131622",
+    "wikidataTitle": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "crime film",
+      "black comedy film",
+      "alternate history film",
+      "drama film",
+      "comedy film",
+      "alternate history",
+      "comedy drama"
+    ],
+    "cast": [
+      "Margot Robbie",
+      "Keith Jardine",
+      "Lew Temple",
+      "Madisen Beaty",
+      "Nichole Galicia",
+      "David Steen",
+      "Slim Khezri",
+      "Marco Rodríguez",
+      "Rafał Zawierucha",
+      "Mike Moh",
+      "Lorenza Izzo",
+      "Costa Ronin",
+      "Margaret Qualley",
+      "Harley Quinn Smith",
+      "Rebecca Rittenhouse",
+      "Quentin Tarantino",
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Al Pacino",
+      "Kurt Russell",
+      "Dakota Fanning",
+      "Burt Reynolds",
+      "Tim Roth",
+      "Q220584",
+      "Luke Perry",
+      "Damian Lewis",
+      "Bruce Dern",
+      "Omar Doom",
+      "James Remar",
+      "Zoë Bell",
+      "Rumer Willis",
+      "Brenda Vaccaro",
+      "Rebecca Gayheart",
+      "Toni Basil",
+      "Emile Hirsch",
+      "Nicholas Hammond",
+      "Danielle Harris",
+      "Lena Dunham",
+      "Timothy Olyphant",
+      "Dreama Walker",
+      "Austin Butler",
+      "James Marsden",
+      "Martin Kove",
+      "Walton Goggins",
+      "Scoot McNairy",
+      "Danny Strong",
+      "Clifton Collins",
+      "Clu Gulager",
+      "Corey Burton",
+      "Damon Herriman",
+      "Vincent Laresca",
+      "Perla Haney-Jardine",
+      "Kansas Bowling",
+      "Mikey Madison",
+      "Brian Patrick Butler",
+      "Andrea Bensussen",
+      "Maya Hawke",
+      "Sydney Sweeney",
+      "Victoria Pedretti",
+      "Rachel Redleaf",
+      "Julia Butters",
+      "James Landry Hébert",
+      "Victoria Truscott",
+      "Samantha Robinson",
+      "Eddie Perez"
+    ],
+    "runtimeMinutes": 161,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Matrix Reloaded",
+    "wikidataId": "Q189600",
+    "imdbId": "tt0234215",
+    "wikidataTitle": "The Matrix Reloaded",
+    "year": 2003,
+    "directors": [
+      "Lilly Wachowski",
+      "Lana Wachowski"
+    ],
+    "genres": [
+      "martial arts film",
+      "superhero film",
+      "thriller film",
+      "dystopian film",
+      "cyberpunk",
+      "action film",
+      "science fiction film"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Monica Bellucci",
+      "Hugo Weaving",
+      "Daniel Bernhardt",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Jada Pinkett Smith",
+      "Lambert Wilson",
+      "Randall Duk Kim",
+      "Collin Chou",
+      "Gina Torres",
+      "Harold Perrineau",
+      "Roy Jones Jr.",
+      "Helmut Bakaitis",
+      "Nash Edgerton",
+      "Gloria Foster",
+      "Leigh Whannell",
+      "Robert Mammone",
+      "Anthony Wong",
+      "Anthony Zerbe",
+      "Genevieve O'Reilly",
+      "Cornel West",
+      "Bill Pope",
+      "Bernard White",
+      "Tory Mussett",
+      "Nathaniel Lees",
+      "Rupert Reid",
+      "Ian Bliss",
+      "Christopher Kirby",
+      "Matt McColm",
+      "David Roberts",
+      "Steve Bastoni",
+      "Michael Budd",
+      "Nona Gaye",
+      "David Franklin",
+      "David No",
+      "Essie Davis",
+      "Malcolm Kennard",
+      "Harry Lennix"
+    ],
+    "runtimeMinutes": 138,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Matrix Revolutions",
+    "wikidataId": "Q207536",
+    "imdbId": "tt0242653",
+    "wikidataTitle": "The Matrix Revolutions",
+    "year": 2003,
+    "directors": [
+      "Lilly Wachowski",
+      "Lana Wachowski"
+    ],
+    "genres": [
+      "science fiction film",
+      "superhero film",
+      "wuxia film",
+      "science fiction action film",
+      "cyberpunk",
+      "action film"
+    ],
+    "cast": [
+      "Hugo Weaving",
+      "Keanu Reeves",
+      "Monica Bellucci",
+      "Lambert Wilson",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Jada Pinkett Smith",
+      "Gina Torres",
+      "Mary Alice",
+      "Harold Perrineau",
+      "Collin Chou",
+      "Genevieve O'Reilly",
+      "Essie Davis",
+      "Kate Beahan",
+      "Bruce Spence",
+      "Bernard White",
+      "Helmut Bakaitis",
+      "Christopher Kirby",
+      "Nathaniel Lees",
+      "Rupert Reid",
+      "Ian Bliss",
+      "Kevin Michael Richardson",
+      "Nona Gaye",
+      "Robert Mammone",
+      "Anthony Wong",
+      "Anthony Zerbe",
+      "Harry Lennix",
+      "Clayton Watson",
+      "David Roberts",
+      "Lachy Hulme",
+      "Robyn Nevin",
+      "Tanveer K. Atwal",
+      "Tharini Mudaliar"
+    ],
+    "runtimeMinutes": 129,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "Australia",
+      "United States"
+    ]
+  },
+  {
+    "title": "The Matrix Resurrections",
+    "wikidataId": "Q80322391",
+    "imdbId": "tt10838180",
+    "wikidataTitle": "The Matrix Resurrections",
+    "year": 2021,
+    "directors": [
+      "the Wachowskis",
+      "Lana Wachowski"
+    ],
+    "genres": [
+      "science fiction film",
+      "superhero film",
+      "cyberpunk",
+      "action film"
+    ],
+    "cast": [
+      "Telma Hopkins",
+      "Neil Patrick Harris",
+      "Jonathan Groff",
+      "Keanu Reeves",
+      "Max Riemelt",
+      "Lambert Wilson",
+      "Brian J. Smith",
+      "Eréndira Ibarra",
+      "Andrew Caldwell",
+      "London Breed",
+      "Chad Stahelski",
+      "Toby Onwumere",
+      "Ellen Hollman",
+      "Jessica Henwick",
+      "Priyanka Chopra",
+      "Yahya Abdul-Mateen II",
+      "Christina Ricci",
+      "Carrie-Anne Moss",
+      "Jada Pinkett Smith"
+    ],
+    "runtimeMinutes": 148,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "wikidataId": "Q161087",
+    "imdbId": "tt0383574",
+    "wikidataTitle": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "action film",
+      "swashbuckler film",
+      "adventure film",
+      "pirate film",
+      "treasure hunt film"
+    ],
+    "cast": [
+      "Vanessa Branch",
+      "Johnny Depp",
+      "Keira Knightley",
+      "Robbie Gee",
+      "Bill Nighy",
+      "Stellan Skarsgård",
+      "Jack Davenport",
+      "Tom Hollander",
+      "Jonathan Pryce",
+      "Naomie Harris",
+      "Geoffrey Rush",
+      "Karly Rothenberg",
+      "Jonathan Kite",
+      "Marco Khan",
+      "Orlando Bloom",
+      "Martin Klebba",
+      "Ron Bottitta",
+      "Luke de Woolfson",
+      "Peter Donald Badalamenti II",
+      "Derrick O'Connor",
+      "Christopher Adamson",
+      "David Bailie",
+      "Sammi Hanratty",
+      "Mackenzie Crook",
+      "Lee Arenberg",
+      "Omar Gooding",
+      "Kevin McNally",
+      "David Schofield",
+      "Reggie Lee",
+      "Alex Norton"
+    ],
+    "runtimeMinutes": 145,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "wikidataId": "Q54274",
+    "imdbId": "tt0449088",
+    "wikidataTitle": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "action film",
+      "swashbuckler film",
+      "adventure film",
+      "epic film",
+      "comedy drama",
+      "pirate film"
+    ],
+    "cast": [
+      "Vanessa Branch",
+      "Johnny Depp",
+      "Keira Knightley",
+      "Orlando Bloom",
+      "Martin Klebba",
+      "Naomie Harris",
+      "Geoffrey Rush",
+      "Chow Yun-fat",
+      "Keith Richards",
+      "Bill Nighy",
+      "Stellan Skarsgård",
+      "Jack Davenport",
+      "Tom Hollander",
+      "Marcel Iureș",
+      "Hakeem Kae-Kazim",
+      "David Schofield",
+      "Greg Ellis",
+      "Reggie Lee",
+      "Jonathan Pryce",
+      "Kevin McNally",
+      "Mackenzie Crook",
+      "Omid Djalili",
+      "Ghassan Massoud",
+      "Lee Arenberg",
+      "Marshall Manesh",
+      "Mark Hildreth",
+      "Dominic Scott Kay",
+      "Christopher Adamson",
+      "David Bailie",
+      "Stany Coppet",
+      "Slim Khezri",
+      "Peter Donald Badalamenti II",
+      "Aleksandr Bargman",
+      "Ned Wertimer",
+      "J. B. Blanc"
+    ],
+    "runtimeMinutes": 162,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "wikidataId": "Q183555",
+    "imdbId": "tt1298650",
+    "wikidataTitle": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "directors": [
+      "Rob Marshall"
+    ],
+    "genres": [
+      "treasure hunt film",
+      "fantasy film",
+      "comedy film",
+      "action film",
+      "swashbuckler film",
+      "adventure film",
+      "pirate film",
+      "zombie film"
+    ],
+    "cast": [
+      "Judi Dench",
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Geoffrey Rush",
+      "Keith Richards",
+      "Astrid Berges-Frisbey",
+      "Ian McShane",
+      "Gemma Ward",
+      "Richard Griffiths",
+      "Kevin McNally",
+      "Sam Claflin",
+      "Stephen Graham",
+      "Anton Lesser",
+      "Derek Mears",
+      "Damian O'Hare",
+      "Greg Ellis",
+      "Roger Allam",
+      "Sebastian Armesto",
+      "Robbie Kay"
+    ],
+    "runtimeMinutes": 136,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "wikidataId": "Q10350033",
+    "imdbId": "tt1790809",
+    "wikidataTitle": "Pirates of the Caribbean: Dead Men Tell no Tales",
+    "year": 2017,
+    "directors": [
+      "Joachim Rønning",
+      "Espen Sandberg"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "swashbuckler film",
+      "pirate film",
+      "treasure hunt film"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Keira Knightley",
+      "Orlando Bloom",
+      "James Mackay",
+      "Jonathan Elsom",
+      "Goran D. Kleut",
+      "mi esposo",
+      "Javier Bardem",
+      "Martin Klebba",
+      "Kaya Scodelario",
+      "David Wenham",
+      "Kevin McNally",
+      "Stephen Graham",
+      "Geoffrey Rush",
+      "Golshifteh Farahani",
+      "Bruce Spence",
+      "Brenton Thwaites",
+      "Alexander Scheer",
+      "Michael Dorman",
+      "Zoe Ventoura"
+    ],
+    "runtimeMinutes": 129,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Batman Begins",
+    "wikidataId": "Q166262",
+    "imdbId": "tt0372784",
+    "wikidataTitle": "Batman Begins",
+    "year": 2005,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "crime thriller film",
+      "drama film",
+      "action film",
+      "adventure film",
+      "crime film",
+      "superhero film",
+      "neo-noir",
+      "ninja film"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Morgan Freeman",
+      "Liam Neeson",
+      "Gary Oldman",
+      "Michael Caine",
+      "Tom Wilkinson",
+      "Ken Watanabe",
+      "Rutger Hauer",
+      "Rade Šerbedžija",
+      "Katie Holmes",
+      "Cillian Murphy",
+      "Sara Stewart",
+      "Larry Holden",
+      "Dave Legeno",
+      "Joey Ansah",
+      "Christine Adams",
+      "Linus Roache",
+      "Karen David",
+      "Lucy Russell",
+      "Richard Brake",
+      "Gerard Murphy",
+      "Stephen Walters",
+      "TJ Ramini",
+      "Shane Rimmer",
+      "Mark Boone Junior",
+      "Jack Gleeson",
+      "Jon Foo",
+      "Tamer Hassan",
+      "Colin McFarlane",
+      "Tom Nolan",
+      "John Nolan",
+      "Gus Lewis",
+      "Jeremy Theobald"
+    ],
+    "runtimeMinutes": 140,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "wikidataId": "Q189330",
+    "imdbId": "tt1345836",
+    "wikidataTitle": "The Dark Knight Rises",
+    "year": 2012,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "superhero film",
+      "thriller film",
+      "crime thriller film"
+    ],
+    "cast": [
+      "Marion Cotillard",
+      "Anne Hathaway",
+      "Christian Bale",
+      "Morgan Freeman",
+      "Liam Neeson",
+      "Gary Oldman",
+      "Joey King",
+      "Josh Stewart",
+      "Michael Caine",
+      "Brett Cullen",
+      "Joseph Gordon-Levitt",
+      "Aaron Eckhart",
+      "Cillian Murphy",
+      "Tom Hardy",
+      "Nestor Carbonell",
+      "Rob Brown",
+      "Tomas Arana",
+      "Ben Mendelsohn",
+      "Brent Briscoe",
+      "Michael Papajohn",
+      "Josh Pence",
+      "Juno Temple",
+      "Tom Conti",
+      "Wade Williams",
+      "Christopher Judge",
+      "Matthew Modine",
+      "Robert Wisdom",
+      "Aidan Gillen",
+      "Desmond Harrington",
+      "William Devane",
+      "Linus Roache",
+      "Fredric Lehne",
+      "Alon Abutbul",
+      "Ian Bohen",
+      "James Harvey Ward",
+      "Ronnie Gene Blevins",
+      "Vincent van Ommen",
+      "Burn Gorman",
+      "David Gyasi",
+      "Thomas Lennon",
+      "Jillian Armenante",
+      "Uri Gavriel",
+      "Daniel Sunjata",
+      "Q708059",
+      "Reggie Lee",
+      "Jay Benedict",
+      "John Nolan",
+      "Thomas Tull",
+      "Glen Powell"
+    ],
+    "runtimeMinutes": 164,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  {
+    "title": "Mission: Impossible",
+    "wikidataId": "Q1741232",
+    "imdbId": "tt0117060",
+    "wikidataTitle": "Mission: Impossible",
+    "year": 1996,
+    "directors": [
+      "Brian De Palma"
+    ],
+    "genres": [
+      "thriller",
+      "action film",
+      "heist film",
+      "spy film"
+    ],
+    "cast": [
+      "Andreas Wisniewski",
+      "Emmanuelle Béart",
+      "Jon Voight",
+      "Kristin Scott Thomas",
+      "Emilio Estevez",
+      "Ving Rhames",
+      "Marek Vašut",
+      "Vanessa Redgrave",
+      "Ingeborga Dapkūnaitė",
+      "Ion Caramitru",
+      "Karel Dobrý",
+      "Nathan Osgood",
+      "Q104626280",
+      "Keith Campbell",
+      "Olegar Fedoro",
+      "Annabel Mullion",
+      "Garrick Hagon",
+      "Harry Fielder",
+      "Jiřina Třebická",
+      "John Knoll",
+      "Tom Cruise",
+      "Jean Reno",
+      "Dale Dye",
+      "Graydon Gould",
+      "Rudolf Pechan",
+      "Andrzej Borkowski",
+      "Mark Houghton",
+      "Valentina Jakunina",
+      "Randall Paul",
+      "Helen Lindsay",
+      "Carmela Marner",
+      "Ricco Ross",
+      "Sam Douglas",
+      "David Schneider",
+      "Marcel Iureș",
+      "Henry Czerny",
+      "Rolf Saxon",
+      "John McLaughlin"
+    ],
+    "runtimeMinutes": 110,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Czech Republic"
+    ]
+  },
+  {
+    "title": "Mission: Impossible 2",
+    "wikidataId": "Q505790",
+    "imdbId": "tt0120755",
+    "wikidataTitle": "Mission: Impossible 2",
+    "year": 2000,
+    "directors": [
+      "John Woo"
+    ],
+    "genres": [
+      "action film",
+      "spy film",
+      "thriller film"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Anthony Hopkins",
+      "John Polson",
+      "Dominic Purcell",
+      "Brendan Gleeson",
+      "Richard Roxburgh",
+      "Rade Šerbedžija",
+      "Dougray Scott",
+      "Tory Mussett",
+      "Cristina Brogeras",
+      "William Mapother",
+      "Thandiwe Newton",
+      "Ving Rhames"
+    ],
+    "runtimeMinutes": 124,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ]
+  },
+  {
+    "title": "Mission: Impossible III",
+    "wikidataId": "Q288173",
+    "imdbId": "tt0317919",
+    "wikidataTitle": "Mission: Impossible III",
+    "year": 2006,
+    "directors": [
+      "J. J. Abrams"
+    ],
+    "genres": [
+      "thriller film",
+      "action film",
+      "adventure film",
+      "spy film"
+    ],
+    "cast": [
+      "Simon Pegg",
+      "Bahar Soomekh",
+      "Tracy Middendorf",
+      "Aaron Paul",
+      "Greg Grunberg",
+      "Ving Rhames",
+      "Billy Crudup",
+      "Bellamy Young",
+      "Carla Gallo",
+      "Paolo Bonacelli",
+      "Maggie Q",
+      "Jeff Chase",
+      "Timothy Omundson",
+      "José Zúñiga",
+      "Daniel Mindel",
+      "Rose Rollins",
+      "Charles Chun",
+      "Francesco De Vito",
+      "Tom Cruise",
+      "Diane Marshall-Green",
+      "Ty Williams",
+      "Michael Berry Jr.",
+      "Eddie Marsan",
+      "Philip Seymour Hoffman",
+      "Laurence Fishburne",
+      "Jonathan Rhys Meyers",
+      "Michelle Monaghan",
+      "Jane Daly",
+      "George Cheung",
+      "James Shanklin",
+      "Lucille Soong",
+      "Andrea Sartoretti",
+      "Keri Russell",
+      "Sasha Alexander",
+      "Brandon Molale",
+      "Giorgio Marchesi",
+      "Niccolò Senni",
+      "Kathryn Fiore",
+      "Barney Cheng",
+      "Bruce French",
+      "Ellen Bry",
+      "Sean O'Bryan",
+      "Jonathan Dixon",
+      "Michelle Arthur",
+      "Sabra Williams"
+    ],
+    "runtimeMinutes": 126,
+    "languages": [
+      "German",
+      "English",
+      "Cantonese",
+      "Czech",
+      "Italian",
+      "Yue Chinese",
+      "Mandarin",
+      "Standard Chinese"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Mission: Impossible – Ghost Protocol",
+    "wikidataId": "Q628154",
+    "imdbId": "tt1229238",
+    "wikidataTitle": "Mission: Impossible – Ghost Protocol",
+    "year": 2011,
+    "directors": [
+      "Brad Bird"
+    ],
+    "genres": [
+      "thriller film",
+      "action film",
+      "spy film"
+    ],
+    "cast": [
+      "Josh Holloway",
+      "Michelle Monaghan",
+      "Léa Seydoux",
+      "Paula Patton",
+      "Simon Pegg",
+      "Ving Rhames",
+      "Anil Kapoor",
+      "Michael Nyqvist",
+      "Ladislav Beran",
+      "Tomás Valík",
+      "Pavel Kříž",
+      "Jan Pavel Filipenský",
+      "Ilia Volok",
+      "Pavel Bezděk",
+      "Goran Navojec",
+      "Jeremy Renner",
+      "Tom Cruise",
+      "Miraj Grbić",
+      "Mike Dopud",
+      "Vladimir Mashkov",
+      "Ivan Shvedoff",
+      "Andreas Wisniewski",
+      "Tom Wilkinson",
+      "April Stewart",
+      "Samuli Edelmann",
+      "Martin Hub",
+      "Ivo Novák",
+      "Brian Caspe"
+    ],
+    "runtimeMinutes": 132,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Mission: Impossible – Rogue Nation",
+    "wikidataId": "Q17548046",
+    "imdbId": "tt2381249",
+    "wikidataTitle": "Mission: Impossible – Rogue Nation",
+    "year": 2015,
+    "directors": [
+      "Christopher McQuarrie"
+    ],
+    "genres": [
+      "action film",
+      "thriller film"
+    ],
+    "cast": [
+      "Wolfgang Cerny",
+      "Alec Baldwin",
+      "Simon Pegg",
+      "Ving Rhames",
+      "Tom Hollander",
+      "Zhang Jingchu",
+      "Simon McBurney",
+      "Sean Harris",
+      "Laurence Rupp",
+      "Nina Hartmann",
+      "Sean Cronin",
+      "America Olivo",
+      "Jens Hultén",
+      "Rebecca Ferguson",
+      "Georgina Redhead",
+      "Hermione Corfield",
+      "Tim Breyvogel",
+      "Alec Utgoff",
+      "Martin Bermoser",
+      "Katrina Vasilieva",
+      "Denis Khoroshko",
+      "Nigel Barber",
+      "Adam Treasure",
+      "Laura Bernardeschi",
+      "Jeremy Renner",
+      "Tom Cruise"
+    ],
+    "runtimeMinutes": 131,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Mission: Impossible – Fallout",
+    "wikidataId": "Q29261993",
+    "imdbId": "tt4912910",
+    "wikidataTitle": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "directors": [
+      "Christopher McQuarrie"
+    ],
+    "genres": [
+      "thriller film",
+      "action film",
+      "adventure film"
+    ],
+    "cast": [
+      "Michelle Monaghan",
+      "Angela Bassett",
+      "Simon Pegg",
+      "Henry Cavill",
+      "Ving Rhames",
+      "Wes Bentley",
+      "Velibor Topic",
+      "Alec Baldwin",
+      "Tom Cruise",
+      "Joey Ansah",
+      "Kristoffer Joner",
+      "Sean Harris",
+      "Rebecca Ferguson",
+      "Vanessa Kirby",
+      "Alix Bénézech"
+    ],
+    "runtimeMinutes": 147,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "John Wick",
+    "wikidataId": "Q15732802",
+    "imdbId": "tt2911666",
+    "wikidataTitle": "John Wick",
+    "year": 2014,
+    "directors": [
+      "David Leitch",
+      "Chad Stahelski"
+    ],
+    "genres": [
+      "action film",
+      "thriller film",
+      "crime thriller film"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Daniel Bernhardt",
+      "Willem Dafoe",
+      "David Patrick Kelly",
+      "Bridget Moynahan",
+      "Ian McShane",
+      "Bridget Regan",
+      "Adrianne Palicki",
+      "Kevin Nash",
+      "Dean Winters",
+      "Alfie Allen",
+      "Clarke Peters",
+      "John Leguizamo",
+      "Randall Duk Kim",
+      "Lance Reddick",
+      "Michael Nyqvist",
+      "Keith Jardine",
+      "Thomas Sadoski",
+      "Omer Barnea",
+      "Scott Tixier",
+      "Toby Leonard Moore"
+    ],
+    "runtimeMinutes": 101,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "John Wick: Chapter 2",
+    "wikidataId": "Q21451640",
+    "imdbId": "tt4425200",
+    "wikidataTitle": "John Wick: Chapter 2",
+    "year": 2017,
+    "directors": [
+      "Chad Stahelski"
+    ],
+    "genres": [
+      "action film",
+      "splatter film",
+      "crime film",
+      "neo-noir",
+      "thriller film",
+      "vigilante film"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Joan Smalls",
+      "Claudia Gerini",
+      "Peter Serafinowicz",
+      "Thomas Sadoski",
+      "Ruby Rose",
+      "Chuk Iwuji",
+      "Riccardo Scamarcio",
+      "Laurence Fishburne",
+      "David Patrick Kelly",
+      "Bridget Moynahan",
+      "Ian McShane",
+      "Common",
+      "Peter Stormare",
+      "John Leguizamo",
+      "Franco Nero",
+      "Lance Reddick"
+    ],
+    "runtimeMinutes": 122,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "John Wick: Chapter 3 – Parabellum",
+    "wikidataId": "Q52951815",
+    "imdbId": "tt6146586",
+    "wikidataTitle": "John Wick: Chapter 3 – Parabellum",
+    "year": 2019,
+    "directors": [
+      "Chad Stahelski"
+    ],
+    "genres": [
+      "thriller film",
+      "vigilante film",
+      "action film",
+      "neo-noir"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Riccardo Scamarcio",
+      "Anjelica Huston",
+      "Laurence Fishburne",
+      "Ian McShane",
+      "Mark Dacascos",
+      "Randall Duk Kim",
+      "Lance Reddick",
+      "Saïd Taghmaoui",
+      "Halle Berry",
+      "Boban Marjanović",
+      "Jerome Flynn",
+      "Susan Blommaert",
+      "Q6163031",
+      "Tobias Segal",
+      "Yayan Ruhian",
+      "Robin Lord Taylor",
+      "Asia Kate Dillon",
+      "Faith Logan",
+      "Luca Mosca"
+    ],
+    "runtimeMinutes": 131,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "wikidataId": "Q80322358",
+    "imdbId": "tt10366206",
+    "wikidataTitle": "John Wick: Chapter 4",
+    "year": 2023,
+    "directors": [
+      "Chad Stahelski"
+    ],
+    "genres": [
+      "neo-noir",
+      "action thriller",
+      "action film",
+      "adventure film",
+      "crime film"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Natalia Tena",
+      "Bridget Moynahan",
+      "Ian McShane",
+      "Donnie Yen",
+      "Lance Reddick",
+      "Marko Zaror",
+      "Clancy Brown",
+      "Scott Adkins",
+      "George Georgiou",
+      "Shamier Anderson",
+      "Rina Sawayama",
+      "Hiroyuki Sanada",
+      "Bill Skarsgård",
+      "Sven Marquardt"
+    ],
+    "runtimeMinutes": 169,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Toy Story 2",
+    "wikidataId": "Q187266",
+    "imdbId": "tt0120363",
+    "wikidataTitle": "Toy Story 2",
+    "year": 1999,
+    "directors": [
+      "John Lasseter",
+      "Lee Unkrich",
+      "Ash Brannon"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "buddy film",
+      "flashback film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 92,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Toy Story 3",
+    "wikidataId": "Q187278",
+    "imdbId": "tt0435761",
+    "wikidataTitle": "Toy Story 3",
+    "year": 2010,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "genres": [
+      "comedy film",
+      "buddy film",
+      "comedy drama",
+      "flashback film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 103,
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Toy Story 4",
+    "wikidataId": "Q18517638",
+    "imdbId": "tt1979376",
+    "wikidataTitle": "Toy Story 4",
+    "year": 2019,
+    "directors": [
+      "Josh Cooley"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "action film",
+      "adventure film",
+      "children's film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 100,
+    "languages": [
+      "English",
+      "American English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Shrek",
+    "wikidataId": "Q483815",
+    "imdbId": "tt0126029",
+    "wikidataTitle": "Shrek",
+    "year": 2001,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "genres": [
+      "fantasy film",
+      "adventure film",
+      "buddy film",
+      "fantasy comedy",
+      "cinematic fairy tale",
+      "film based on book"
+    ],
+    "cast": [],
+    "runtimeMinutes": 90,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Shrek 2",
+    "wikidataId": "Q485983",
+    "imdbId": "tt0298148",
+    "wikidataTitle": "Shrek 2",
+    "year": 2004,
+    "directors": [
+      "Kelly Asbury",
+      "Andrew Adamson",
+      "Conrad Vernon"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "family film",
+      "fantasy comedy",
+      "cinematic fairy tale",
+      "fantasy film",
+      "comedy film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 93,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Shrek the Third",
+    "wikidataId": "Q486588",
+    "imdbId": "tt0413267",
+    "wikidataTitle": "Shrek the Third",
+    "year": 2007,
+    "directors": [
+      "Chris Miller",
+      "Raman Hui"
+    ],
+    "genres": [
+      "fantasy film",
+      "action film",
+      "adventure film",
+      "fantasy comedy",
+      "cinematic fairy tale"
+    ],
+    "cast": [],
+    "runtimeMinutes": 89,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Shrek Forever After",
+    "wikidataId": "Q208131",
+    "imdbId": "tt0892791",
+    "wikidataTitle": "Shrek Forever After",
+    "year": 2010,
+    "directors": [
+      "Mike Mitchell"
+    ],
+    "genres": [
+      "fantasy film",
+      "comedy film",
+      "action film",
+      "fantasy comedy",
+      "cinematic fairy tale",
+      "children's film",
+      "flashback film"
+    ],
+    "cast": [],
+    "runtimeMinutes": 93,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Godfather Part II",
+    "wikidataId": "Q184768",
+    "imdbId": "tt0071562",
+    "wikidataTitle": "The Godfather Part II",
+    "year": 1974,
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "drama film",
+      "action film",
+      "epic film",
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "gangster film",
+      "suspense film",
+      "flashback film",
+      "film based on a novel",
+      "police procedural film",
+      "crime drama film",
+      "historical drama film",
+      "historical film",
+      "crime thriller film"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Carmen Argenziano",
+      "James Caan",
+      "Diane Keaton",
+      "Al Pacino",
+      "Talia Shire",
+      "Robert Duvall",
+      "Sofia Coppola",
+      "G. D. Spradlin",
+      "Richard Matheson",
+      "Al Martino",
+      "Erica Yohn",
+      "Lee Strasberg",
+      "Danny Aiello",
+      "Harry Dean Stanton",
+      "Bruno Kirby",
+      "Morgana King",
+      "Amerigo Tot",
+      "Michael V. Gazzo",
+      "Abe Vigoda",
+      "Roger Corman",
+      "Gianni Russo",
+      "Roman Coppola",
+      "John Cazale",
+      "Sho Kosugi",
+      "Fay Spain",
+      "Maria Carta",
+      "Kathleen Beller",
+      "Marianna Hill",
+      "Gastone Moschin",
+      "Richard Bright",
+      "Joe Spinell",
+      "Ezio Flagello",
+      "Troy Donahue",
+      "Julie Gregg",
+      "Oreste Baldini",
+      "Ivonne Coll",
+      "Frank Sivero",
+      "Dominic Chianese",
+      "Leopoldo Trieste",
+      "Peter Donat",
+      "William Bowers",
+      "John Aprea",
+      "Tom Dahlgren",
+      "Francesca De Sapio",
+      "Tom Rosqui",
+      "Carmine Caridi",
+      "Tere Livrano"
+    ],
+    "runtimeMinutes": 165,
+    "languages": [
+      "English",
+      "Sicilian"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Godfather Part III",
+    "wikidataId": "Q202326",
+    "imdbId": "tt0099674",
+    "wikidataTitle": "The Godfather Part III",
+    "year": 1991,
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "genres": [
+      "crime drama film",
+      "crime film",
+      "mystery film",
+      "thriller film",
+      "gangster film",
+      "crime thriller film",
+      "drama film",
+      "epic film"
+    ],
+    "cast": [
+      "Sal Borgese",
+      "Andy Garcia",
+      "Sofia Coppola",
+      "John Savage",
+      "Joe Mantegna",
+      "John Cazale",
+      "George Hamilton",
+      "Al Martino",
+      "John Abineri",
+      "Catherine Scorsese",
+      "Ron Jeremy",
+      "Franco Citti",
+      "Anton Coppola",
+      "Al Pacino",
+      "Helmut Berger",
+      "Diane Keaton",
+      "Eli Wallach",
+      "Talia Shire",
+      "Richard Bright",
+      "Bridget Fonda",
+      "Vito Antuofermo",
+      "Vittorio Duse",
+      "Simonetta Stefanelli",
+      "Donal Donnelly",
+      "Enrico Luzi",
+      "Michael Bowen",
+      "Carmine Coppola",
+      "Brett Halsey",
+      "Raf Vallone",
+      "Don Novello",
+      "Mario Donatone",
+      "Mimmo Cuticchio",
+      "Remo Remotti",
+      "Salvatore Billa",
+      "Valeria Sabel",
+      "Anthony Guidera",
+      "Don Costello",
+      "Jeannie Linero",
+      "Al Ruscio",
+      "Rick Aviles",
+      "Robert Cicchini",
+      "Jessica DiCicco",
+      "David Hume Kennerly",
+      "Willie Brown Jr.",
+      "Mickey Knox",
+      "Gia Coppola",
+      "Franc D'Ambrosio",
+      "Paco Reconti",
+      "Alessandro Ruspoli, 9th Prince of Cerveteri",
+      "Angelo Romero",
+      "Carmine Caridi",
+      "Enzo Robutti",
+      "Frank Albanese",
+      "Carlos Miranda",
+      "Michele Russo",
+      "Tere Livrano",
+      "Marino Masè"
+    ],
+    "runtimeMinutes": 162,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Back to the Future Part II",
+    "wikidataId": "Q109331",
+    "imdbId": "tt0096874",
+    "wikidataTitle": "Back to the Future Part II",
+    "year": 1989,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "genres": [
+      "comedy film",
+      "science fiction film",
+      "teen film",
+      "dystopian film",
+      "time-travel film"
+    ],
+    "cast": [
+      "Christopher Lloyd",
+      "Flea",
+      "Billy Zane",
+      "Elisabeth Shue",
+      "Lea Thompson",
+      "Crispin Glover",
+      "George Buck Flower",
+      "Jason Scott Lee",
+      "Thomas F. Wilson",
+      "Michael J. Fox",
+      "Mary Ellen Trainor",
+      "Elijah Wood",
+      "Charles Fleischer",
+      "James Tolkan",
+      "Joe Flaherty",
+      "Jeffrey Weissman",
+      "Casey Siemaszko",
+      "Neil Ross",
+      "Jim Ishida",
+      "John Erwin",
+      "Darlene Vogel",
+      "Wesley Mann",
+      "Ricky Dean Logan",
+      "Al White",
+      "Donald Fullilove",
+      "J. J. Cohen"
+    ],
+    "runtimeMinutes": 108,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Back to the Future Part III",
+    "wikidataId": "Q230552",
+    "imdbId": "tt0099088",
+    "wikidataTitle": "Back to the Future Part III",
+    "year": 1990,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "genres": [
+      "comedy film",
+      "Western film",
+      "science fiction film",
+      "teen film",
+      "time-travel film"
+    ],
+    "cast": [
+      "Mary Steenburgen",
+      "Christopher Lloyd",
+      "Richard Dysart",
+      "ZZ Top",
+      "Flea",
+      "Elisabeth Shue",
+      "Lea Thompson",
+      "Crispin Glover",
+      "Thomas F. Wilson",
+      "Michael J. Fox",
+      "Wendie Jo Sperber",
+      "Dean Cundey",
+      "Dub Taylor",
+      "Donovan Scott",
+      "James Tolkan",
+      "Bill McKinney",
+      "Jeffrey Weissman",
+      "Marc McClure",
+      "Harry Carey",
+      "Matt Clark",
+      "Pat Buttram",
+      "Ricky Dean Logan"
+    ],
+    "runtimeMinutes": 118,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "wikidataId": "Q200873",
+    "imdbId": "tt0119567",
+    "wikidataTitle": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film"
+    ],
+    "cast": [
+      "Thomas F. Duffy",
+      "Geno Silva",
+      "Marjean Holden",
+      "Steven Spielberg",
+      "Richard Attenborough",
+      "Julianne Moore",
+      "Jeff Goldblum",
+      "Vince Vaughn",
+      "Pete Postlethwaite",
+      "Ariana Richards",
+      "David Koepp",
+      "Peter Stormare",
+      "Mark Pellegrino",
+      "Richard Schiff",
+      "Eli Roth",
+      "Camilla Belle",
+      "Joseph Mazzello",
+      "Arliss Howard",
+      "Harvey Jason",
+      "Vanessa Lee Chester",
+      "Thomas Rosales Jr.",
+      "Robin Sachs",
+      "Ian Abercrombie"
+    ],
+    "runtimeMinutes": 129,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Jurassic Park III",
+    "wikidataId": "Q1102220",
+    "imdbId": "tt0163025",
+    "wikidataTitle": "Jurassic Park III",
+    "year": 2001,
+    "directors": [
+      "Joe Johnston"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film"
+    ],
+    "cast": [
+      "Téa Leoni",
+      "Sam Neill",
+      "Laura Dern",
+      "William H. Macy",
+      "Linda Park",
+      "Michael Jeter",
+      "Alessandro Nivola",
+      "Sarah Danielle Madison",
+      "Trevor Morgan",
+      "John Diehl",
+      "Julio Oscar Mechoso",
+      "Mark Harelik"
+    ],
+    "runtimeMinutes": 92,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Jurassic World",
+    "wikidataId": "Q3512046",
+    "imdbId": "tt0369610",
+    "wikidataTitle": "Jurassic World",
+    "year": 2015,
+    "directors": [
+      "Colin Trevorrow"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film"
+    ],
+    "cast": [
+      "Jake Johnson",
+      "Bryce Dallas Howard",
+      "Judy Greer",
+      "Katie McGrath",
+      "Brad Bird",
+      "Vincent D'Onofrio",
+      "Jimmy Fallon",
+      "Omar Sy",
+      "BD Wong",
+      "Irrfan Khan",
+      "Chris Pratt",
+      "Ty Simpkins",
+      "Andy Buckley",
+      "Jimmy Buffett",
+      "Brian Tee",
+      "Michael Papajohn",
+      "Nick Robinson",
+      "Colin Trevorrow",
+      "Gary Weeks",
+      "Slim Khezri",
+      "James DuMont",
+      "Johnny Otto",
+      "Lauren Lapkus",
+      "Colby Boothman",
+      "Eric Edelstein",
+      "Alan Purwin"
+    ],
+    "runtimeMinutes": 124,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Scream 3",
+    "wikidataId": "Q391784",
+    "imdbId": "",
+    "wikidataTitle": "Scream 3",
+    "year": 2000,
+    "directors": [
+      "Wes Craven"
+    ],
+    "genres": [
+      "horror film",
+      "slasher film",
+      "mystery film"
+    ],
+    "cast": [
+      "Courteney Cox",
+      "Neve Campbell",
+      "Parker Posey",
+      "Patrick Dempsey",
+      "Emily Mortimer",
+      "David Arquette",
+      "Scott Foley",
+      "Roger L. Jackson",
+      "Deon Richmond"
+    ],
+    "runtimeMinutes": 117,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Iron Man",
+    "wikidataId": "Q192724",
+    "imdbId": "",
+    "wikidataTitle": "Iron Man",
+    "year": 2008,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "superhero film"
+    ],
+    "cast": [
+      "Gwyneth Paltrow",
+      "Clark Gregg",
+      "Shaun Toub",
+      "Robert Downey Jr.",
+      "Samuel L. Jackson",
+      "Jeff Bridges",
+      "Stan Lee",
+      "Leslie Bibb",
+      "Paul Bettany",
+      "Jon Favreau",
+      "Terrence Howard",
+      "Tom Morello",
+      "Faran Tahir",
+      "Joshua Harto",
+      "Tim Guinee",
+      "Bill Smitrovich",
+      "Nazanin Boniadi",
+      "Meera Simhan",
+      "Sayed Badreya",
+      "Will Lyman",
+      "America Olivo",
+      "Peter Billingsley",
+      "Adam Harrington",
+      "Ahmed Ahmed",
+      "Gerard Sanders",
+      "Jim Cramer",
+      "Lauren Scyphers",
+      "Marco Khan",
+      "Mike Cochrane",
+      "Ricki Noel Lander",
+      "Gabrielle Tuite",
+      "Tim Griffin",
+      "James Bethea",
+      "Sarah Cahill",
+      "Fahim Fazli",
+      "Russell Richardson",
+      "Micah Hauptman",
+      "Masha Lund",
+      "Patrick O'Connell",
+      "Dastan Khalili",
+      "Ido Mor",
+      "Kevin Foster",
+      "Garret Noël",
+      "Eileen Weisinger",
+      "Lana Kinnear",
+      "Nicole Lindeblad",
+      "Zorianna Kit",
+      "Ben Newmark",
+      "Jeannine Kaspar",
+      "Stacy Stas Hurst",
+      "Tim Rigby",
+      "Thomas Craig Plumer",
+      "Robert Berkman",
+      "Frank Nyi",
+      "Marvin Jordan",
+      "Donna Evans",
+      "Reid Harper",
+      "Ava Rose Williams",
+      "Summer Kylie Remington",
+      "Vladimir Kubr",
+      "Callie Croughwell",
+      "Javan Tahir",
+      "Sahar Bibiyan",
+      "Justin Rex"
+    ],
+    "runtimeMinutes": 126,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Iron Man 2",
+    "wikidataId": "Q205028",
+    "imdbId": "",
+    "wikidataTitle": "Iron Man 2",
+    "year": 2010,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "genres": [
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "superhero film"
+    ],
+    "cast": [
+      "Scarlett Johansson",
+      "Gwyneth Paltrow",
+      "Larry Ellison",
+      "Clark Gregg",
+      "Robert Downey Jr.",
+      "Samuel L. Jackson",
+      "Mickey Rourke",
+      "Stan Lee",
+      "Lumi Docan",
+      "François Duhamel",
+      "Ali Khan",
+      "Isaiah Guyman Martin IV",
+      "Keith Middlebrook",
+      "Margy Stein",
+      "Davin Ransom",
+      "Brian Schaeffer",
+      "Phillipe Simon",
+      "Jack White",
+      "Kate Mara",
+      "Olivia Munn",
+      "Christiane Amanpour",
+      "Leslie Bibb",
+      "Helena Mattsson",
+      "Don Cheadle",
+      "Jon Favreau",
+      "Bill O'Reilly",
+      "Sam Rockwell",
+      "Elon Musk",
+      "DJ AM",
+      "John Slattery",
+      "Tim Guinee",
+      "Eric L. Haney",
+      "Tanoai Reed",
+      "Garry Shandling",
+      "Alejandro Patino",
+      "Karim Saleh",
+      "Philippe Bergeron",
+      "Yevgeni Lazarev",
+      "Anya Monzikova",
+      "James Bethea",
+      "Michael Bruno",
+      "Kate Clark"
+    ],
+    "runtimeMinutes": 125,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Iron Man 3",
+    "wikidataId": "Q209538",
+    "imdbId": "",
+    "wikidataTitle": "Iron Man 3",
+    "year": 2013,
+    "directors": [
+      "Shane Black"
+    ],
+    "genres": [
+      "superhero film",
+      "comedy film",
+      "action film",
+      "adventure film",
+      "science fiction film"
+    ],
+    "cast": [
+      "Rebecca Mader",
+      "Joan Rivers",
+      "Paul Bettany",
+      "Don Cheadle",
+      "Yvonne Zima",
+      "Steve Wilder",
+      "Cullen Moss",
+      "George Kotsiopoulos",
+      "Jan Broberg Felt",
+      "Josh Elliott",
+      "Spencer Garrett",
+      "Linden Ashby",
+      "James Badge Dale",
+      "Q463497",
+      "Andrew Lauer",
+      "Fan Bingbing",
+      "Megan Henderson",
+      "Monique Ganderton",
+      "Tara Macken",
+      "Fernando Chien",
+      "Eric Oram",
+      "Ilram Choi",
+      "Aja Frary",
+      "Colin Follenweider",
+      "Tom Clark",
+      "John Eddins",
+      "Rockey Dickey Jr.",
+      "Drew Michael Hershner",
+      "Sarah Burkhardt",
+      "Matthew Sterling Nye",
+      "Bronte D'Esposito",
+      "Noah Visconti",
+      "Brooke Jaye Taylor",
+      "Jacob Dewitt",
+      "Kevin Arnold",
+      "Juan Bofill",
+      "David Anthony Buglione",
+      "Adam Lytle",
+      "Bill Maher",
+      "Ashley Hamilton",
+      "Sala Baker",
+      "Tom Virtue",
+      "Dale Dickey",
+      "Thomas Roberts",
+      "Gwyneth Paltrow",
+      "Mark Ruffalo",
+      "Stephanie Szostak",
+      "Shaun Toub",
+      "William Sadler",
+      "Robert Downey Jr.",
+      "Ben Kingsley",
+      "Stan Lee",
+      "Dennis Keiffer",
+      "Pat Kiernan",
+      "Glenn Foster",
+      "Bridger Zadina",
+      "Corey Hawkins",
+      "Jenna Ortega",
+      "Brian Schaeffer",
+      "Nate Bynum",
+      "Andrew Lander",
+      "Serdar Kalsin",
+      "Roy McCrerey",
+      "Demetrios Hodges",
+      "Bobby Tisdale",
+      "James Rackley",
+      "Kim Dean",
+      "Anthony Reynolds",
+      "Kendrick Cross",
+      "Jon Favreau",
+      "Adam Pally",
+      "Martin Škrtel",
+      "Guy Pearce",
+      "Rebecca Hall",
+      "Paul Andrew O'Connor",
+      "Phil Ortiz",
+      "Gwendalyn Barker",
+      "Luciana Faulhaber",
+      "Toochukwu T.C. Anyachonkeya",
+      "Chad Kurtz",
+      "Sarah Farooqui",
+      "Kial Butler",
+      "Nick Brandon",
+      "Ty Simpkins",
+      "Wang Xueqi",
+      "Cal Johnson",
+      "Dane Farwell",
+      "Mark Fichera",
+      "Mark Ginther",
+      "Adrian Gonzales",
+      "Samuel Le",
+      "Dan Brown",
+      "Brycen Counts",
+      "Kiante Elam",
+      "William Morts",
+      "Jade Quon",
+      "J.C. Robaina",
+      "Markos Rounthwaite",
+      "Philip J Silvera",
+      "Brian Simpson",
+      "Mark Aaron Wagner",
+      "Naomi Grace",
+      "Aurelia Riley",
+      "Johanna Yunda",
+      "Wesley Thompson",
+      "Kary Musa",
+      "Mike Massa",
+      "Mark Kubr"
+    ],
+    "runtimeMinutes": 130,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Superman Returns",
+    "wikidataId": "Q328695",
+    "imdbId": "",
+    "wikidataTitle": "Superman Returns",
+    "year": 2006,
+    "directors": [
+      "Bryan Singer"
+    ],
+    "genres": [
+      "science fiction film",
+      "action film"
+    ],
+    "cast": [
+      "Kevin Spacey",
+      "Marlon Brando",
+      "Parker Posey",
+      "Kal Penn",
+      "Eva Marie Saint",
+      "Kate Bosworth",
+      "Brandon Routh",
+      "Frank Langella",
+      "Sam Huntington",
+      "James Marsden",
+      "Noel Neill",
+      "Peta Wilson",
+      "Michael Dougherty",
+      "Bill Young",
+      "Ian Roberts",
+      "Stephan Bender",
+      "James Karen",
+      "Raelee Hill",
+      "Dan Harris",
+      "Tristan Lake Leabu"
+    ],
+    "runtimeMinutes": 148,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "The Incredible Hulk",
+    "wikidataId": "Q466611",
+    "imdbId": "",
+    "wikidataTitle": "The Incredible Hulk",
+    "year": 2008,
+    "directors": [
+      "Louis Leterrier"
+    ],
+    "genres": [
+      "adventure film",
+      "science fiction film",
+      "superhero film",
+      "action film"
+    ],
+    "cast": [
+      "Lou Ferrigno",
+      "Peter Mensah",
+      "Chris Owens",
+      "Tim Blake Nelson",
+      "Rickson Gracie",
+      "Martin Starr",
+      "Genelle Williams",
+      "Michael K. Williams",
+      "Wayne Robson",
+      "Russell Yuen",
+      "Christina Cabot",
+      "Débora Nascimento",
+      "Joris Jarsky",
+      "Paul Soles",
+      "Simon Wong",
+      "Arnold Pinnock",
+      "Dylan Taylor",
+      "William Hurt",
+      "Edward Norton",
+      "Robert Downey Jr.",
+      "Liv Tyler",
+      "Stan Lee",
+      "Greg Bryk",
+      "Tim Roth",
+      "Ty Burrell",
+      "Ishan Morris",
+      "Krista Vendy",
+      "Max Topplin",
+      "Trevor Smith",
+      "Tig Fong",
+      "Tony Nappo",
+      "David Meunier",
+      "Maxwell McCabe-Lokos",
+      "Rick Cordeiro",
+      "Nick Alachiotis",
+      "Jason Burke",
+      "Grant Nickalls",
+      "Jason Hunter",
+      "David Collins",
+      "John Carvalho",
+      "Robin Wilcock",
+      "Javier Lambert",
+      "Chris Ratz",
+      "Todd Hofley",
+      "Joe La Loggia",
+      "Tamsen McDonough",
+      "Roberto Bakker",
+      "Ruru Sacha",
+      "James Downing",
+      "Stephen Gartner",
+      "Nicholas Rose",
+      "P.J. Kerr",
+      "Al Vrkljan",
+      "Adrian Hein",
+      "John MacDonald",
+      "Shaun McComb",
+      "Pedro Salvin",
+      "Julio Cesar Torres Dantas",
+      "Raimundo Camargo Nascimento",
+      "Lee Jee-yun",
+      "Desmond Campbell",
+      "DeShaun Clarke",
+      "Aaron Berg",
+      "Moses Nyarko",
+      "Carlos A. González",
+      "Yan Regis",
+      "Stephen Broussard",
+      "Robert Morse",
+      "Matt Purdy",
+      "Lenka Matuska",
+      "Scott Magee",
+      "Wes Berger",
+      "Carla Nascimento",
+      "Mila Stromboni"
+    ],
+    "runtimeMinutes": 112,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Annie",
+    "wikidataId": "Q566890",
+    "imdbId": "",
+    "wikidataTitle": "Annie",
+    "year": 1982,
+    "directors": [
+      "John Huston"
+    ],
+    "genres": [
+      "musical film",
+      "comedy drama",
+      "children's film"
+    ],
+    "cast": [
+      "John Huston",
+      "Tim Curry",
+      "Albert Finney",
+      "Bernadette Peters",
+      "Shawnee Smith",
+      "Ray Bolger",
+      "Carol Burnett",
+      "Meredith Salenger",
+      "Amanda Peterson",
+      "Edward Herrmann",
+      "Aileen Quinn",
+      "Geoffrey Holder",
+      "Larry Hankin",
+      "Janet Jones",
+      "Ann Reinking"
+    ],
+    "runtimeMinutes": 127,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Tangled",
+    "wikidataId": "Q1129506",
+    "imdbId": "",
+    "wikidataTitle": "Tangled",
+    "year": 2001,
+    "directors": [
+      "Jay Lowi"
+    ],
+    "genres": [
+      "drama film",
+      "thriller film"
+    ],
+    "cast": [
+      "Jonathan Rhys Meyers",
+      "Lorraine Bracco",
+      "Rachael Leigh Cook",
+      "Estella Warren",
+      "Shawn Hatosy"
+    ],
+    "runtimeMinutes": 86,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Dune",
+    "wikidataId": "Q114819",
+    "imdbId": "",
+    "wikidataTitle": "Dune",
+    "year": 1984,
+    "directors": [
+      "David Lynch"
+    ],
+    "genres": [
+      "action film",
+      "film based on a novel"
+    ],
+    "cast": [
+      "David Lynch",
+      "Patrick Stewart",
+      "Jürgen Prochnow",
+      "Silvana Mangano",
+      "Freddie Jones",
+      "Max von Sydow",
+      "Kyle MacLachlan",
+      "Virginia Madsen",
+      "Sean Young",
+      "Linda Hunt",
+      "Alicia Witt",
+      "Siân Phillips",
+      "José Ferrer",
+      "Brad Dourif",
+      "Dean Stockwell",
+      "Kenneth McMillan",
+      "Jack Nance",
+      "Francesca Annis",
+      "Sting",
+      "Richard Jordan",
+      "Everett McGill",
+      "Paul L. Smith",
+      "Leonardo Cimino",
+      "Angélica Aragón",
+      "Jacqueline Voltaire",
+      "Ernesto Laguardia Longega",
+      "Julieta Rosen",
+      "Danny Corkill",
+      "Ana Ofelia Murguía",
+      "Humberto Elizondo",
+      "Margarita Sanz",
+      "Judd Omen",
+      "Claudia Ramírez",
+      "Miguel Cané"
+    ],
+    "runtimeMinutes": 137,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Thor",
+    "wikidataId": "Q217020",
+    "imdbId": "",
+    "wikidataTitle": "Thor",
+    "year": 2011,
+    "directors": [
+      "Kenneth Branagh"
+    ],
+    "genres": [
+      "fantasy film",
+      "action film",
+      "adventure film",
+      "science fiction film",
+      "superhero film"
+    ],
+    "cast": [
+      "Jeremy Renner",
+      "Natalie Portman",
+      "Chris Hemsworth",
+      "Anthony Hopkins",
+      "Clark Gregg",
+      "J. Michael Straczynski",
+      "Samuel L. Jackson",
+      "Stan Lee",
+      "Stellan Skarsgård",
+      "Rene Russo",
+      "Kat Dennings",
+      "Adriana Barraza",
+      "Dakota Goyo",
+      "Jaimie Alexander",
+      "Tom Hiddleston",
+      "Idris Elba",
+      "Matt Battaglia",
+      "Ray Stevenson",
+      "Tadanobu Asano",
+      "Colm Feore",
+      "Joshua Cox",
+      "Jesse Smith, Jr.",
+      "Patrick O'Brien Demsey",
+      "Joseph Gatt",
+      "Maximiliano Hernández",
+      "Jamie McShane",
+      "Richard Cetrone",
+      "Josh Dallas",
+      "Dale Godboldo",
+      "Joel McCrary",
+      "Douglas Tait",
+      "Matt Ducey",
+      "Jason Camp",
+      "Buddy Sosthand",
+      "Blake Silver",
+      "Jim Palmer",
+      "Seth Coltan",
+      "Darren Kendrick",
+      "Isaac Kappy",
+      "Juliet Lopez",
+      "Luke Massy",
+      "Ryan Schaefer",
+      "Rob Mars",
+      "Carrie Lazar",
+      "Harley Graham",
+      "Alexander Wright",
+      "Hilary Pingle",
+      "Shawn-Caulin Young",
+      "Kinsey McLean",
+      "Kelly Hawthorne",
+      "Ted Allpress"
+    ],
+    "runtimeMinutes": 114,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Camelot",
+    "wikidataId": "Q930372",
+    "imdbId": "",
+    "wikidataTitle": "Camelot",
+    "year": 1967,
+    "directors": [
+      "Joshua Logan"
+    ],
+    "genres": [
+      "fantasy film",
+      "musical film",
+      "comedy drama",
+      "romantic comedy",
+      "medieval film",
+      "film based on a novel"
+    ],
+    "cast": [
+      "Richard Harris",
+      "David Hemmings",
+      "Franco Nero",
+      "Vanessa Redgrave",
+      "Estelle Winwood",
+      "Lionel Jeffries",
+      "Laurence Naismith",
+      "Pierre Olaf",
+      "Peter Bromilow",
+      "Sue Casey",
+      "Anthony Rogers",
+      "Nicolas Beauvy",
+      "Gary Marshal",
+      "Gary Marsh"
+    ],
+    "runtimeMinutes": 175,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Scream",
+    "wikidataId": "Q27411",
+    "imdbId": "",
+    "wikidataTitle": "Scream",
+    "year": 1996,
+    "directors": [
+      "Wes Craven"
+    ],
+    "genres": [
+      "comedy film",
+      "horror film",
+      "slasher film",
+      "teen film",
+      "mystery film"
+    ],
+    "cast": [
+      "Matthew Lillard",
+      "Courteney Cox",
+      "Neve Campbell",
+      "Rose McGowan",
+      "David Arquette",
+      "Jamie Kennedy",
+      "Skeet Ulrich",
+      "Roger L. Jackson"
+    ],
+    "runtimeMinutes": 111,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Black Widow",
+    "wikidataId": "Q1219363",
+    "imdbId": "",
+    "wikidataTitle": "Black Widow",
+    "year": 1987,
+    "directors": [
+      "Bob Rafelson"
+    ],
+    "genres": [
+      "crime film",
+      "erotic thriller"
+    ],
+    "cast": [
+      "Mary Woronov",
+      "Nicol Williamson",
+      "Christian Clemenson",
+      "D. W. Moffett",
+      "Gene Callahan",
+      "Sami Frey",
+      "Thomas Hill",
+      "Rutanya Alda",
+      "Leo Rossi",
+      "Dennis Hopper",
+      "Debra Winger",
+      "Diane Ladd",
+      "Theresa Russell",
+      "Lois Smith",
+      "David Mamet",
+      "Terry O'Quinn",
+      "James Hong"
+    ],
+    "runtimeMinutes": 99,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "title": "Beauty and the Beast",
+    "wikidataId": "Q19946102",
+    "imdbId": "",
+    "wikidataTitle": "Beauty and the Beast",
+    "year": 2017,
+    "directors": [
+      "Bill Condon"
+    ],
+    "genres": [
+      "drama film",
+      "fantasy film",
+      "musical film",
+      "romance film",
+      "family film",
+      "melodrama",
+      "cinematic fairy tale",
+      "romantic drama"
+    ],
+    "cast": [
+      "Emma Watson",
+      "Kevin Kline",
+      "Ewan McGregor",
+      "Emma Thompson",
+      "Ian McKellen",
+      "Stanley Tucci",
+      "Audra McDonald",
+      "Hattie Morahan",
+      "Luke Evans",
+      "Dan Stevens",
+      "Josh Gad",
+      "Ray Fearon",
+      "Haydn Gwynne",
+      "Gugu Mbatha-Raw",
+      "Adrian Schiller",
+      "Clive Rowe",
+      "Rita Davies",
+      "Rafaëlle Cohen",
+      "Henry Garrett",
+      "Alexis Loizon",
+      "Gerard Horan",
+      "Michael Jibson",
+      "DJ Bailey",
+      "Harriet Jones",
+      "Rudi Goodman",
+      "Zoe Rainey",
+      "Jimmy Johnston",
+      "Dean Street",
+      "Sophie Reid",
+      "Carla Nella",
+      "Nathan Mack",
+      "Thomas Padden",
+      "Obioma Ugoala",
+      "Lynne Wilmot",
+      "Jane Fowler",
+      "Alison Harding",
+      "Chris Andrew Mellon",
+      "Jemma Alexander",
+      "Sandy Strallen",
+      "Dale Branston",
+      "Daniel Ioannou",
+      "Peter Challis",
+      "Wendy Baldock",
+      "Norma Atallah",
+      "Tom Oakley",
+      "William Bozier",
+      "Jak Allen-Anderson",
+      "Leo Andrew",
+      "Steven Butler",
+      "Sharon Gomez",
+      "Simone Sault",
+      "Beth Willetts",
+      "Mandy Montanez",
+      "Jacqui Jameson",
+      "Vivien Parry"
+    ],
+    "runtimeMinutes": 129,
+    "languages": [
+      "English"
+    ],
+    "countries": [
+      "United States"
+    ]
+  }
+]

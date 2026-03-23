@@ -1,0 +1,38 @@
+#app {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.films-section {
+  width: min(1180px, calc(100% - 24px));
+  margin: 24px auto 40px;
+}
+
+.films-section__title {
+  margin: 16px 0;
+  font-size: 2.5rem;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.films-section__loading {
+  margin: 0 0 16px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.lijn {
+  margin: 0 auto 24px;
+  width: 95%;
+  height: 3px;
+  border-radius: 50%;
+  background: #685858;
+  box-shadow: whitesmoke 0 0 8px;
+}
+
+footer {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.9rem;
+  margin: 24px auto;
+}
+

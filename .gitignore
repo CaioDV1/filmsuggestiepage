@@ -1,7 +1,4 @@
-front/node_modules
-back/node_modules
 **/node_modules
 **/dist
-front/dist
 .env
 .DS_Store

@@ -1,0 +1,40 @@
+app-button {
+  display: inline-block;
+}
+
+app-button .app-button {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.06);
+  color: white;
+  padding: 10px 16px;
+  border-radius: 12px;
+  cursor: pointer;
+  font: inherit;
+  line-height: 1.2;
+}
+
+app-button .app-button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}
+
+app-button .app-button--ghost {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+app-button .app-button--primary {
+  background: #212a2b;
+}
+
+app-button .app-button--icon {
+  padding: 10px 14px;
+  min-width: 46px;
+}
+
+app-button .app-button--option {
+  width: 100%;
+  text-align: left;
+  padding: 14px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}

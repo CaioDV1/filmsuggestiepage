@@ -1,0 +1,205 @@
+{
+  "Q132689": {
+    "commentCount": 3,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "casablacha",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "gemiddelde test",
+        "stars": 2
+      },
+      {
+        "user": "blub",
+        "text": "kjhg",
+        "stars": 5
+      }
+    ],
+    "averageStars": 4
+  },
+  "Q165713": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "schagalaga bingbong",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q486588": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "bl",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q23781155": {
+    "commentCount": 3,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "blub",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "mlkj",
+        "stars": 2
+      },
+      {
+        "user": "blub",
+        "text": "mlkj",
+        "stars": 5
+      }
+    ],
+    "averageStars": 4
+  },
+  "Q46717": {
+    "commentCount": 3,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "hallo",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "mlkjmlkj",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "mlkj",
+        "stars": 2
+      }
+    ],
+    "averageStars": 4
+  },
+  "Q164963": {
+    "commentCount": 2,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "toppper",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "hhhh",
+        "stars": 3
+      }
+    ],
+    "averageStars": 4
+  },
+  "Q80379": {
+    "commentCount": 5,
+    "comments": [
+      {
+        "user": "blub",
+        "text": "goated",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "hhlkhl",
+        "stars": 3
+      },
+      {
+        "user": "blub",
+        "text": "mlkjlmkj",
+        "stars": 1
+      },
+      {
+        "user": "blub",
+        "text": "mlkjlmkjmlkj",
+        "stars": 5
+      },
+      {
+        "user": "blub",
+        "text": "mlkjlmkjlmkj",
+        "stars": 5
+      }
+    ],
+    "averageStars": 3.8
+  },
+  "Q127367": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "baart",
+        "text": "mlkj",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q919649": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "baart",
+        "text": "mlkj",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q108745": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "baart",
+        "text": "mùkmlkùmk",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q19946102": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "baart",
+        "text": "het werkt nog",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q166262": {
+    "commentCount": 1,
+    "comments": [
+      {
+        "user": "sjakkie",
+        "text": "hallo is dit de eerste websockets test",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  },
+  "Q42051": {
+    "commentCount": 2,
+    "comments": [
+      {
+        "user": "sjakkie",
+        "text": "websockets test2",
+        "stars": 5
+      },
+      {
+        "user": "jhkjlhlkjh",
+        "text": "hallo",
+        "stars": 5
+      }
+    ],
+    "averageStars": 5
+  }
+}

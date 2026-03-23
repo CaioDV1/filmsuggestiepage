@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Alien",
+    "image": "/posters/alien.jpg",
+    "description": "A sci-fi horror film where the crew of a spaceship faces a deadly alien lifeform."
+  },
+  {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "image": "/posters/thehobbit2.jpg",
+    "description": "Bilbo and the dwarves continue their dangerous journey toward the Lonely Mountain."
+  },
+  {
+    "title": "Psycho",
+    "image": "/posters/psycho.jpg",
+    "description": "A legendary psychological horror film about fear, obsession and madness."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "image": "/posters/theavengers3.jpg",
+    "description": "The Avengers and their allies try to stop Thanos from collecting the Infinity Stones."
+  },
+  {
+    "title": "Rear Window",
+    "image": "/posters/rearwindow.jpg",
+    "description": "A suspenseful story about watching others from a window."
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "image": "/posters/starwars4.jpg",
+    "description": "Luke Skywalker joins the fight against the Galactic Empire."
+  },
+  {
+    "title": "Casablanca",
+    "image": "/posters/casablancha.jpg",
+    "description": "A timeless romantic drama set during World War II."
+  },
+  {
+    "title": "The Lord Of The Rings: The Two Towers",
+    "image": "/posters/thelordoftherings2.jpg",
+    "description": "The Fellowship is broken, but the quest to destroy the ring continues."
+  },
+  {
+    "title": "Citizen Kane",
+    "image": "/posters/citizenkane.jpg",
+    "description": "A landmark film about power, ambition and the mystery of a man’s life."
+  },
+  {
+    "title": "The Avengers",
+    "image": "/posters/theavengers1.jpg",
+    "description": "Earth’s mightiest heroes team up to stop Loki and an alien invasion."
+  },
+  {
+    "title": "Vertigo",
+    "image": "/posters/vertigo.jpg",
+    "description": "A psychological mystery about obsession, fear and identity."
+  },
+  {
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "image": "/posters/starwars1.jpeg",
+    "description": "The beginning of Anakin Skywalker’s journey in a galaxy far, far away."
+  },
+  {
+    "title": "The Godfather",
+    "image": "/posters/thegodfather.jpg",
+    "description": "A classic mafia film about family, loyalty and power."
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "image": "/posters/thehobbit1.jpg",
+    "description": "Bilbo Baggins is pulled into an unexpected journey with dwarves and a wizard."
+  },
+  {
+    "title": "Jaws",
+    "image": "/posters/jaws.jpg",
+    "description": "A seaside town is terrorized by a giant shark."
+  },
+  {
+    "title": "The Lord Of The Rings: The fellowship Of The Ring",
+    "image": "/posters/thelordoftherings1.jpg",
+    "description": "Frodo begins his quest to destroy the One Ring."
+  },
+  {
+    "title": "The Shining",
+    "image": "/posters/theshining.jpg",
+    "description": "A disturbing horror film about isolation and madness in a haunted hotel."
+  },
+  {
+    "title": "Star Wars: Episode VI – The return of the Jedi",
+    "image": "/posters/starwars6.jpg",
+    "description": "The Rebel Alliance prepares for one final battle against the Empire."
+  },
+  {
+    "title": "Taxi Driver",
+    "image": "/posters/taxidriver.jpg",
+    "description": "A lonely taxi driver slowly loses grip on reality in a dark city."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "image": "/posters/theavengers4.jpg",
+    "description": "The surviving heroes make one final attempt to undo the damage caused by Thanos."
+  },
+  {
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "image": "/posters/starwars3.jpg",
+    "description": "Anakin Skywalker’s fall to the dark side changes the galaxy forever."
+  },
+  {
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "image": "/posters/thehobbit3.png",
+    "description": "The journey ends with a massive battle for the Lonely Mountain."
+  },
+  {
+    "title": "Star Wars: Episode V – The Empire Strikes Back",
+    "image": "/posters/starwars5.jpg",
+    "description": "The Empire strikes back while Luke trains to become a Jedi."
+  },
+  {
+    "title": "The Lord Of The Rings: The Return Of The King",
+    "image": "/posters/thelordoftherings3.jpg",
+    "description": "The final battle for Middle-earth begins while Frodo nears Mount Doom."
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "image": "/posters/theavengers2.jpg",
+    "description": "The Avengers face Ultron, an artificial intelligence that turns against humanity."
+  },
+  {
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "image": "/posters/starwars2.jpg",
+    "description": "Anakin grows older while the Clone Wars begin to rise."
+    
+  },
+  {
+    "title": "Jurassic World",
+    "image": "/posters/jurassicworld.jpg",
+    "description": "A new theme park opens on Isla Nublar, but things quickly go wrong."
+  },
+  {
+    "title": "Ratatouille",
+    "image": "/posters/ratatouille.jpg",
+    "description": "A young rat chef dreams of becoming a great cook in Paris."
+  },
+  {
+    "title": "WALL·E",
+    "image": "/posters/walle.jpg",
+    "description": "A small waste-collecting robot embarks on a space journey that will decide the fate of mankind."
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "image": "/posters/harrypotterazkabam.jpg",
+    "description": "Harry returns for his third year at Hogwarts, where he learns about a dangerous escaped prisoner."
+  },
+  {
+    "title": "Home Alone",
+    "image": "/posters/homealone.jpg",
+    "description": "A young boy is accidentally left home alone and must defend his house from two burglars."
+  },
+  {
+    "title": "The Notebook",
+    "image": "/posters/thenotebook.jpg",
+    "description": "A heartfelt romance about two young lovers whose bond endures across the years despite life pulling them apart."
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "image": "/posters/pirates1.jpg",
+    "description": "A swashbuckling adventure about pirates, curses and treasure."
+  },
+  {
+    "title": "Batman Begins",
+    "image": "/posters/batmanbeginss.jpg",
+    "description": "The origin story of Batman, from his childhood trauma to his fight against crime in Gotham City."
+  },
+  {
+    "title": "Shrek the Third",
+    "image": "/posters/shrek3.jpg",
+    "description": "Shrek must find a new king for Far Far Away while dealing with family and friendship."
+  }
+]
