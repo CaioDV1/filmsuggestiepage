@@ -57,7 +57,7 @@ class FilmComments extends HTMLElement {
   }
 
   getWsUrl() {
-   return 'wss://backendfilmsuggestiepage.onrender.com'
+   return 'wss://filmsuggestiepage.onrender.com'
   }
 
   connectWebSocket() {
