@@ -3,7 +3,7 @@ en de zoekknop, het uitvoeren van de zoekopdracht met een debounce, en het weerg
 wordt aangeroepen in de main.js om de film zoek functionaliteit te activeren */
 
 import movies from '../data/films-basic.json'
-import { addMovieToArchive, fetchArchiveMovies, searchMovies} from './archive-api.js'
+import { addMovieToArchive, fetchArchiveMovies, searchMovies} from './api.js'
 import { refreshScrollAnimations } from './animations.js'
 import { mergeMovies } from './mergemovies.js'
 import { renderMovieSearchEmpty, renderMovieSearchError, renderMovieSearchLoading, renderMovieSearchResults} from './movie-search-weergave.js'
