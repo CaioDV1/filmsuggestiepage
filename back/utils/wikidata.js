@@ -4,17 +4,6 @@
   en worden gecached in een JSON bestand om onnodige verzoeken te voorkomen en de prestaties te 
   verbeteren, deze functies worden gebruikt in de Wikidata router om ervoor te zorgen dat de API 
   endpoints snel en efficiënt kunnen reageren met de details van films uit Wikidata */
-
-
-import fs from 'fs/promises'
-import path from 'path'
-import { fileURLToPath } from 'url'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-
-const CACHE_FILE = path.join(__dirname, '..', 'data', 'wikidata-cache.json')
-const ONE_DAY_MS = 24 * 60 * 60 * 1000
 const BATCH_SIZE = 20
 
 function createEmptyMovieDetails() {
@@ -28,19 +17,6 @@ function createEmptyMovieDetails() {
     languages: [],
     countries: []
   }
-}
-
-async function readCache() {
-  try {
-    const raw = await fs.readFile(CACHE_FILE, 'utf-8')
-    return raw ? JSON.parse(raw) : {}
-  } catch {
-    return {}
-  }
-}
-
-async function writeCache(data) {
-  await fs.writeFile(CACHE_FILE, JSON.stringify(data, null, 2), 'utf-8')
 }
 
 function getQidFromUri(uri) {
@@ -146,35 +122,17 @@ async function fetchBatch(qids) {
 }
 
 export async function fetchManyWikidataFilmDetails(qids) {
-  const cache = await readCache()
   const result = {}
-  const now = Date.now()
+  const cleanQids = [...new Set((qids || []).filter(Boolean))]
 
-  const missing = qids.filter((qid) => {
-    const cached = cache[qid]
-
-    if (cached && now - cached.savedAt < ONE_DAY_MS) {
-      result[qid] = cached.data
-      return false
-    }
-
-    return true
-  })
-
-  for (let i = 0; i < missing.length; i += BATCH_SIZE) {
-    const chunk = missing.slice(i, i + BATCH_SIZE)
+  for (let i = 0; i < cleanQids.length; i += BATCH_SIZE) {
+    const chunk = cleanQids.slice(i, i + BATCH_SIZE)
 
     try {
       const batchData = await fetchBatch(chunk)
 
       chunk.forEach((qid) => {
-        const data = batchData[qid] || createEmptyMovieDetails()
-
-        result[qid] = data
-        cache[qid] = {
-          savedAt: now,
-          data
-        }
+        result[qid] = batchData[qid] || createEmptyMovieDetails()
       })
     } catch (error) {
       console.error('Wikidata batch mislukt voor chunk:', chunk, error)
@@ -185,7 +143,6 @@ export async function fetchManyWikidataFilmDetails(qids) {
     }
   }
 
-  await writeCache(cache)
   return result
 }
 

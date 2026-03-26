@@ -59,6 +59,15 @@
   color: #fff;
 }
 
+
+.film-archive__controls {
+  margin-bottom: 4px;
+}
+
+.film-archive__search {
+  background: rgba(255,255,255,.07);
+}
+
 @media (max-width: 900px) {
   .film-archive__filters {
     grid-template-columns: 1fr;

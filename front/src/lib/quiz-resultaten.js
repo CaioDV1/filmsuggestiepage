@@ -2,44 +2,129 @@
 zoals het filteren van de films op genre, periode en runtime, en het kiezen van de beste matches om aan de gebruiker te tonen, deze
  functies worden gebruikt in de quiz component om de resultaten te berekenen en weer te geven */
 
+ import movies from '../data/films-basic.json'
 import {
-  filterMoviesByPeriod,
-  filterMoviesByQuizGenre,
-  filterMoviesByRuntime,
-  shuffleMovies
-} from './filtermovies.js'
+  addMovieToArchive,
+  fetchArchiveMovies,
+  searchMovies
+} from './api.js'
+import { refreshScrollAnimations } from './animations.js'
+import { mergeMovies } from './mergemovies.js'
 
-export function pickResultsFromPool(pool) {
-  const withPosterFirst = [...pool].sort((a, b) => {
-    const aHasImage = a.image ? 1 : 0
-    const bHasImage = b.image ? 1 : 0
-    return bHasImage - aHasImage
-  })
-
-  return shuffleMovies(withPosterFirst).slice(0, 3)
+function renderLoading(container) {
+  container.innerHTML = '<p>Zoeken...</p>'
 }
 
-export function getQuizResults(items, answers) {
-  const { genre, period, time } = answers
+function renderEmpty(container) {
+  container.innerHTML = '<p>Geen resultaten gevonden.</p>'
+}
 
-  const genreMatches = filterMoviesByQuizGenre(items, genre)
-  const genreAndPeriodMatches = filterMoviesByPeriod(genreMatches, period)
-  const genreAndTimeMatches = filterMoviesByRuntime(genreMatches, time)
-  const exactMatches = filterMoviesByRuntime(genreAndPeriodMatches, time)
+function renderError(container) {
+  container.innerHTML = '<p>Zoeken mislukt.</p>'
+}
 
-  let pool = []
+function renderResults(container, results) {
+  container.innerHTML = results
+    .map(
+      (movie, index) => `
+        <article class="movie-search__result">
+          <p><strong>${movie.title}</strong></p>
+          <p>QID: ${movie.wikidataId}</p>
+          <button class="movie-search__add-button" type="button" data-result-index="${index}">
+            Toevoegen aan archief
+          </button>
+        </article>
+      `
+    )
+    .join('')
+}
 
-  if (exactMatches.length >= 3) {
-    pool = exactMatches
-  } else if (genreAndPeriodMatches.length >= 3) {
-    pool = genreAndPeriodMatches
-  } else if (genreAndTimeMatches.length >= 3) {
-    pool = genreAndTimeMatches
-  } else if (genreMatches.length >= 3) {
-    pool = genreMatches
-  } else {
-    pool = genreMatches.length ? genreMatches : items
+export function initMovieSearch(app, archive, quiz) {
+  const searchInput = app.querySelector('.movie-search__input')
+  const searchButton = app.querySelector('.movie-search__button')
+  const searchResults = app.querySelector('.movie-search__results')
+
+  if (!searchInput || !searchButton || !searchResults) return
+
+  let timer = null
+  let currentResults = []
+
+  async function syncArchiveAndQuiz() {
+    const updatedArchiveMovies = await fetchArchiveMovies()
+    const updatedMergedMovies = mergeMovies(movies, updatedArchiveMovies)
+
+    archive.items = updatedMergedMovies
+    archive.initialize()
+    quiz.setItems(updatedMergedMovies)
   }
 
-  return pickResultsFromPool(pool)
+  async function addMovie(event) {
+    const button = event.target.closest('.movie-search__add-button')
+    if (!button) return
+
+    const index = Number(button.dataset.resultIndex)
+    const selectedMovie = currentResults[index]
+
+    if (!selectedMovie) return
+
+    try {
+      const response = await addMovieToArchive(selectedMovie)
+      alert(response.message)
+      await syncArchiveAndQuiz()
+      searchInput.value = ''
+      searchResults.innerHTML = ''
+      currentResults = []
+      refreshScrollAnimations()
+    } catch (error) {
+      console.error('Film toevoegen mislukt:', error)
+      alert(error.message || 'Kon film niet toevoegen.')
+    }
+  }
+
+  async function runSearch() {
+    const title = searchInput.value.trim()
+
+    if (title.length < 2) {
+      searchResults.innerHTML = ''
+      currentResults = []
+      return
+    }
+
+    renderLoading(searchResults)
+
+    try {
+      const results = await searchMovies(title)
+      currentResults = results
+
+      if (!results.length) {
+        renderEmpty(searchResults)
+        return
+      }
+
+      renderResults(searchResults, results)
+      refreshScrollAnimations()
+    } catch (error) {
+      console.error('Film zoeken mislukt:', error)
+      renderError(searchResults)
+    }
+  }
+
+  function queueSearch() {
+    clearTimeout(timer)
+    timer = setTimeout(runSearch, 450)
+  }
+
+  searchInput.addEventListener('input', queueSearch)
+  searchButton.addEventListener('click', () => {
+    clearTimeout(timer)
+    runSearch()
+  })
+  searchInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+      event.preventDefault()
+      clearTimeout(timer)
+      runSearch()
+    }
+  })
+  searchResults.addEventListener('click', addMovie)
 }

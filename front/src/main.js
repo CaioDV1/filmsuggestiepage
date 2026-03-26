@@ -1,7 +1,3 @@
-/* dit is het hoofd punt van de app, 
-hier worden de componenten geladen en de app geïnitialiseerd
-laad de basisdata, het verbind de delen van de frontend van elkaar */
-
 import './cssmap/base.css'
 import './cssmap/layout.css'
 import './cssmap/components/app-button.css'
@@ -23,13 +19,12 @@ import './components/film-comment.js'
 import './components/film-quiz.js'
 
 import movies from './data/films-basic.json'
-import { fetchArchiveMovies } from './lib/archive-api.js'
+import { enrichMoviesWithWikidata, fetchArchiveMovies } from './lib/api.js'
 import {
   initHoverAnimations,
   initScrollAnimations,
   refreshScrollAnimations
 } from './lib/animations.js'
-import { enrichMoviesWithWikidata } from './lib/enrichmovieswithwikidata.js'
 import { mergeMovies } from './lib/mergemovies.js'
 import { initMovieSearch } from './lib/movie-search.js'
 
@@ -135,13 +130,40 @@ async function initApp() {
     initHoverAnimations()
   })
 
-  archiveLoading?.remove()
-  quizLoading?.remove()
-
-  requestAnimationFrame(() => {
-    refreshScrollAnimations()
-  })
+  try {
+       const moviesToEnrich = mergedMovies.filter((movie) => {
+      const hasGenres = Array.isArray(movie.genres) && movie.genres.length > 0
+      const hasYear = Number(movie.year)
+      return movie.wikidataId && (!hasGenres || !hasYear)
+    })
     
+    if (moviesToEnrich.length) {
+      const enrichedMovies = await enrichMoviesWithWikidata(moviesToEnrich)
+    
+      const enrichedMap = new Map(
+        enrichedMovies.map((movie) => [movie.wikidataId, movie])
+      )
+    
+      const updatedMovies = mergedMovies.map((movie) => {
+        if (!movie.wikidataId) return movie
+        return enrichedMap.get(movie.wikidataId) || movie
+      })
+    
+      archive.items = updatedMovies
+      archive.initialize()
+    
+      quiz.setItems(updatedMovies)
+    }
+  } catch (error) {
+    console.error('Achtergrondverrijking via backend mislukt:', error)
+  } finally {
+    archiveLoading?.remove()
+    quizLoading?.remove()
+
+    requestAnimationFrame(() => {
+      refreshScrollAnimations()
+    })
+  }
 }
 
 initApp()

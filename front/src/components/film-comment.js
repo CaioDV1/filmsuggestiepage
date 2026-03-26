@@ -5,7 +5,7 @@ import {
   fetchCommentsByQid,
   getFilmQid,
   postCommentByQid
-} from "../lib/comments-api.js"
+} from "../lib/api.js"
 
 class FilmComments extends HTMLElement {
   constructor() {

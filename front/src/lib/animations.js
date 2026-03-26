@@ -2,237 +2,110 @@
 hover animaties en quiz animaties */
 
 import { gsap } from 'gsap'
-import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
-gsap.registerPlugin(ScrollTrigger)
-
-let hoverEventsInitialized = false
-
-function isRealHoverChange(element, relatedTarget) {
-  return element && (!relatedTarget || !element.contains(relatedTarget))
-}
-
-function getHoverButton(event) {
-  return (
-    event.target.closest('app-button .app-button') ||
-    event.target.closest('.movie-search__button') ||
-    event.target.closest('.movie-search__add-button')
-  )
-}
+let hoverIsReady = false
 
 export function initScrollAnimations(root = document) {
   const sections = root.querySelectorAll('.films-section')
 
-  sections.forEach((section) => {
-    if (section.dataset.gsapAnimated === 'true') return
+  sections.forEach((section, index) => {
+    if (section.dataset.animated === '1') return
 
-    section.dataset.gsapAnimated = 'true'
+    section.dataset.animated = '1'
 
     gsap.fromTo(
       section,
       {
-        autoAlpha: 0,
-        y: 40
+        opacity: 0,
+        y: 30
       },
       {
-        autoAlpha: 1,
+        opacity: 1,
         y: 0,
-        duration: 0.7,
-        ease: 'power2.out',
-        scrollTrigger: {
-          trigger: section,
-          start: 'top 88%',
-          toggleActions: 'play none none none',
-          once: true,
-          invalidateOnRefresh: true
-        }
+        duration: 0.45,
+        delay: index * 0.04
       }
     )
   })
-
-  ScrollTrigger.refresh()
 }
 
 export function refreshScrollAnimations() {
-  ScrollTrigger.refresh()
+  initScrollAnimations()
 }
 
 export function initHoverAnimations(root = document) {
-  if (hoverEventsInitialized) return
-
-  hoverEventsInitialized = true
+  if (hoverIsReady) return
+  hoverIsReady = true
 
   root.addEventListener('mouseover', (event) => {
     const card = event.target.closest('.simple-poster-card')
-
-    if (card && isRealHoverChange(card, event.relatedTarget)) {
-      gsap.to(card, {
-        y: -6,
-        duration: 0.2,
-        ease: 'power2.out',
-        overwrite: 'auto'
-      })
-    }
-
-    const uiButton = getHoverButton(event)
-
-    if (uiButton && isRealHoverChange(uiButton, event.relatedTarget)) {
-      gsap.to(uiButton, {
-        y: -2,
-        duration: 0.2,
-        ease: 'power2.out',
-        overwrite: 'auto'
-      })
-    }
-
+    const button = event.target.closest('app-button .app-button, .movie-search__button, .movie-search__add-button')
     const star = event.target.closest('.film-chat__star')
 
-    if (
-      star &&
-      isRealHoverChange(star, event.relatedTarget) &&
-      !star.classList.contains('is-active')
-    ) {
-      gsap.to(star, {
-        y: -2,
-        scale: 1.08,
-        duration: 0.15,
-        ease: 'power1.out',
-        overwrite: 'auto'
-      })
+    if (card) {
+      gsap.to(card, { y: -4, duration: 0.15 })
+    }
+
+    if (button) {
+      gsap.to(button, { y: -2, duration: 0.15 })
+    }
+
+    if (star && !star.classList.contains('is-active')) {
+      gsap.to(star, { y: -1, duration: 0.1 })
     }
   })
 
   root.addEventListener('mouseout', (event) => {
     const card = event.target.closest('.simple-poster-card')
-
-    if (card && isRealHoverChange(card, event.relatedTarget)) {
-      gsap.to(card, {
-        y: 0,
-        duration: 0.2,
-        ease: 'power2.out',
-        overwrite: 'auto'
-      })
-    }
-
-    const uiButton = getHoverButton(event)
-
-    if (uiButton && isRealHoverChange(uiButton, event.relatedTarget)) {
-      gsap.to(uiButton, {
-        y: 0,
-        duration: 0.2,
-        ease: 'power2.out',
-        overwrite: 'auto'
-      })
-    }
-
+    const button = event.target.closest('app-button .app-button, .movie-search__button, .movie-search__add-button')
     const star = event.target.closest('.film-chat__star')
 
-    if (
-      star &&
-      isRealHoverChange(star, event.relatedTarget) &&
-      !star.classList.contains('is-active')
-    ) {
-      gsap.to(star, {
-        y: 0,
-        scale: 1,
-        duration: 0.15,
-        ease: 'power1.out',
-        overwrite: 'auto'
-      })
+    if (card) {
+      gsap.to(card, { y: 0, duration: 0.15 })
+    }
+
+    if (button) {
+      gsap.to(button, { y: 0, duration: 0.15 })
+    }
+
+    if (star && !star.classList.contains('is-active')) {
+      gsap.to(star, { y: 0, duration: 0.1 })
     }
   })
 }
 
 export function animateLikeButton(button) {
-  gsap.fromTo(
-    button,
-    { scale: 1 },
-    {
-      scale: 1.15,
-      duration: 0.12,
-      yoyo: true,
-      repeat: 1,
-      ease: 'power1.out'
-    }
-  )
+  gsap.fromTo(button, { scale: 1 }, { scale: 1.08, duration: 0.12, repeat: 1, yoyo: true })
 }
 
 export function animateDetailOpen(element) {
-  gsap.fromTo(
-    element,
-    { opacity: 0, y: 24 },
-    { opacity: 1, y: 0, duration: 0.35, ease: 'power2.out' }
-  )
+  gsap.fromTo(element, { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: 0.25 })
 }
 
 export function animateAverageStarsGlow(root) {
   if (!root) return
 
   const stars = root.querySelectorAll('.punt--filled')
+
   if (!stars.length) return
 
-  gsap.killTweensOf(stars)
-
-  gsap.set(stars, {
-    transformOrigin: '50% 50%',
-    transformBox: 'fill-box'
-  })
-
   gsap.to(stars, {
-    scale: 1.15,
-    fill: '#ffd700',
-    duration: 0.8,
+    opacity: 0.7,
+    duration: 0.6,
     repeat: -1,
     yoyo: true,
-    stagger: 0.08,
-    ease: 'power1.inOut'
+    stagger: 0.05
   })
 }
 
 export function animateQuizCardIn(element) {
   if (!element) return
-
-  gsap.killTweensOf(element)
-
-  gsap.fromTo(
-    element,
-    {
-      opacity: 0,
-      y: 24,
-      scale: 0.985
-    },
-    {
-      opacity: 1,
-      y: 0,
-      scale: 1,
-      duration: 0.45,
-      ease: 'power2.out',
-      overwrite: 'auto'
-    }
-  )
+  gsap.fromTo(element, { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.25 })
 }
 
 export function animateQuizOptionsIn(elements) {
   if (!elements || !elements.length) return
-
-  gsap.killTweensOf(elements)
-
-  gsap.fromTo(
-    elements,
-    {
-      opacity: 0,
-      y: 16
-    },
-    {
-      opacity: 1,
-      y: 0,
-      duration: 0.35,
-      stagger: 0.08,
-      ease: 'power2.out',
-      overwrite: 'auto',
-      delay: 0.08
-    }
-  )
+  gsap.fromTo(elements, { opacity: 0 }, { opacity: 1, duration: 0.2, stagger: 0.05 })
 }
 
 export function animateQuizSelectedOption(element, onComplete) {
@@ -241,15 +114,11 @@ export function animateQuizSelectedOption(element, onComplete) {
     return
   }
 
-  gsap.killTweensOf(element)
-
   gsap.to(element, {
-    scale: 1.05,
-    duration: 0.14,
-    yoyo: true,
+    scale: 1.03,
+    duration: 0.1,
     repeat: 1,
-    ease: 'power2.out',
-    overwrite: 'auto',
+    yoyo: true,
     onComplete
   })
 }
@@ -260,83 +129,27 @@ export function animateQuizQuestionOut(element, onComplete) {
     return
   }
 
-  gsap.killTweensOf(element)
-
   gsap.to(element, {
     opacity: 0,
-    x: -28,
-    duration: 0.24,
-    ease: 'power2.in',
-    overwrite: 'auto',
+    y: -8,
+    duration: 0.18,
     onComplete
   })
 }
 
 export function animateQuizResultsIn(elements) {
   if (!elements || !elements.length) return
-
-  gsap.killTweensOf(elements)
-
-  gsap.fromTo(
-    elements,
-    {
-      opacity: 0,
-      y: 28,
-      scale: 0.97
-    },
-    {
-      opacity: 1,
-      y: 0,
-      scale: 1,
-      duration: 0.45,
-      stagger: 0.12,
-      ease: 'power2.out',
-      overwrite: 'auto'
-    }
-  )
+  gsap.fromTo(elements, { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.22, stagger: 0.06 })
 }
 
 export function animateQuizDetailIn(element) {
   if (!element) return
-
-  gsap.killTweensOf(element)
-
-  gsap.fromTo(
-    element,
-    {
-      opacity: 0,
-      y: 20
-    },
-    {
-      opacity: 1,
-      y: 0,
-      duration: 0.4,
-      ease: 'power2.out',
-      overwrite: 'auto',
-      delay: 0.08
-    }
-  )
+  gsap.fromTo(element, { opacity: 0 }, { opacity: 1, duration: 0.2 })
 }
 
 export function animateQuizResultSelection(element) {
   if (!element) return
-
-  gsap.killTweensOf(element)
-
-  gsap.fromTo(
-    element,
-    {
-      scale: 0.98
-    },
-    {
-      scale: 1.03,
-      duration: 0.16,
-      yoyo: true,
-      repeat: 1,
-      ease: 'power2.out',
-      overwrite: 'auto'
-    }
-  )
+  gsap.fromTo(element, { scale: 0.99 }, { scale: 1.02, duration: 0.12, repeat: 1, yoyo: true })
 }
 
 export function animateQuizResetOut(element, onComplete) {
@@ -345,14 +158,9 @@ export function animateQuizResetOut(element, onComplete) {
     return
   }
 
-  gsap.killTweensOf(element)
-
   gsap.to(element, {
     opacity: 0,
-    y: 18,
-    duration: 0.22,
-    ease: 'power2.in',
-    overwrite: 'auto',
+    duration: 0.15,
     onComplete
   })
 }

@@ -32,6 +32,20 @@
   border-radius: 999px;
 }
 
+
+.film-detail-card {
+  box-shadow: 0 0 0 1px rgba(255,255,255,.03);
+}
+
+.extra-info-box h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.like-button {
+  margin-top: 3px;
+}
+
 @media (max-width: 1200px) {
   .film-browser__poster-scroll {
     grid-template-columns: repeat(4, 1fr);

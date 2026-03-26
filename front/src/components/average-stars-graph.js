@@ -3,7 +3,7 @@ als een grafiek met d3 , het is een herimporteerbaar component */
 
 import { select, scaleLinear, symbol, symbolStar } from 'd3'
 import { animateAverageStarsGlow } from '../lib/animations.js'
-import { getJson } from '../lib/api-opvragingen.js'
+import { fetchCommentsByQid } from '../lib/api.js'
 
 class AverageStarsGraph extends HTMLElement {
   constructor() {
@@ -53,7 +53,7 @@ class AverageStarsGraph extends HTMLElement {
     }
 
     try {
-      const data = await getJson(`/comments/${qid}`, 'Kon comments niet ophalen.')
+      const data = await fetchCommentsByQid(qid)
       this.averageStars = Number(data.averageStars) || 0
     } catch (error) {
       console.error('Kon gemiddelde sterren niet ophalen:', error)

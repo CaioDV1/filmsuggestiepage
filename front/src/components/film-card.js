@@ -4,9 +4,10 @@ in poster modus worden alleen de poster en titel weergegeven in detail modus wor
 het is een herimporteerbaar component dat op meerdere plekken in de app word gebruikt */
 
 import { animateLikeButton } from '../lib/animations.js'
-import { fetchWikidataFilmDetails } from '../lib/fetchWikidatafilmdetails.js'
+import { fetchWikidataFilmDetails } from '../lib/api.js'
 import { buildDetailData, hasEnoughDetailData } from '../lib/film-details-data.js'
 import { getStoredLikes, saveStoredLikes } from '../lib/likes-opslag.js'
+
 
 class FilmCard extends HTMLElement {
   constructor() {
